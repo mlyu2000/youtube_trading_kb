@@ -1,0 +1,6 @@
+[
+  {"video_id": "Rqmdw4xyIMM", "query": "scalping entry patterns", "expected_patterns": ["30-min opening range", "5-min candlestick"]},
+  {"video_id": "_cQnMSU5yGk", "query": "scalping entry patterns", "expected_patterns": ["Scalp setup", "High-momentum"]},
+  {"video_id": "WXBxLHdYFi8", "query": "VWAP setups", "expected_patterns": ["VWAP retest"]},
+  {"video_id": "45eaVU5NVi8", "query": "day trading setups", "expected_patterns": ["breakout", "reversal"]}
+]

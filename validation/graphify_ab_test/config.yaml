@@ -1,0 +1,27 @@
+backend:
+  - name: neo4j
+    type: graph
+    connection:
+      uri: bolt://neo4j:7687
+      user: neo4j
+      password: temporal123
+    embedding_model: sentence-transformers/all-MiniLM-L6-v2
+    embedding_dim: 384
+  - name: graphify-rs
+    type: graph
+    connection:
+      host: graphify-rs
+      port: 8080
+    embedding_model: sentence-transformers/all-MiniLM-L6-v2
+    embedding_dim: 384
+retrieval:
+  top_k: 5
+  rerank: true
+  rerank_threshold: 0.7
+evaluation:
+  metrics:
+    - precision
+    - recall
+    - mrr
+    - ndcg
+  test_set: ./test_strategies.json
