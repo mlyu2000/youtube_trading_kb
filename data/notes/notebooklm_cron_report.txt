@@ -1,0 +1,39 @@
+=== Cron Job Report: Re-exporting Chrome cookies for NotebookLM ===
+Timestamp: 2026-05-04T00:10:05.891409+00:00 (UTC)
+Job scheduled: Every 12 hours
+
+=== Findings ===
+1. Existing storage: /home/ml/.notebooklm/profiles/default/storage_state.json
+   - Contains 61 cookies
+   - SID cookies: 4 (from .google.com, .google.com.hk, .google.com.sg)
+   - Last modified: 2026-05-03 05:41:28 UTC
+
+2. Chrome for Testing cookies:
+   - Location: /home/ml/.config/google-chrome-for-testing/Default/Cookies
+   - Google-related cookies found in current Chrome: 0
+   - SID cookies in Chrome: 0
+
+3. Reason for skip:
+   - Chrome for Testing is configured for Microsoft/Azure services, not Google
+   - No Google authentication cookies (SID, APISID, etc.) present in Chrome DB
+   - Existing storage has valid cookies from a previous authentication session
+
+4. Authentication verification:
+   - Storage file: Valid JSON structure
+   - Required cookies: SID present
+   - Token fetch: Successful
+   - Result: AUTH_VALID
+
+=== Actions Taken ===
+- Checked existing storage_state.json: VALID
+- Checked Chrome for Google auth cookies: NONE found
+- Skipped cookie re-export (Chrome has no Google cookies to export)
+- Verified existing authentication: PASSED
+- Copied existing storage to /tmp/nb_cookies.json for reference
+
+=== Recommendation ===
+The current storage_state.json is valid and functional. 
+To re-export cookies, log into Google services in Chrome for Testing first.
+Then run: notebooklm login --browser-cookies chrome
+
+=== End of Report ===
