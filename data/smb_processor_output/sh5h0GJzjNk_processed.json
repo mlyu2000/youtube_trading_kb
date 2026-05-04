@@ -1,0 +1,1670 @@
+{
+  "video_id": "sh5h0GJzjNk",
+  "status": "completed",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5600000000000005,
+      "text": " Every morning before the market opens, I used to spend about an hour doing the same thing."
+    },
+    {
+      "start": 4.5600000000000005,
+      "end": 11.120000000000001,
+      "text": " Opening a stack of research emails and newsletters, trying to piece together what actually mattered for the trading day."
+    },
+    {
+      "start": 11.120000000000001,
+      "end": 17.8,
+      "text": " The information was good, but it was scattered, and by the time I'd fully synthesized it, the market was about to open."
+    },
+    {
+      "start": 17.8,
+      "end": 20.56,
+      "text": " So I built a system that does it for me."
+    },
+    {
+      "start": 20.56,
+      "end": 29.84,
+      "text": " Now, every weekday morning, before 8.30am, an AI workflow reads my market research emails, pulls out everything that matters."
+    },
+    {
+      "start": 29.84,
+      "end": 42.24,
+      "text": " Macro context, economic data, stocks in play, key themes, and generates a structured trading briefing, along with a full dash forward that I could scan in just a few minutes."
+    },
+    {
+      "start": 42.24,
+      "end": 50.0,
+      "text": " In this video, I'm going to show you exactly how it works and how you could build your own version, even if you have zero coding background."
+    },
+    {
+      "start": 50.0,
+      "end": 53.760000000000005,
+      "text": " I built this myself, and I'm certainly not a developer."
+    },
+    {
+      "start": 53.839999999999996,
+      "end": 56.48,
+      "text": " Let me show you what this actually looks like."
+    },
+    {
+      "start": 56.48,
+      "end": 61.599999999999994,
+      "text": " This is the daily market rundown the system generates every morning before the open."
+    },
+    {
+      "start": 61.599999999999994,
+      "end": 65.44,
+      "text": " At the top, there's a quick market snapshot."
+    },
+    {
+      "start": 65.44,
+      "end": 69.75999999999999,
+      "text": " This gives me the key macro setup for the day in just a few sentences."
+    },
+    {
+      "start": 69.75999999999999,
+      "end": 74.8,
+      "text": " For example, it highlights the current Fed stance, the most important economic data,"
+    },
+    {
+      "start": 74.8,
+      "end": 81.92,
+      "text": " being released that morning in any major geopolitical developments that could influence markets."
+    },
+    {
+      "start": 81.92,
+      "end": 84.96000000000001,
+      "text": " Below that is the macro tone section."
+    },
+    {
+      "start": 84.96000000000001,
+      "end": 93.92,
+      "text": " This summarizes the most important developments driving the market so I can quickly understand the bigger picture heading into the trading day."
+    },
+    {
+      "start": 93.92,
+      "end": 97.2,
+      "text": " It also expands on the key overnight developments."
+    },
+    {
+      "start": 97.2,
+      "end": 104.4,
+      "text": " That includes things like geopolitical events, commodity moves, or changes in investor sentiment."
+    },
+    {
+      "start": 104.4,
+      "end": 106.88,
+      "text": " Next is the economic calendar."
+    },
+    {
+      "start": 106.96,
+      "end": 111.03999999999999,
+      "text": " This highlights the key economic data releases scheduled for the day."
+    },
+    {
+      "start": 111.03999999999999,
+      "end": 117.84,
+      "text": " For each report, it shows the time of the release, the type of event, the prior number, the current estimate,"
+    },
+    {
+      "start": 117.84,
+      "end": 121.36,
+      "text": " and a label indicating the importance of the release."
+    },
+    {
+      "start": 121.36,
+      "end": 127.52,
+      "text": " This makes it easy to quickly identify which reports are most likely to create volatility"
+    },
+    {
+      "start": 127.52,
+      "end": 130.8,
+      "text": " and exactly when they're scheduled to hit the market."
+    },
+    {
+      "start": 130.8,
+      "end": 135.28,
+      "text": " The rundown also highlights the key earnings reports for the day."
+    },
+    {
+      "start": 135.28,
+      "end": 139.52,
+      "text": " These are companies reporting either before the open or after the close."
+    },
+    {
+      "start": 139.52,
+      "end": 144.16,
+      "text": " Earnings are one of the biggest drivers of individual stock volatility."
+    },
+    {
+      "start": 144.16,
+      "end": 150.08,
+      "text": " Having them clearly listed helps me quickly identify potential trading opportunities."
+    },
+    {
+      "start": 150.08,
+      "end": 155.2,
+      "text": " There's also a section highlighting other important events happening during the day."
+    },
+    {
+      "start": 155.2,
+      "end": 160.4,
+      "text": " This includes things like economic releases, earnings calls, conferences,"
+    },
+    {
+      "start": 160.48000000000002,
+      "end": 165.28,
+      "text": " or other scheduled catalysts that could influence market activity."
+    },
+    {
+      "start": 165.28,
+      "end": 167.84,
+      "text": " Next is the top mover section."
+    },
+    {
+      "start": 167.84,
+      "end": 174.24,
+      "text": " This is where the system identifies the stocks most likely to be active during the trading session."
+    },
+    {
+      "start": 174.24,
+      "end": 180.48000000000002,
+      "text": " The AI reads through my morning research emails, looks for companies with meaningful catalysts,"
+    },
+    {
+      "start": 180.48000000000002,
+      "end": 185.20000000000002,
+      "text": " things like earnings releases, analysts upgrades or downgrades, guidance changes,"
+    },
+    {
+      "start": 185.20000000000002,
+      "end": 188.56,
+      "text": " or other significant news."
+    },
+    {
+      "start": 188.56,
+      "end": 193.12,
+      "text": " For each name, it lists the ticker, the direction of the move,"
+    },
+    {
+      "start": 193.12,
+      "end": 200.32,
+      "text": " the catalyst behind the news, and a short explanation of why that stock could see volatility during the day."
+    },
+    {
+      "start": 201.36,
+      "end": 204.64000000000001,
+      "text": " Instead of manually scanning multiple research sources,"
+    },
+    {
+      "start": 204.64000000000001,
+      "end": 208.72,
+      "text": " the system consolidates the most important catalysts into one place."
+    },
+    {
+      "start": 210.4,
+      "end": 212.72,
+      "text": " Next is the research theme section."
+    },
+    {
+      "start": 212.72,
+      "end": 217.68,
+      "text": " This is where the system pulls together the broader narratives developing in the market."
+    },
+    {
+      "start": 217.68,
+      "end": 222.96,
+      "text": " As the AI reads through the research, it looks for themes that can connect multiple stocks"
+    },
+    {
+      "start": 222.96,
+      "end": 229.68,
+      "text": " or sectors. This could include things like AI infrastructure spending, shifts happening in software,"
+    },
+    {
+      "start": 229.68,
+      "end": 233.28,
+      "text": " energy developments, or changes in consumer behavior."
+    },
+    {
+      "start": 234.08,
+      "end": 240.64000000000001,
+      "text": " Instead of just looking at individual tickers, this helps identify the bigger forces driving the market."
+    },
+    {
+      "start": 242.08,
+      "end": 247.36,
+      "text": " That context can be extremely useful when you're thinking about sector level opportunities"
+    },
+    {
+      "start": 247.68,
+      "end": 251.36,
+      "text": " or understanding why certain groups of stocks are moving together."
+    },
+    {
+      "start": 252.4,
+      "end": 258.56,
+      "text": " Next is the secondary name section. This shows additional tickers that appeared in the"
+    },
+    {
+      "start": 258.56,
+      "end": 265.12,
+      "text": " morning research along with their associated news. For each name, the system lists the ticker,"
+    },
+    {
+      "start": 265.12,
+      "end": 270.24,
+      "text": " potential direction of the move, and a short note describing the catalyst behind the news."
+    },
+    {
+      "start": 271.28000000000003,
+      "end": 276.24,
+      "text": " These may not be the primary focus of the trading session, but they still represent stocks with"
+    },
+    {
+      "start": 276.24,
+      "end": 281.68,
+      "text": " developments worth keeping on the radar. Having them organize here makes it easy to quickly scan"
+    },
+    {
+      "start": 281.68,
+      "end": 287.04,
+      "text": " for additional opportunities that might develop during the day. And if one of these names pops up"
+    },
+    {
+      "start": 287.04,
+      "end": 294.24,
+      "text": " on a scan or later in the session, I could come back here, take control of, and quickly see why that"
+    },
+    {
+      "start": 294.24,
+      "end": 300.40000000000003,
+      "text": " stock might be moving. And finally, we have the week ahead section. This highlights the major"
+    },
+    {
+      "start": 300.4,
+      "end": 305.91999999999996,
+      "text": " events and catalysts coming up over the next several days. That can include things like key"
+    },
+    {
+      "start": 305.91999999999996,
+      "end": 312.32,
+      "text": " economic reports, important earnings releases, policy announcements, or other events that could"
+    },
+    {
+      "start": 312.32,
+      "end": 318.32,
+      "text": " impact the market. Having these laid out in advance helps me anticipate potential volatility"
+    },
+    {
+      "start": 318.32,
+      "end": 325.03999999999996,
+      "text": " and plan ahead for upcoming trading opportunities. The goal of this entire rundown is simple."
+    },
+    {
+      "start": 325.04,
+      "end": 330.64000000000004,
+      "text": " To compress everything I need to know before the open into something I could scan in just a few"
+    },
+    {
+      "start": 330.64000000000004,
+      "end": 337.84000000000003,
+      "text": " minutes. Now let me show you how this system actually runs. This workflow runs inside Claude's"
+    },
+    {
+      "start": 337.84000000000003,
+      "end": 345.84000000000003,
+      "text": " co-work environment. Here you can see the daily market rundown task. The task is scheduled to run"
+    },
+    {
+      "start": 346.72,
+      "end": 354.88,
+      "text": " weekdays at 8 a.m. for the market opens. Right now it's active and you can see the next scheduled"
+    },
+    {
+      "start": 354.88,
+      "end": 362.71999999999997,
+      "text": " runtime here. Below that, this is the run history. This shows each time the system has executed the"
+    },
+    {
+      "start": 362.71999999999997,
+      "end": 370.0,
+      "text": " workflow. Every time it runs, the system reads the morning research emails, generates the"
+    },
+    {
+      "start": 370.0,
+      "end": 378.56,
+      "text": " markdown briefing, or MD file, which is like a word document, and then updates the dashboard automatically."
+    },
+    {
+      "start": 378.64,
+      "end": 390.96,
+      "text": " So if we click on one of those entries in the history, you'll see co-work, you'll see the morning"
+    },
+    {
+      "start": 390.96,
+      "end": 402.08,
+      "text": " rundown, the MD file, the app that it updated. The key thing here is this runs fully unattended."
+    },
+    {
+      "start": 402.08,
+      "end": 407.44,
+      "text": " I'm not manually triggering anything each morning. The only time we have to manually trigger"
+    },
+    {
+      "start": 408.24,
+      "end": 414.48,
+      "text": " is if Claude has an update and we need to approve access to a folder where the project lives"
+    },
+    {
+      "start": 414.48,
+      "end": 419.52,
+      "text": " which we'll get into. Instead of spending time reading through multiple research emails and"
+    },
+    {
+      "start": 419.52,
+      "end": 426.96,
+      "text": " organizing the information myself, the system does that first pass automatically before the market"
+    },
+    {
+      "start": 426.96,
+      "end": 432.88,
+      "text": " opens. Now let me show you how you could build a simplified version of this workflow yourself."
+    },
+    {
+      "start": 433.6,
+      "end": 439.04,
+      "text": " The first step is creating a project folder where Claude could store the files it generates."
+    },
+    {
+      "start": 439.84,
+      "end": 446.24,
+      "text": " On a Mac, I'll open Finder, go to the documents folder, and create a new folder for the project."
+    },
+    {
+      "start": 446.24,
+      "end": 452.24,
+      "text": " If you're on Windows, you would do the same thing using File Explorer and create the folder inside"
+    },
+    {
+      "start": 452.24,
+      "end": 459.44,
+      "text": " your documents directory. I'm going to create a folder called Market Rundown Demo. This folder will"
+    },
+    {
+      "start": 459.44,
+      "end": 474.96,
+      "text": " become the working directory for the project. Now that the project folder is created, we need to"
+    },
+    {
+      "start": 474.96,
+      "end": 482.56,
+      "text": " tell Claude to work inside that directory. This allows Claude to create and update the files"
+    },
+    {
+      "start": 482.56,
+      "end": 491.12,
+      "text": " for that project inside that folder. So we'll start a new task, we'll select Work in a project,"
+    },
+    {
+      "start": 495.12,
+      "end": 500.16,
+      "text": " choose a different folder, and we'll open the Market Rundown Demo folder."
+    },
+    {
+      "start": 502.32,
+      "end": 509.6,
+      "text": " Allow Claude to change files in Market Rundown Demo. Always allow. The system also needs access to"
+    },
+    {
+      "start": 509.6,
+      "end": 515.9200000000001,
+      "text": " the email sources that contain the morning research. To do that, you'll need to configure the"
+    },
+    {
+      "start": 515.9200000000001,
+      "end": 522.72,
+      "text": " official Gmail connector inside Claude. Once that connector is enabled, Claude could read the"
+    },
+    {
+      "start": 522.72,
+      "end": 529.9200000000001,
+      "text": " research emails that come into your inbox each morning and extract the key information needed"
+    },
+    {
+      "start": 529.9200000000001,
+      "end": 538.96,
+      "text": " to generate the rundown. So we go to Settings, Connectors, and you would see Gmail."
+    },
+    {
+      "start": 540.5600000000001,
+      "end": 547.0400000000001,
+      "text": " Mine's already configured. And once that Google connector is configured and Claude knows where"
+    },
+    {
+      "start": 547.0400000000001,
+      "end": 553.44,
+      "text": " the project folder is located, now we're ready to start having fun in building the workflow."
+    },
+    {
+      "start": 553.44,
+      "end": 560.5600000000001,
+      "text": " The first step is defining the structure of the daily market rundown. AI works much more reliably"
+    },
+    {
+      "start": 560.5600000000001,
+      "end": 567.6,
+      "text": " when you give it a clear framework to organize information that you want. So before we ask Claude"
+    },
+    {
+      "start": 567.6,
+      "end": 573.36,
+      "text": " to generate the rundown, we first define the structure we want it to follow each day. In this case,"
+    },
+    {
+      "start": 573.36,
+      "end": 580.48,
+      "text": " we're creating sections for the key information traders care about the most. Things like macro context,"
+    },
+    {
+      "start": 580.48,
+      "end": 587.0400000000001,
+      "text": " economic data, earnings, stocks in play, border market themes, and upcoming events. Once that structure"
+    },
+    {
+      "start": 587.0400000000001,
+      "end": 593.28,
+      "text": " is defined, Claude can use it as the template for generating the daily rundown. So I'm going to"
+    },
+    {
+      "start": 593.28,
+      "end": 599.1999999999999,
+      "text": " prompt Claude and I'm going to say I want to build a daily market rundown workflow for traders."
+    },
+    {
+      "start": 599.1999999999999,
+      "end": 606.8,
+      "text": " The workflow should read morning market research emails, extract the most important information,"
+    },
+    {
+      "start": 606.8,
+      "end": 613.36,
+      "text": " organize it into a structured daily briefing. The briefing should prioritize the information"
+    },
+    {
+      "start": 613.36,
+      "end": 619.76,
+      "text": " traders care about the most, including macro context, economic calendar, earnings reports,"
+    },
+    {
+      "start": 619.76,
+      "end": 626.08,
+      "text": " top movers with catalysts, border market themes, secondary names of fresh news, and week ahead"
+    },
+    {
+      "start": 626.08,
+      "end": 633.28,
+      "text": " events. And we'll hit enter. So we want to start by defining the ideal structure for this rundown"
+    },
+    {
+      "start": 633.28,
+      "end": 640.8,
+      "text": " as a clean, markdown outline that could be used every day. So Claude's working hard,"
+    },
+    {
+      "start": 641.84,
+      "end": 649.4399999999999,
+      "text": " scanning through my emails, and it's generating a rundown file. You can see the"
+    },
+    {
+      "start": 649.44,
+      "end": 657.2800000000001,
+      "text": " progress as it's going through the list of tasks that it needs to do. It's jumping ahead a little"
+    },
+    {
+      "start": 657.2800000000001,
+      "end": 667.2800000000001,
+      "text": " bit and it's asking me to schedule a task. We're not going to do that just yet. Okay, Claude ran"
+    },
+    {
+      "start": 667.2800000000001,
+      "end": 675.7600000000001,
+      "text": " right into my email right away and filled out the structure that we asked it to. Normally,"
+    },
+    {
+      "start": 676.48,
+      "end": 684.56,
+      "text": " the next step, it skipped a step, but normally the next step would be to say, hey, now that we have"
+    },
+    {
+      "start": 684.56,
+      "end": 691.68,
+      "text": " the structure, we could ask Claude to generate today's market rundown from the research emails."
+    },
+    {
+      "start": 691.68,
+      "end": 699.04,
+      "text": " But it did all of that in one step. So the next prompt would have been, now that we have the structure,"
+    },
+    {
+      "start": 700.0,
+      "end": 703.6,
+      "text": " we could ask Claude to generate today's market rundown from the research emails,"
+    },
+    {
+      "start": 704.24,
+      "end": 710.24,
+      "text": " read the market research emails that arrived today in my inbox between 5 a.m. and 8 30 a.m."
+    },
+    {
+      "start": 711.2,
+      "end": 717.6800000000001,
+      "text": " Only use information from those email sources. Use the structure that we created with the first"
+    },
+    {
+      "start": 717.6800000000001,
+      "end": 725.6,
+      "text": " prompt and generate today's daily market rundown as a markdown briefing, which it already done."
+    },
+    {
+      "start": 725.6,
+      "end": 731.9200000000001,
+      "text": " And it's listed here in the working folder, daily market rundown, April 10th. We just"
+    },
+    {
+      "start": 731.92,
+      "end": 738.3199999999999,
+      "text": " reminded of some requirements. Summarize the information rather than quoting emails directly,"
+    },
+    {
+      "start": 738.3199999999999,
+      "end": 744.16,
+      "text": " extract the most important macro developments, identify key economic events for the day,"
+    },
+    {
+      "start": 744.16,
+      "end": 748.7199999999999,
+      "text": " highlight notable earnings reports, identify the most important stocks in play,"
+    },
+    {
+      "start": 749.4399999999999,
+      "end": 755.76,
+      "text": " for stocks in play, focus on names with clear catalysts, briefly explain why the stock can move"
+    },
+    {
+      "start": 756.56,
+      "end": 761.36,
+      "text": " today. Prioritize stocks likely to see meaningful intraday volatility."
+    },
+    {
+      "start": 762.08,
+      "end": 769.36,
+      "text": " Also include broader market themes, secondary names with fresh news, key events later in the week."
+    },
+    {
+      "start": 769.36,
+      "end": 775.36,
+      "text": " Yelput should be a clean markdown briefing that a trader could quickly scan before the open."
+    },
+    {
+      "start": 776.3199999999999,
+      "end": 782.8,
+      "text": " So Claude ran away a little bit and we do not have to enter in this step two."
+    },
+    {
+      "start": 782.8,
+      "end": 788.7199999999999,
+      "text": " It already went into my email and generated the daily market rundown."
+    },
+    {
+      "start": 788.7199999999999,
+      "end": 795.5999999999999,
+      "text": " So let's click on that and check it out. All right, and let's see the markdown file that Claude created."
+    },
+    {
+      "start": 796.56,
+      "end": 808.0,
+      "text": " Macro context, economic calendar, earnings reports and previews, top movers,"
+    },
+    {
+      "start": 808.96,
+      "end": 819.68,
+      "text": " broader market themes, secondary names, week ahead. All right, so now that Claude has generated"
+    },
+    {
+      "start": 819.68,
+      "end": 825.6,
+      "text": " the markdown briefing, the final step is turning it into a dashboard that's easier to scan each"
+    },
+    {
+      "start": 825.6,
+      "end": 832.32,
+      "text": " morning. The markdown or MD file is simply a lightweight text format that Claude generates,"
+    },
+    {
+      "start": 832.32,
+      "end": 839.2800000000001,
+      "text": " that we're using as the structured source document for the rundown. Now we're going to tell Claude"
+    },
+    {
+      "start": 839.9200000000001,
+      "end": 847.0400000000001,
+      "text": " using the markdown daily market rundown we just generated create a simple HTML dashboard"
+    },
+    {
+      "start": 847.0400000000001,
+      "end": 852.32,
+      "text": " that a trader could view in browser requirements, dark theme, clean layout,"
+    },
+    {
+      "start": 852.8000000000001,
+      "end": 859.0400000000001,
+      "text": " clearly separated sections, easy to scan quickly before the market open and preserve the"
+    },
+    {
+      "start": 859.04,
+      "end": 865.4399999999999,
+      "text": " structure that we just created in that rundown. All right, Claude's thinking it's going to create"
+    },
+    {
+      "start": 865.4399999999999,
+      "end": 872.64,
+      "text": " our app. All right, and off to the right here, you can see our market rundown demo folder that we"
+    },
+    {
+      "start": 872.64,
+      "end": 882.88,
+      "text": " gave Claude access to work in. We have our markdown text and we have our HTML app. Let's check"
+    },
+    {
+      "start": 883.36,
+      "end": 888.24,
+      "text": " the HTML app. All right, pretty good for our first run. We have macro context."
+    },
+    {
+      "start": 891.12,
+      "end": 898.72,
+      "text": " We have an economic calendar. We have earnings reports and previews,"
+    },
+    {
+      "start": 899.68,
+      "end": 903.84,
+      "text": " TSM pre-released earnings this morning. That's good that we have that there."
+    },
+    {
+      "start": 904.32,
+      "end": 906.72,
+      "text": " And we have our top movers."
+    },
+    {
+      "start": 911.0400000000001,
+      "end": 917.2,
+      "text": " Very good. Oh, that's cool. It decided to do pre-market losers and give us some short ideas."
+    },
+    {
+      "start": 918.08,
+      "end": 920.0,
+      "text": " Mostly software names make sense."
+    },
+    {
+      "start": 925.52,
+      "end": 926.64,
+      "text": " Okay, looks pretty good."
+    },
+    {
+      "start": 926.96,
+      "end": 936.4,
+      "text": " The final step is scheduling the workflow so it runs automatically each morning. This"
+    },
+    {
+      "start": 936.4,
+      "end": 942.4,
+      "text": " allows Claude to generate the rundown before the market opens without me having to manually run"
+    },
+    {
+      "start": 942.4,
+      "end": 951.68,
+      "text": " anything. Prompt four, our final prompt, would be create a schedule task for this workflow."
+    },
+    {
+      "start": 951.68,
+      "end": 957.3599999999999,
+      "text": " The task should run automatically every weekday morning before the market opens at 8.30."
+    },
+    {
+      "start": 957.92,
+      "end": 964.0,
+      "text": " Each time it runs, it should read the morning market research emails. Generate the daily"
+    },
+    {
+      "start": 964.0,
+      "end": 973.12,
+      "text": " market rundown markdown briefing. Update the existing HTML dashboard. The HTML dashboard"
+    },
+    {
+      "start": 973.12,
+      "end": 980.3199999999999,
+      "text": " should be updated in the same file each day so new rundowns are appended rather than replacing"
+    },
+    {
+      "start": 980.4000000000001,
+      "end": 987.12,
+      "text": " previous ones. This allows the dashboard to maintain a running archive of daily market briefings"
+    },
+    {
+      "start": 987.12,
+      "end": 994.72,
+      "text": " that could be reviewed. And I would hit enter and then co-work would prompt me to select a time"
+    },
+    {
+      "start": 995.2800000000001,
+      "end": 1003.6800000000001,
+      "text": " and the task would automatically execute without any manual input. And just to reiterate,"
+    },
+    {
+      "start": 1004.3199999999999,
+      "end": 1012.7199999999999,
+      "text": " that project lives in our folder in our documents. If we go to documents, we go to market rundown"
+    },
+    {
+      "start": 1012.7199999999999,
+      "end": 1019.28,
+      "text": " demo, you'll see the markdown file, and you'll see the HTML app. If we double click,"
+    },
+    {
+      "start": 1019.92,
+      "end": 1022.0799999999999,
+      "text": " there we have our HTML app."
+    },
+    {
+      "start": 1022.64,
+      "end": 1037.3600000000001,
+      "text": " So most traders will never have a research team or even their own analyst, but they don't need one"
+    },
+    {
+      "start": 1037.3600000000001,
+      "end": 1043.1200000000001,
+      "text": " anymore. The largest hedge funds in the world have had this kind of infrastructure advantage for years."
+    },
+    {
+      "start": 1043.92,
+      "end": 1049.92,
+      "text": " The difference now is that tools like Claw'd make it possible for individual traders to build"
+    },
+    {
+      "start": 1049.92,
+      "end": 1056.0,
+      "text": " something like this in an afternoon. If you want to take this further, I'll link the full prompts"
+    },
+    {
+      "start": 1056.0,
+      "end": 1061.8400000000001,
+      "text": " I used in the description below so you can start building your own version today. If you found"
+    },
+    {
+      "start": 1061.8400000000001,
+      "end": 1064.48,
+      "text": " this helpful, drop a comment and subscribe."
+    }
+  ],
+  "visual_entries": [
+    {
+      "timestamp": 0.0,
+      "timecode": "00:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Every morning before the market opens, I used to spend about an hour doing the same thing."
+    },
+    {
+      "timestamp": 10.0,
+      "timecode": "00:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Opening a stack of research emails and newsletters, trying to piece together what actually mattered for the trading day."
+    },
+    {
+      "timestamp": 20.0,
+      "timecode": "00:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So I built a system that does it for me."
+    },
+    {
+      "timestamp": 30.0,
+      "timecode": "00:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Macro context, economic data, stocks in play, key themes, and generates a structured trading briefing, along with a full dash forward that I could scan in just a few minutes."
+    },
+    {
+      "timestamp": 40.0,
+      "timecode": "00:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Macro context, economic data, stocks in play, key themes, and generates a structured trading briefing, along with a full dash forward that I could scan in just a few minutes."
+    },
+    {
+      "timestamp": 50.0,
+      "timecode": "00:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " In this video, I'm going to show you exactly how it works and how you could build your own version, even if you have zero coding background."
+    },
+    {
+      "timestamp": 60.0,
+      "timecode": "01:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " This is the daily market rundown the system generates every morning before the open."
+    },
+    {
+      "timestamp": 70.0,
+      "timecode": "01:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " For example, it highlights the current Fed stance, the most important economic data,"
+    },
+    {
+      "timestamp": 80.0,
+      "timecode": "01:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " being released that morning in any major geopolitical developments that could influence markets."
+    },
+    {
+      "timestamp": 90.0,
+      "timecode": "01:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " This summarizes the most important developments driving the market so I can quickly understand the bigger picture heading into the trading day."
+    },
+    {
+      "timestamp": 100.0,
+      "timecode": "01:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " That includes things like geopolitical events, commodity moves, or changes in investor sentiment."
+    },
+    {
+      "timestamp": 110.0,
+      "timecode": "01:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " This highlights the key economic data releases scheduled for the day."
+    },
+    {
+      "timestamp": 120.0,
+      "timecode": "02:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " and a label indicating the importance of the release."
+    },
+    {
+      "timestamp": 130.0,
+      "timecode": "02:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " and exactly when they're scheduled to hit the market."
+    },
+    {
+      "timestamp": 140.0,
+      "timecode": "02:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Earnings are one of the biggest drivers of individual stock volatility."
+    },
+    {
+      "timestamp": 150.0,
+      "timecode": "02:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Having them clearly listed helps me quickly identify potential trading opportunities."
+    },
+    {
+      "timestamp": 160.0,
+      "timecode": "02:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " This includes things like economic releases, earnings calls, conferences,"
+    },
+    {
+      "timestamp": 170.0,
+      "timecode": "02:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " This is where the system identifies the stocks most likely to be active during the trading session."
+    },
+    {
+      "timestamp": 180.0,
+      "timecode": "03:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " The AI reads through my morning research emails, looks for companies with meaningful catalysts,"
+    },
+    {
+      "timestamp": 190.0,
+      "timecode": "03:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " For each name, it lists the ticker, the direction of the move,"
+    },
+    {
+      "timestamp": 200.0,
+      "timecode": "03:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " the catalyst behind the news, and a short explanation of why that stock could see volatility during the day."
+    },
+    {
+      "timestamp": 210.0,
+      "timecode": "03:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": null
+    },
+    {
+      "timestamp": 220.0,
+      "timecode": "03:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " As the AI reads through the research, it looks for themes that can connect multiple stocks"
+    },
+    {
+      "timestamp": 230.0,
+      "timecode": "03:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " energy developments, or changes in consumer behavior."
+    },
+    {
+      "timestamp": 240.0,
+      "timecode": "04:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Instead of just looking at individual tickers, this helps identify the bigger forces driving the market."
+    },
+    {
+      "timestamp": 250.0,
+      "timecode": "04:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " or understanding why certain groups of stocks are moving together."
+    },
+    {
+      "timestamp": 260.0,
+      "timecode": "04:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " morning research along with their associated news. For each name, the system lists the ticker,"
+    },
+    {
+      "timestamp": 270.0,
+      "timecode": "04:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " potential direction of the move, and a short note describing the catalyst behind the news."
+    },
+    {
+      "timestamp": 280.0,
+      "timecode": "04:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " developments worth keeping on the radar. Having them organize here makes it easy to quickly scan"
+    },
+    {
+      "timestamp": 290.0,
+      "timecode": "04:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " on a scan or later in the session, I could come back here, take control of, and quickly see why that"
+    },
+    {
+      "timestamp": 300.0,
+      "timecode": "05:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " stock might be moving. And finally, we have the week ahead section. This highlights the major"
+    },
+    {
+      "timestamp": 310.0,
+      "timecode": "05:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " economic reports, important earnings releases, policy announcements, or other events that could"
+    },
+    {
+      "timestamp": 320.0,
+      "timecode": "05:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " and plan ahead for upcoming trading opportunities. The goal of this entire rundown is simple."
+    },
+    {
+      "timestamp": 330.0,
+      "timecode": "05:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " To compress everything I need to know before the open into something I could scan in just a few"
+    },
+    {
+      "timestamp": 340.0,
+      "timecode": "05:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " co-work environment. Here you can see the daily market rundown task. The task is scheduled to run"
+    },
+    {
+      "timestamp": 350.0,
+      "timecode": "05:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " weekdays at 8 a.m. for the market opens. Right now it's active and you can see the next scheduled"
+    },
+    {
+      "timestamp": 360.0,
+      "timecode": "06:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " runtime here. Below that, this is the run history. This shows each time the system has executed the"
+    },
+    {
+      "timestamp": 370.0,
+      "timecode": "06:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " workflow. Every time it runs, the system reads the morning research emails, generates the"
+    },
+    {
+      "timestamp": 380.0,
+      "timecode": "06:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So if we click on one of those entries in the history, you'll see co-work, you'll see the morning"
+    },
+    {
+      "timestamp": 390.0,
+      "timecode": "06:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So if we click on one of those entries in the history, you'll see co-work, you'll see the morning"
+    },
+    {
+      "timestamp": 400.0,
+      "timecode": "06:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " rundown, the MD file, the app that it updated. The key thing here is this runs fully unattended."
+    },
+    {
+      "timestamp": 410.0,
+      "timecode": "06:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " is if Claude has an update and we need to approve access to a folder where the project lives"
+    },
+    {
+      "timestamp": 420.0,
+      "timecode": "07:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " organizing the information myself, the system does that first pass automatically before the market"
+    },
+    {
+      "timestamp": 430.0,
+      "timecode": "07:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " opens. Now let me show you how you could build a simplified version of this workflow yourself."
+    },
+    {
+      "timestamp": 440.0,
+      "timecode": "07:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " On a Mac, I'll open Finder, go to the documents folder, and create a new folder for the project."
+    },
+    {
+      "timestamp": 450.0,
+      "timecode": "07:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " If you're on Windows, you would do the same thing using File Explorer and create the folder inside"
+    },
+    {
+      "timestamp": 460.0,
+      "timecode": "07:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " become the working directory for the project. Now that the project folder is created, we need to"
+    },
+    {
+      "timestamp": 470.0,
+      "timecode": "07:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " become the working directory for the project. Now that the project folder is created, we need to"
+    },
+    {
+      "timestamp": 480.0,
+      "timecode": "08:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " tell Claude to work inside that directory. This allows Claude to create and update the files"
+    },
+    {
+      "timestamp": 490.0,
+      "timecode": "08:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " for that project inside that folder. So we'll start a new task, we'll select Work in a project,"
+    },
+    {
+      "timestamp": 500.0,
+      "timecode": "08:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " choose a different folder, and we'll open the Market Rundown Demo folder."
+    },
+    {
+      "timestamp": 510.0,
+      "timecode": "08:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " the email sources that contain the morning research. To do that, you'll need to configure the"
+    },
+    {
+      "timestamp": 520.0,
+      "timecode": "08:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " official Gmail connector inside Claude. Once that connector is enabled, Claude could read the"
+    },
+    {
+      "timestamp": 530.0,
+      "timecode": "08:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " to generate the rundown. So we go to Settings, Connectors, and you would see Gmail."
+    },
+    {
+      "timestamp": 540.0,
+      "timecode": "09:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": null
+    },
+    {
+      "timestamp": 550.0,
+      "timecode": "09:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " the project folder is located, now we're ready to start having fun in building the workflow."
+    },
+    {
+      "timestamp": 560.0,
+      "timecode": "09:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " The first step is defining the structure of the daily market rundown. AI works much more reliably"
+    },
+    {
+      "timestamp": 570.0,
+      "timecode": "09:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " to generate the rundown, we first define the structure we want it to follow each day. In this case,"
+    },
+    {
+      "timestamp": 580.0,
+      "timecode": "09:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " we're creating sections for the key information traders care about the most. Things like macro context,"
+    },
+    {
+      "timestamp": 590.0,
+      "timecode": "09:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " is defined, Claude can use it as the template for generating the daily rundown. So I'm going to"
+    },
+    {
+      "timestamp": 600.0,
+      "timecode": "10:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " The workflow should read morning market research emails, extract the most important information,"
+    },
+    {
+      "timestamp": 610.0,
+      "timecode": "10:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " organize it into a structured daily briefing. The briefing should prioritize the information"
+    },
+    {
+      "timestamp": 620.0,
+      "timecode": "10:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " top movers with catalysts, border market themes, secondary names of fresh news, and week ahead"
+    },
+    {
+      "timestamp": 630.0,
+      "timecode": "10:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " events. And we'll hit enter. So we want to start by defining the ideal structure for this rundown"
+    },
+    {
+      "timestamp": 640.0,
+      "timecode": "10:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " as a clean, markdown outline that could be used every day. So Claude's working hard,"
+    },
+    {
+      "timestamp": 650.0,
+      "timecode": "10:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " progress as it's going through the list of tasks that it needs to do. It's jumping ahead a little"
+    },
+    {
+      "timestamp": 660.0,
+      "timecode": "11:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " bit and it's asking me to schedule a task. We're not going to do that just yet. Okay, Claude ran"
+    },
+    {
+      "timestamp": 670.0,
+      "timecode": "11:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " right into my email right away and filled out the structure that we asked it to. Normally,"
+    },
+    {
+      "timestamp": 680.0,
+      "timecode": "11:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " the next step, it skipped a step, but normally the next step would be to say, hey, now that we have"
+    },
+    {
+      "timestamp": 690.0,
+      "timecode": "11:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " the structure, we could ask Claude to generate today's market rundown from the research emails."
+    },
+    {
+      "timestamp": 700.0,
+      "timecode": "11:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " we could ask Claude to generate today's market rundown from the research emails,"
+    },
+    {
+      "timestamp": 710.0,
+      "timecode": "11:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " read the market research emails that arrived today in my inbox between 5 a.m. and 8 30 a.m."
+    },
+    {
+      "timestamp": 720.0,
+      "timecode": "12:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " prompt and generate today's daily market rundown as a markdown briefing, which it already done."
+    },
+    {
+      "timestamp": 730.0,
+      "timecode": "12:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And it's listed here in the working folder, daily market rundown, April 10th. We just"
+    },
+    {
+      "timestamp": 740.0,
+      "timecode": "12:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " extract the most important macro developments, identify key economic events for the day,"
+    },
+    {
+      "timestamp": 750.0,
+      "timecode": "12:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " for stocks in play, focus on names with clear catalysts, briefly explain why the stock can move"
+    },
+    {
+      "timestamp": 760.0,
+      "timecode": "12:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " today. Prioritize stocks likely to see meaningful intraday volatility."
+    },
+    {
+      "timestamp": 770.0,
+      "timecode": "12:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Yelput should be a clean markdown briefing that a trader could quickly scan before the open."
+    },
+    {
+      "timestamp": 780.0,
+      "timecode": "13:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So Claude ran away a little bit and we do not have to enter in this step two."
+    },
+    {
+      "timestamp": 790.0,
+      "timecode": "13:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So let's click on that and check it out. All right, and let's see the markdown file that Claude created."
+    },
+    {
+      "timestamp": 800.0,
+      "timecode": "13:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Macro context, economic calendar, earnings reports and previews, top movers,"
+    },
+    {
+      "timestamp": 810.0,
+      "timecode": "13:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " broader market themes, secondary names, week ahead. All right, so now that Claude has generated"
+    },
+    {
+      "timestamp": 820.0,
+      "timecode": "13:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " the markdown briefing, the final step is turning it into a dashboard that's easier to scan each"
+    },
+    {
+      "timestamp": 830.0,
+      "timecode": "13:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " morning. The markdown or MD file is simply a lightweight text format that Claude generates,"
+    },
+    {
+      "timestamp": 840.0,
+      "timecode": "14:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " using the markdown daily market rundown we just generated create a simple HTML dashboard"
+    },
+    {
+      "timestamp": 850.0,
+      "timecode": "14:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " that a trader could view in browser requirements, dark theme, clean layout,"
+    },
+    {
+      "timestamp": 860.0,
+      "timecode": "14:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " structure that we just created in that rundown. All right, Claude's thinking it's going to create"
+    },
+    {
+      "timestamp": 870.0,
+      "timecode": "14:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " our app. All right, and off to the right here, you can see our market rundown demo folder that we"
+    },
+    {
+      "timestamp": 880.0,
+      "timecode": "14:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " gave Claude access to work in. We have our markdown text and we have our HTML app. Let's check"
+    },
+    {
+      "timestamp": 890.0,
+      "timecode": "14:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": null
+    },
+    {
+      "timestamp": 900.0,
+      "timecode": "15:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " TSM pre-released earnings this morning. That's good that we have that there."
+    },
+    {
+      "timestamp": 910.0,
+      "timecode": "15:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": null
+    },
+    {
+      "timestamp": 920.0,
+      "timecode": "15:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Mostly software names make sense."
+    },
+    {
+      "timestamp": 930.0,
+      "timecode": "15:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " The final step is scheduling the workflow so it runs automatically each morning. This"
+    },
+    {
+      "timestamp": 940.0,
+      "timecode": "15:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " allows Claude to generate the rundown before the market opens without me having to manually run"
+    },
+    {
+      "timestamp": 950.0,
+      "timecode": "15:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " anything. Prompt four, our final prompt, would be create a schedule task for this workflow."
+    },
+    {
+      "timestamp": 960.0,
+      "timecode": "16:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Each time it runs, it should read the morning market research emails. Generate the daily"
+    },
+    {
+      "timestamp": 970.0,
+      "timecode": "16:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " market rundown markdown briefing. Update the existing HTML dashboard. The HTML dashboard"
+    },
+    {
+      "timestamp": 980.0,
+      "timecode": "16:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " should be updated in the same file each day so new rundowns are appended rather than replacing"
+    },
+    {
+      "timestamp": 990.0,
+      "timecode": "16:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " that could be reviewed. And I would hit enter and then co-work would prompt me to select a time"
+    },
+    {
+      "timestamp": 1000.0,
+      "timecode": "16:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " and the task would automatically execute without any manual input. And just to reiterate,"
+    },
+    {
+      "timestamp": 1010.0,
+      "timecode": "16:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " that project lives in our folder in our documents. If we go to documents, we go to market rundown"
+    },
+    {
+      "timestamp": 1020.0,
+      "timecode": "17:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " there we have our HTML app."
+    },
+    {
+      "timestamp": 1030.0,
+      "timecode": "17:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So most traders will never have a research team or even their own analyst, but they don't need one"
+    },
+    {
+      "timestamp": 1040.0,
+      "timecode": "17:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " anymore. The largest hedge funds in the world have had this kind of infrastructure advantage for years."
+    },
+    {
+      "timestamp": 1050.0,
+      "timecode": "17:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " something like this in an afternoon. If you want to take this further, I'll link the full prompts"
+    },
+    {
+      "timestamp": 1060.0,
+      "timecode": "17:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " I used in the description below so you can start building your own version today. If you found"
+    }
+  ],
+  "frames_captured": 107
+}

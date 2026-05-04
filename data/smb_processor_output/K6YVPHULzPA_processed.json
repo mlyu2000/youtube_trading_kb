@@ -1,0 +1,1453 @@
+{
+  "video_id": "K6YVPHULzPA",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.04,
+      "text": " There's a powerful option strategy called the wheel that I want to teach you in today's video."
+    },
+    {
+      "start": 5.04,
+      "end": 11.120000000000001,
+      "text": " And candidly, the wheel can beat the hell out of the returns of the equity markets if you understand"
+    },
+    {
+      "start": 11.120000000000001,
+      "end": 16.72,
+      "text": " how and when to use it. I can show you how you can squeeze tons of extra profit out of trading,"
+    },
+    {
+      "start": 16.72,
+      "end": 22.16,
+      "text": " solid stocks. And the best part is that the concepts are so simple, you'll find it hard to believe."
+    },
+    {
+      "start": 22.16,
+      "end": 26.0,
+      "text": " So if that's of interest to you, then stick around because I think you're going to be surprised"
+    },
+    {
+      "start": 26.0,
+      "end": 31.68,
+      "text": " at how effective this can be and how easy it is to learn. Today, we're going to be talking about"
+    },
+    {
+      "start": 31.68,
+      "end": 37.36,
+      "text": " the wheel and I'll be explaining why it's called that in a minute. But first, I want to do a really"
+    },
+    {
+      "start": 37.36,
+      "end": 42.24,
+      "text": " brief review of some basic concepts. So if you're brand new to options, you'll understand what we're"
+    },
+    {
+      "start": 42.24,
+      "end": 47.120000000000005,
+      "text": " covering here. And if not, then it will just be refresher to make sure that you're crystal clear"
+    },
+    {
+      "start": 47.120000000000005,
+      "end": 52.56,
+      "text": " on the concepts. So first of all, when trading options, you can buy call options or you can buy"
+    },
+    {
+      "start": 52.56,
+      "end": 59.2,
+      "text": " put options. But it's also important to realize that you can buy or sell them. Your broker will"
+    },
+    {
+      "start": 59.2,
+      "end": 65.36,
+      "text": " allow you to do both. Now, when you buy a call, you have the right to buy 100 shares of a stock at"
+    },
+    {
+      "start": 65.36,
+      "end": 70.80000000000001,
+      "text": " the call strike price. Whereas when you're selling a call, you have the obligation, not the right"
+    },
+    {
+      "start": 70.80000000000001,
+      "end": 77.68,
+      "text": " this time, but the obligation to sell 100 shares of a stock at the call strike price. Now, when you"
+    },
+    {
+      "start": 77.68,
+      "end": 84.4,
+      "text": " buy a put, you have the right to sell 100 shares of a stock at that put strike price. And when you"
+    },
+    {
+      "start": 84.4,
+      "end": 90.24000000000001,
+      "text": " sell a put, you have the obligation to buy 100 shares of a stock at the put strike price."
+    },
+    {
+      "start": 90.96000000000001,
+      "end": 96.72,
+      "text": " Now, if you think I'm going too fast or this is confusing, then that's fine. We created a video"
+    },
+    {
+      "start": 96.72,
+      "end": 101.92000000000002,
+      "text": " for you to understand options basics. And if you click the video appearing on your screen right"
+    },
+    {
+      "start": 101.92000000000002,
+      "end": 106.48,
+      "text": " now, it will lay the groundwork for you to understand the wheel strategy that we're going to be"
+    },
+    {
+      "start": 106.48,
+      "end": 110.96000000000001,
+      "text": " teaching you in today's video. Then when you're finished, you can come back and watch the rest of"
+    },
+    {
+      "start": 110.96000000000001,
+      "end": 117.2,
+      "text": " this video with that is background. Let's talk about the wheel option strategy. Now, first of all,"
+    },
+    {
+      "start": 117.2,
+      "end": 123.44,
+      "text": " the idea behind the wheel strategy is to get paid while you wait to buy a stock at the price"
+    },
+    {
+      "start": 123.44,
+      "end": 128.8,
+      "text": " you want to pay for it. And incidentally, this is actually a strategy that Warren Buffett uses to"
+    },
+    {
+      "start": 128.8,
+      "end": 135.52,
+      "text": " get into stocks that he loves at his price. He uses this strategy all the time as a matter of fact."
+    },
+    {
+      "start": 136.0,
+      "end": 141.04000000000002,
+      "text": " The most important thing is, first of all, you need to find a stock that you want to own."
+    },
+    {
+      "start": 142.4,
+      "end": 147.60000000000002,
+      "text": " That is the basic prerequisite for this whole strategy. You have your eye on a stock, but you"
+    },
+    {
+      "start": 147.60000000000002,
+      "end": 153.84,
+      "text": " think that it's currently too expensive in today's prices. So, for example, I thought we could take"
+    },
+    {
+      "start": 153.84,
+      "end": 161.28,
+      "text": " a look at the ETF QQQ known to traders as the Qs. That's the ETF, which is really a basket of stocks"
+    },
+    {
+      "start": 161.28,
+      "end": 167.28,
+      "text": " containing the components of the Nasdaq 100 index. And let's face it long term, it wouldn't be a"
+    },
+    {
+      "start": 167.28,
+      "end": 172.96,
+      "text": " bad idea to own at the right price, of course, the basket of stocks that are clearly driving the"
+    },
+    {
+      "start": 172.96,
+      "end": 179.6,
+      "text": " future of mankind, which are tech stocks. And so, for example, let's head back to October 17th of last"
+    },
+    {
+      "start": 179.6,
+      "end": 187.76,
+      "text": " year, 2025. And as you can see, the Qs had been in a really nice uptrend off the tariff panic lows of"
+    },
+    {
+      "start": 187.76,
+      "end": 195.67999999999998,
+      "text": " April 2025. And it had traded as high as 613 before sharp pull back just a week before,"
+    },
+    {
+      "start": 195.67999999999998,
+      "end": 204.07999999999998,
+      "text": " where it sold off down to 589, then rally back over 600, closing at 603, 93 that day."
+    },
+    {
+      "start": 204.07999999999998,
+      "end": 208.79999999999998,
+      "text": " Now, let's just say, for example, here that you want to buy it when it retraces to a price of"
+    },
+    {
+      "start": 208.79999999999998,
+      "end": 216.32,
+      "text": " 595, believing that this uptrend is likely to continue. So, let's say you don't want to chase it,"
+    },
+    {
+      "start": 216.32,
+      "end": 221.44,
+      "text": " you want the stock to come back to you, and you never want to buy a stock at the high. So,"
+    },
+    {
+      "start": 221.44,
+      "end": 227.51999999999998,
+      "text": " it's always a good idea when you're buying stocks to buy it when they're retracing if it all possible."
+    },
+    {
+      "start": 227.51999999999998,
+      "end": 234.32,
+      "text": " So, let's say we want to buy 100 shares of the Qs when they come back to 595. The key is that"
+    },
+    {
+      "start": 234.32,
+      "end": 240.72,
+      "text": " we have a longer term perspective on the Qs, and it doesn't matter, could be Amazon, or Walmart,"
+    },
+    {
+      "start": 240.88,
+      "end": 247.04,
+      "text": " or Caterpillar, Tesla, or J.P. Morgan, or whatever, it doesn't matter. It's the same technique."
+    },
+    {
+      "start": 247.04,
+      "end": 254.16,
+      "text": " Okay, so we picked October 17th because it was the third Friday in October, and so for any stock,"
+    },
+    {
+      "start": 254.16,
+      "end": 259.68,
+      "text": " there's always going to be an options expiration on the third Friday of each month. And so,"
+    },
+    {
+      "start": 259.68,
+      "end": 266.4,
+      "text": " we're going to be selling a put at that price, 595, about a month out on the third Friday of November,"
+    },
+    {
+      "start": 266.4,
+      "end": 273.76,
+      "text": " which was November 21st. And remember, when you sell a put, then you are obligated to buy 100"
+    },
+    {
+      "start": 273.76,
+      "end": 280.15999999999997,
+      "text": " shares of the stock at that strike price if the shares close lower than that on the day that put"
+    },
+    {
+      "start": 280.15999999999997,
+      "end": 286.64,
+      "text": " option expires. So, when we pull up an options chain which expires of November 21st, you'll see that"
+    },
+    {
+      "start": 286.64,
+      "end": 292.32,
+      "text": " we are selling the 595 strike price because this would mean that we have to buy the shares when"
+    },
+    {
+      "start": 292.32,
+      "end": 299.84,
+      "text": " they drop back to 595. So, we sell the 595 put with an expiration of November 21st, which, as you"
+    },
+    {
+      "start": 299.84,
+      "end": 306.71999999999997,
+      "text": " can see, is going for 1249. And since options sell in units of 100, this means that we are receiving"
+    },
+    {
+      "start": 306.71999999999997,
+      "end": 314.24,
+      "text": " cash because we are selling it, and in this case, we are receiving $1249. And incidentally, you're"
+    },
+    {
+      "start": 314.24,
+      "end": 320.32,
+      "text": " going to need to have $59,500 in your account to do this, and the reason is that you may need to"
+    },
+    {
+      "start": 320.32,
+      "end": 325.52,
+      "text": " buy those shares at 595 per share if your put gets triggered. So, keep that in mind."
+    },
+    {
+      "start": 326.24,
+      "end": 332.64,
+      "text": " So, now let's move to the day this trade expires on November 21st. And as you can see, the Q's after"
+    },
+    {
+      "start": 332.64,
+      "end": 339.84,
+      "text": " rallying all the way up to $637 pulled back pretty hard, closing the day, the put option expired at"
+    },
+    {
+      "start": 339.84,
+      "end": 348.88,
+      "text": " 590.07. And so, what does that mean? Well, it means that we now own 100 shares of the Q's at 595,"
+    },
+    {
+      "start": 348.88,
+      "end": 355.28,
+      "text": " but it also means that we made $1249 from that put that we sold because even though we got to"
+    },
+    {
+      "start": 355.28,
+      "end": 364.48,
+      "text": " sign those 100 shares, we still get to keep that $1249 no matter what. So, we made $1249 in 35 days,"
+    },
+    {
+      "start": 364.48,
+      "end": 370.15999999999997,
+      "text": " which is actually a great return in such a short period of time if you do the math. It's actually"
+    },
+    {
+      "start": 370.15999999999997,
+      "end": 377.84,
+      "text": " about an annualized return of 20%. But be that as it may, now that we own the shares, this is where"
+    },
+    {
+      "start": 377.84,
+      "end": 384.47999999999996,
+      "text": " the wheel strategy kicks in. Because this is when according to the wheel strategy, you'll start selling"
+    },
+    {
+      "start": 384.47999999999996,
+      "end": 390.79999999999995,
+      "text": " calls. Now, what do I mean by that? Well, when we sell a call, it means that we will have the"
+    },
+    {
+      "start": 390.79999999999995,
+      "end": 397.12,
+      "text": " obligation to sell those 100 shares of the Q's that we were just assigned at the strike price"
+    },
+    {
+      "start": 397.12,
+      "end": 404.47999999999996,
+      "text": " of the call. And so, what we would do here is we'd sell a call that is approximately 25 points"
+    },
+    {
+      "start": 404.48,
+      "end": 410.48,
+      "text": " above the price that we were assigned those shares so that we give the stock some room to run"
+    },
+    {
+      "start": 410.48,
+      "end": 417.68,
+      "text": " up before we are obligated to sell it. So, we'll sell the 620 call, which is 25 points above our"
+    },
+    {
+      "start": 417.68,
+      "end": 424.88,
+      "text": " acquisition price of $595. And we sell that again on the third Friday of the next month,"
+    },
+    {
+      "start": 424.88,
+      "end": 430.8,
+      "text": " which is December. So, that would be on December 19th. And as you can see, that's selling for"
+    },
+    {
+      "start": 430.8,
+      "end": 439.12,
+      "text": " price of $4.90. So, this means that we would receive $490 in cash for that call option."
+    },
+    {
+      "start": 439.76,
+      "end": 446.0,
+      "text": " And now, again, the question is, what happens here after this option, this call option expires."
+    },
+    {
+      "start": 446.8,
+      "end": 453.04,
+      "text": " So, the first option expired after 37 days. So, then in another 28 days, in this case, we'll see"
+    },
+    {
+      "start": 453.04,
+      "end": 460.96000000000004,
+      "text": " what happens. And so, as it turns out on December 19th, the Q's rallied and close that day at 617-05."
+    },
+    {
+      "start": 461.44,
+      "end": 468.0,
+      "text": " And so, what that means is that the 620 call option expired worthless because it has no value"
+    },
+    {
+      "start": 468.0,
+      "end": 474.32000000000005,
+      "text": " unless the stock closes above its strike price, which is 620. And so, that option just dies and goes"
+    },
+    {
+      "start": 474.32000000000005,
+      "end": 481.6,
+      "text": " away. But think about it. The option died, but you collected $490 at the beginning. And guess what,"
+    },
+    {
+      "start": 481.6,
+      "end": 488.64000000000004,
+      "text": " you'd get to just pocket that $490. And so, let's keep track of what has happened so far."
+    },
+    {
+      "start": 488.64000000000004,
+      "end": 495.04,
+      "text": " We pocketed $1249 in options cash flow in November and another $490 in December,"
+    },
+    {
+      "start": 495.04,
+      "end": 502.88,
+      "text": " resulting in a total of $1,739. So, so far, you know, after just two months, which is still a great"
+    },
+    {
+      "start": 502.88,
+      "end": 510.0,
+      "text": " annualized return, about 16% if you do the math. Okay. So, when this happens, we just run it right"
+    },
+    {
+      "start": 510.0,
+      "end": 517.28,
+      "text": " back and sell that same 620 call into the third Friday in January, which is January 16th,"
+    },
+    {
+      "start": 517.28,
+      "end": 523.36,
+      "text": " which is when we decided earlier we'd be happy to sell the shares. But you'll notice in this case"
+    },
+    {
+      "start": 523.36,
+      "end": 530.48,
+      "text": " that the price is a lot higher, $989. And that's because as the stock price approaches to call"
+    },
+    {
+      "start": 530.48,
+      "end": 536.0,
+      "text": " strike price, the more likely it is that the stock will just blast through that price over the next"
+    },
+    {
+      "start": 536.0,
+      "end": 542.72,
+      "text": " month. And so, the market is going to charge a lot more for the right to buy at that price. And so,"
+    },
+    {
+      "start": 542.72,
+      "end": 548.24,
+      "text": " that's actually good news for us because we are selling that call. And so, in this case, as you can"
+    },
+    {
+      "start": 548.24,
+      "end": 556.24,
+      "text": " see, we'll be collecting $989 for the January trade. And remember, once you've received that premium,"
+    },
+    {
+      "start": 556.24,
+      "end": 562.72,
+      "text": " nobody can take it away from you. That premium is yours and the cash is deposited directly into"
+    },
+    {
+      "start": 562.72,
+      "end": 568.4,
+      "text": " your account. It's yours forever. Okay. So, let's move to the day that the January trade"
+    },
+    {
+      "start": 568.4,
+      "end": 576.08,
+      "text": " expired. And as you can see, the queues rallyed a bit more here, closing at $6.21.05. So, when this"
+    },
+    {
+      "start": 576.08,
+      "end": 581.76,
+      "text": " happens, you are required to sell the shares at the strike price of the call. So, you've got to sell"
+    },
+    {
+      "start": 581.76,
+      "end": 587.9200000000001,
+      "text": " them at $6.20. And so, when that happens, and you no longer have those shares in your account,"
+    },
+    {
+      "start": 587.92,
+      "end": 594.24,
+      "text": " they are automatically sold by your broker at the call strike price of $6.20. Now, I'd like to"
+    },
+    {
+      "start": 594.24,
+      "end": 600.3199999999999,
+      "text": " stop here, though, and ask you to think about something. We've been focusing on all the options"
+    },
+    {
+      "start": 600.3199999999999,
+      "end": 606.0799999999999,
+      "text": " premium we've been collecting. And that has been impressive on its own. But something else just"
+    },
+    {
+      "start": 606.0799999999999,
+      "end": 611.68,
+      "text": " happens, something that's actually a bit more significant. And that is that through this process"
+    },
+    {
+      "start": 611.68,
+      "end": 618.8,
+      "text": " of collecting those premiums, we also managed to buy the queues at a very low price, $5.95,"
+    },
+    {
+      "start": 618.8,
+      "end": 625.3599999999999,
+      "text": " because we were patient and incidentally got paid cash for waiting for our price. And that's what"
+    },
+    {
+      "start": 625.3599999999999,
+      "end": 633.68,
+      "text": " we got from those put premiums. But now, on top of that, we just sold those shares 25 points higher"
+    },
+    {
+      "start": 633.68,
+      "end": 640.64,
+      "text": " at $6.20. And so, if you do the math, we made a profit of $2,500 on those shares. And so, let's"
+    },
+    {
+      "start": 640.64,
+      "end": 645.4399999999999,
+      "text": " update our results table, and as you can see, in January, there are actually two entries,"
+    },
+    {
+      "start": 645.4399999999999,
+      "end": 653.12,
+      "text": " the options profit, but also the share profit from BIMELOW and SELLING HIGH, which is the whole idea"
+    },
+    {
+      "start": 653.12,
+      "end": 659.12,
+      "text": " behind the wheel strategy. You see, the wheel strategy has both components. You make money booking"
+    },
+    {
+      "start": 659.12,
+      "end": 664.64,
+      "text": " positive cash flow for options premium, and you make money by getting into stocks at really"
+    },
+    {
+      "start": 664.64,
+      "end": 672.56,
+      "text": " great prices. This is why the strategy is so attractive. Okay, so, we sold a put collecting cash"
+    },
+    {
+      "start": 672.56,
+      "end": 678.08,
+      "text": " from that. The shares got assigned to us at a great price. We started selling calls, getting cash"
+    },
+    {
+      "start": 678.08,
+      "end": 684.64,
+      "text": " from those, and then the shares got assigned away due to our short calls at a great profit. So,"
+    },
+    {
+      "start": 684.64,
+      "end": 690.72,
+      "text": " where do we go from here? Well, why do you think it's called the wheel? It's called the wheel,"
+    },
+    {
+      "start": 690.72,
+      "end": 696.88,
+      "text": " because we sell below the market. The market rotates up to a higher price, and we sell it,"
+    },
+    {
+      "start": 696.88,
+      "end": 702.5600000000001,
+      "text": " and then we rotate back down to the put side, and what do we do? We start all over again,"
+    },
+    {
+      "start": 702.5600000000001,
+      "end": 708.96,
+      "text": " and sell a put below where the stock price is, hoping to catch another opportunity to buy it at"
+    },
+    {
+      "start": 708.96,
+      "end": 714.8000000000001,
+      "text": " a great price, and do it all over again. And guess what? If we never get the opportunity,"
+    },
+    {
+      "start": 714.8,
+      "end": 721.4399999999999,
+      "text": " we're still getting paid for trying every month, because when we sell that next put for February,"
+    },
+    {
+      "start": 721.4399999999999,
+      "end": 726.8,
+      "text": " after our calls are gone, and after the shares are gone, once that happens, and we sell the put,"
+    },
+    {
+      "start": 726.8,
+      "end": 734.16,
+      "text": " we get paid again, in this case, another $5.85 right down at the same strike price where we"
+    },
+    {
+      "start": 734.16,
+      "end": 740.56,
+      "text": " acquired the shares originally at that $5.95 put strike price, and we're collecting $585 in cash."
+    },
+    {
+      "start": 741.28,
+      "end": 747.1199999999999,
+      "text": " And so, on February 20th, just last week, as you can see, the queue is closed at 60881,"
+    },
+    {
+      "start": 747.1199999999999,
+      "end": 753.8399999999999,
+      "text": " so it pulled back a bit from the previous month, and so what that means is that our put down at 595"
+    },
+    {
+      "start": 753.8399999999999,
+      "end": 760.4,
+      "text": " expires worthless, and so that put just dies, and we just add that cash to our profit,"
+    },
+    {
+      "start": 760.4,
+      "end": 767.76,
+      "text": " onto our profit table, which brings our grand total of wheel strategy profits to $5,813."
+    },
+    {
+      "start": 768.56,
+      "end": 773.2,
+      "text": " Now, I'd like you to focus on a very important reality in all this, which you might have missed,"
+    },
+    {
+      "start": 773.2,
+      "end": 779.36,
+      "text": " and that is that we implemented the wheel strategy and made $5,813, but did you ever think about"
+    },
+    {
+      "start": 779.36,
+      "end": 784.48,
+      "text": " what would have been the outcome, with basically the same capital had we just bought the shares"
+    },
+    {
+      "start": 784.48,
+      "end": 791.36,
+      "text": " of the queues back in October when we started the program when the queues were trading at 603-93."
+    },
+    {
+      "start": 792.16,
+      "end": 799.2,
+      "text": " Well, they closed at 60881 on February 20th, so your gain on those shares would have been"
+    },
+    {
+      "start": 799.2,
+      "end": 810.32,
+      "text": " $488, but with the wheel strategy, we made $5,813, more than 11 times as much profit over that same"
+    },
+    {
+      "start": 810.32,
+      "end": 817.6,
+      "text": " four-month period, because at the end of the day, the wheel strategy is a strategic use of options"
+    },
+    {
+      "start": 817.6,
+      "end": 823.6,
+      "text": " to take advantage of price movements, even on stocks, which have hardly moved at all at the"
+    },
+    {
+      "start": 823.6,
+      "end": 829.12,
+      "text": " end of the day. And so what I'd like you to take away from today's video is that the wheel strategy"
+    },
+    {
+      "start": 829.12,
+      "end": 835.44,
+      "text": " is a very powerful option strategy that allows you to monetize the movements of solid stocks"
+    },
+    {
+      "start": 835.44,
+      "end": 840.4,
+      "text": " so that you're always creating cash flow opportunities, and in cases like this example,"
+    },
+    {
+      "start": 840.4,
+      "end": 846.5600000000001,
+      "text": " making a terrific return on a stock that basically didn't move at all. This is the kind of out-of-the-box"
+    },
+    {
+      "start": 846.56,
+      "end": 852.16,
+      "text": " strategy that options can open up for you once you begin to learn how options work. And when you"
+    },
+    {
+      "start": 852.16,
+      "end": 858.0,
+      "text": " do, the opportunities for pulling cash out of the markets becomes almost unlimited. Learning how"
+    },
+    {
+      "start": 858.0,
+      "end": 863.5999999999999,
+      "text": " to trade options is a great skill to have if you're interested in creating cash flow from the equity"
+    },
+    {
+      "start": 863.5999999999999,
+      "end": 869.04,
+      "text": " markets, even when they're hardly moving at all. Now, if you'd like to learn three more options"
+    },
+    {
+      "start": 869.04,
+      "end": 875.92,
+      "text": " strategies that our pro traders use, including the unique options trick that allows you to make money"
+    },
+    {
+      "start": 875.92,
+      "end": 882.56,
+      "text": " while you wait to buy stocks or ETFs at the price you want, and the options income strategy that"
+    },
+    {
+      "start": 882.56,
+      "end": 889.28,
+      "text": " allows you to make consistent money whether the market goes up or down or sideways, and how to make"
+    },
+    {
+      "start": 889.28,
+      "end": 895.68,
+      "text": " money on a stock or index trade, even if you're wrong on the direction, then click the link"
+    },
+    {
+      "start": 895.68,
+      "end": 900.9599999999999,
+      "text": " that's appearing right now at the top right hand corner of your screen. That will open up the"
+    },
+    {
+      "start": 900.96,
+      "end": 906.5600000000001,
+      "text": " free workshop registration page in a new window so don't worry you won't lose this video,"
+    },
+    {
+      "start": 906.5600000000001,
+      "end": 910.96,
+      "text": " or you can register directly for free at optionsclass.com."
+    }
+  ],
+  "visual_entries": [
+    {
+      "timestamp": 0,
+      "timecode": "00:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " There's a powerful option strategy called the wheel that I want to teach you in today's video."
+    },
+    {
+      "timestamp": 10,
+      "timecode": "00:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And candidly, the wheel can beat the hell out of the returns of the equity markets if you understand"
+    },
+    {
+      "timestamp": 20,
+      "timecode": "00:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " solid stocks. And the best part is that the concepts are so simple, you'll find it hard to believe."
+    },
+    {
+      "timestamp": 30,
+      "timecode": "00:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " at how effective this can be and how easy it is to learn. Today, we're going to be talking about"
+    },
+    {
+      "timestamp": 40,
+      "timecode": "00:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " brief review of some basic concepts. So if you're brand new to options, you'll understand what we're"
+    },
+    {
+      "timestamp": 50,
+      "timecode": "00:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " on the concepts. So first of all, when trading options, you can buy call options or you can buy"
+    },
+    {
+      "timestamp": 60,
+      "timecode": "01:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " allow you to do both. Now, when you buy a call, you have the right to buy 100 shares of a stock at"
+    },
+    {
+      "timestamp": 70,
+      "timecode": "01:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " the call strike price. Whereas when you're selling a call, you have the obligation, not the right"
+    },
+    {
+      "timestamp": 80,
+      "timecode": "01:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " buy a put, you have the right to sell 100 shares of a stock at that put strike price. And when you"
+    },
+    {
+      "timestamp": 90,
+      "timecode": "01:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " sell a put, you have the obligation to buy 100 shares of a stock at the put strike price."
+    },
+    {
+      "timestamp": 100,
+      "timecode": "01:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " for you to understand options basics. And if you click the video appearing on your screen right"
+    },
+    {
+      "timestamp": 110,
+      "timecode": "01:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " teaching you in today's video. Then when you're finished, you can come back and watch the rest of"
+    },
+    {
+      "timestamp": 120,
+      "timecode": "02:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " the idea behind the wheel strategy is to get paid while you wait to buy a stock at the price"
+    },
+    {
+      "timestamp": 130,
+      "timecode": "02:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " get into stocks that he loves at his price. He uses this strategy all the time as a matter of fact."
+    },
+    {
+      "timestamp": 140,
+      "timecode": "02:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " The most important thing is, first of all, you need to find a stock that you want to own."
+    },
+    {
+      "timestamp": 150,
+      "timecode": "02:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " think that it's currently too expensive in today's prices. So, for example, I thought we could take"
+    },
+    {
+      "timestamp": 160,
+      "timecode": "02:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " a look at the ETF QQQ known to traders as the Qs. That's the ETF, which is really a basket of stocks"
+    },
+    {
+      "timestamp": 170,
+      "timecode": "02:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " bad idea to own at the right price, of course, the basket of stocks that are clearly driving the"
+    },
+    {
+      "timestamp": 180,
+      "timecode": "03:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " year, 2025. And as you can see, the Qs had been in a really nice uptrend off the tariff panic lows of"
+    },
+    {
+      "timestamp": 190,
+      "timecode": "03:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " April 2025. And it had traded as high as 613 before sharp pull back just a week before,"
+    },
+    {
+      "timestamp": 200,
+      "timecode": "03:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " where it sold off down to 589, then rally back over 600, closing at 603, 93 that day."
+    },
+    {
+      "timestamp": 210,
+      "timecode": "03:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " 595, believing that this uptrend is likely to continue. So, let's say you don't want to chase it,"
+    },
+    {
+      "timestamp": 220,
+      "timecode": "03:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " you want the stock to come back to you, and you never want to buy a stock at the high. So,"
+    },
+    {
+      "timestamp": 230,
+      "timecode": "03:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So, let's say we want to buy 100 shares of the Qs when they come back to 595. The key is that"
+    },
+    {
+      "timestamp": 240,
+      "timecode": "04:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " we have a longer term perspective on the Qs, and it doesn't matter, could be Amazon, or Walmart,"
+    },
+    {
+      "timestamp": 250,
+      "timecode": "04:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Okay, so we picked October 17th because it was the third Friday in October, and so for any stock,"
+    },
+    {
+      "timestamp": 260,
+      "timecode": "04:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " we're going to be selling a put at that price, 595, about a month out on the third Friday of November,"
+    },
+    {
+      "timestamp": 270,
+      "timecode": "04:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " which was November 21st. And remember, when you sell a put, then you are obligated to buy 100"
+    },
+    {
+      "timestamp": 280,
+      "timecode": "04:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " shares of the stock at that strike price if the shares close lower than that on the day that put"
+    },
+    {
+      "timestamp": 290,
+      "timecode": "04:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " we are selling the 595 strike price because this would mean that we have to buy the shares when"
+    },
+    {
+      "timestamp": 300,
+      "timecode": "05:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " can see, is going for 1249. And since options sell in units of 100, this means that we are receiving"
+    },
+    {
+      "timestamp": 310,
+      "timecode": "05:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " cash because we are selling it, and in this case, we are receiving $1249. And incidentally, you're"
+    },
+    {
+      "timestamp": 320,
+      "timecode": "05:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " going to need to have $59,500 in your account to do this, and the reason is that you may need to"
+    },
+    {
+      "timestamp": 330,
+      "timecode": "05:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So, now let's move to the day this trade expires on November 21st. And as you can see, the Q's after"
+    },
+    {
+      "timestamp": 340,
+      "timecode": "05:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " 590.07. And so, what does that mean? Well, it means that we now own 100 shares of the Q's at 595,"
+    },
+    {
+      "timestamp": 350,
+      "timecode": "05:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " but it also means that we made $1249 from that put that we sold because even though we got to"
+    },
+    {
+      "timestamp": 360,
+      "timecode": "06:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " sign those 100 shares, we still get to keep that $1249 no matter what. So, we made $1249 in 35 days,"
+    },
+    {
+      "timestamp": 370,
+      "timecode": "06:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " which is actually a great return in such a short period of time if you do the math. It's actually"
+    },
+    {
+      "timestamp": 380,
+      "timecode": "06:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " the wheel strategy kicks in. Because this is when according to the wheel strategy, you'll start selling"
+    },
+    {
+      "timestamp": 390,
+      "timecode": "06:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " calls. Now, what do I mean by that? Well, when we sell a call, it means that we will have the"
+    },
+    {
+      "timestamp": 400,
+      "timecode": "06:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " of the call. And so, what we would do here is we'd sell a call that is approximately 25 points"
+    },
+    {
+      "timestamp": 410,
+      "timecode": "06:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " above the price that we were assigned those shares so that we give the stock some room to run"
+    },
+    {
+      "timestamp": 420,
+      "timecode": "07:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " acquisition price of $595. And we sell that again on the third Friday of the next month,"
+    },
+    {
+      "timestamp": 430,
+      "timecode": "07:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " which is December. So, that would be on December 19th. And as you can see, that's selling for"
+    },
+    {
+      "timestamp": 440,
+      "timecode": "07:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And now, again, the question is, what happens here after this option, this call option expires."
+    },
+    {
+      "timestamp": 450,
+      "timecode": "07:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So, the first option expired after 37 days. So, then in another 28 days, in this case, we'll see"
+    },
+    {
+      "timestamp": 460,
+      "timecode": "07:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " what happens. And so, as it turns out on December 19th, the Q's rallied and close that day at 617-05."
+    },
+    {
+      "timestamp": 470,
+      "timecode": "07:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " unless the stock closes above its strike price, which is 620. And so, that option just dies and goes"
+    },
+    {
+      "timestamp": 480,
+      "timecode": "08:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " away. But think about it. The option died, but you collected $490 at the beginning. And guess what,"
+    },
+    {
+      "timestamp": 490,
+      "timecode": "08:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " We pocketed $1249 in options cash flow in November and another $490 in December,"
+    },
+    {
+      "timestamp": 500,
+      "timecode": "08:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " resulting in a total of $1,739. So, so far, you know, after just two months, which is still a great"
+    },
+    {
+      "timestamp": 510,
+      "timecode": "08:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " annualized return, about 16% if you do the math. Okay. So, when this happens, we just run it right"
+    },
+    {
+      "timestamp": 520,
+      "timecode": "08:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " which is when we decided earlier we'd be happy to sell the shares. But you'll notice in this case"
+    },
+    {
+      "timestamp": 530,
+      "timecode": "08:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " that the price is a lot higher, $989. And that's because as the stock price approaches to call"
+    },
+    {
+      "timestamp": 540,
+      "timecode": "09:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " month. And so, the market is going to charge a lot more for the right to buy at that price. And so,"
+    },
+    {
+      "timestamp": 550,
+      "timecode": "09:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " see, we'll be collecting $989 for the January trade. And remember, once you've received that premium,"
+    },
+    {
+      "timestamp": 560,
+      "timecode": "09:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " nobody can take it away from you. That premium is yours and the cash is deposited directly into"
+    },
+    {
+      "timestamp": 570,
+      "timecode": "09:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " expired. And as you can see, the queues rallyed a bit more here, closing at $6.21.05. So, when this"
+    },
+    {
+      "timestamp": 580,
+      "timecode": "09:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " happens, you are required to sell the shares at the strike price of the call. So, you've got to sell"
+    },
+    {
+      "timestamp": 590,
+      "timecode": "09:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " they are automatically sold by your broker at the call strike price of $6.20. Now, I'd like to"
+    },
+    {
+      "timestamp": 600,
+      "timecode": "10:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " stop here, though, and ask you to think about something. We've been focusing on all the options"
+    },
+    {
+      "timestamp": 610,
+      "timecode": "10:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " happens, something that's actually a bit more significant. And that is that through this process"
+    },
+    {
+      "timestamp": 620,
+      "timecode": "10:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " because we were patient and incidentally got paid cash for waiting for our price. And that's what"
+    },
+    {
+      "timestamp": 630,
+      "timecode": "10:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " we got from those put premiums. But now, on top of that, we just sold those shares 25 points higher"
+    },
+    {
+      "timestamp": 640,
+      "timecode": "10:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " at $6.20. And so, if you do the math, we made a profit of $2,500 on those shares. And so, let's"
+    },
+    {
+      "timestamp": 650,
+      "timecode": "10:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " the options profit, but also the share profit from BIMELOW and SELLING HIGH, which is the whole idea"
+    },
+    {
+      "timestamp": 660,
+      "timecode": "11:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " positive cash flow for options premium, and you make money by getting into stocks at really"
+    },
+    {
+      "timestamp": 670,
+      "timecode": "11:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " great prices. This is why the strategy is so attractive. Okay, so, we sold a put collecting cash"
+    },
+    {
+      "timestamp": 680,
+      "timecode": "11:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " from those, and then the shares got assigned away due to our short calls at a great profit. So,"
+    },
+    {
+      "timestamp": 690,
+      "timecode": "11:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " where do we go from here? Well, why do you think it's called the wheel? It's called the wheel,"
+    },
+    {
+      "timestamp": 700,
+      "timecode": "11:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " and then we rotate back down to the put side, and what do we do? We start all over again,"
+    },
+    {
+      "timestamp": 710,
+      "timecode": "11:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " a great price, and do it all over again. And guess what? If we never get the opportunity,"
+    },
+    {
+      "timestamp": 720,
+      "timecode": "12:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " we're still getting paid for trying every month, because when we sell that next put for February,"
+    },
+    {
+      "timestamp": 730,
+      "timecode": "12:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " we get paid again, in this case, another $5.85 right down at the same strike price where we"
+    },
+    {
+      "timestamp": 740,
+      "timecode": "12:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " acquired the shares originally at that $5.95 put strike price, and we're collecting $585 in cash."
+    },
+    {
+      "timestamp": 750,
+      "timecode": "12:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " so it pulled back a bit from the previous month, and so what that means is that our put down at 595"
+    },
+    {
+      "timestamp": 760,
+      "timecode": "12:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " expires worthless, and so that put just dies, and we just add that cash to our profit,"
+    },
+    {
+      "timestamp": 770,
+      "timecode": "12:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Now, I'd like you to focus on a very important reality in all this, which you might have missed,"
+    },
+    {
+      "timestamp": 780,
+      "timecode": "13:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " what would have been the outcome, with basically the same capital had we just bought the shares"
+    },
+    {
+      "timestamp": 790,
+      "timecode": "13:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " of the queues back in October when we started the program when the queues were trading at 603-93."
+    },
+    {
+      "timestamp": 800,
+      "timecode": "13:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " $488, but with the wheel strategy, we made $5,813, more than 11 times as much profit over that same"
+    },
+    {
+      "timestamp": 810,
+      "timecode": "13:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " $488, but with the wheel strategy, we made $5,813, more than 11 times as much profit over that same"
+    },
+    {
+      "timestamp": 820,
+      "timecode": "13:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " to take advantage of price movements, even on stocks, which have hardly moved at all at the"
+    },
+    {
+      "timestamp": 830,
+      "timecode": "13:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " is a very powerful option strategy that allows you to monetize the movements of solid stocks"
+    },
+    {
+      "timestamp": 840,
+      "timecode": "14:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " so that you're always creating cash flow opportunities, and in cases like this example,"
+    },
+    {
+      "timestamp": 850,
+      "timecode": "14:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " strategy that options can open up for you once you begin to learn how options work. And when you"
+    },
+    {
+      "timestamp": 860,
+      "timecode": "14:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " to trade options is a great skill to have if you're interested in creating cash flow from the equity"
+    },
+    {
+      "timestamp": 870,
+      "timecode": "14:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " strategies that our pro traders use, including the unique options trick that allows you to make money"
+    },
+    {
+      "timestamp": 880,
+      "timecode": "14:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " while you wait to buy stocks or ETFs at the price you want, and the options income strategy that"
+    },
+    {
+      "timestamp": 890,
+      "timecode": "14:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " money on a stock or index trade, even if you're wrong on the direction, then click the link"
+    },
+    {
+      "timestamp": 900,
+      "timecode": "15:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " that's appearing right now at the top right hand corner of your screen. That will open up the"
+    },
+    {
+      "timestamp": 910,
+      "timecode": "15:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " or you can register directly for free at optionsclass.com."
+    }
+  ]
+}

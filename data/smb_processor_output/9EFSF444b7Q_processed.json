@@ -1,0 +1,1304 @@
+{
+  "video_id": "9EFSF444b7Q",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": " I read an article this week about a trading community of about a thousand members who all piled into a specific options trade every day."
+    },
+    {
+      "start": 8.0,
+      "end": 14.0,
+      "text": " And in fact, at least one member had risked his entire life savings to trade this particular strategy."
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "text": " And the reports are that the strategy was working out fine. It was doing great. Everybody was happy."
+    },
+    {
+      "start": 19.0,
+      "end": 28.0,
+      "text": " But then seemingly out of nowhere, late last year, to their horror, the active members of the community apparently experienced"
+    },
+    {
+      "start": 28.0,
+      "end": 33.0,
+      "text": " more than a $50 million loss over like a four or five day period."
+    },
+    {
+      "start": 33.0,
+      "end": 38.0,
+      "text": " And remember, this was a strategy that was reportedly performing really well before this happened."
+    },
+    {
+      "start": 38.0,
+      "end": 48.0,
+      "text": " And the guy who had risked his entire life savings, and there might have been more, I don't know, but that guy actually had to launch a GoFundMe page,"
+    },
+    {
+      "start": 48.0,
+      "end": 54.0,
+      "text": " soliciting donations to help him cover his basic living expenses. And this is really sad actually."
+    },
+    {
+      "start": 54.0,
+      "end": 61.0,
+      "text": " But you've got to ask yourself, how the hell does this happen? I mean, the strategy is doing really great one day."
+    },
+    {
+      "start": 61.0,
+      "end": 65.0,
+      "text": " And the next day, all these people are going broke from that same strategy."
+    },
+    {
+      "start": 65.0,
+      "end": 69.0,
+      "text": " So what is the lesson we can learn from this? How does this happen?"
+    },
+    {
+      "start": 69.0,
+      "end": 73.0,
+      "text": " Well, we're going to do a deep dive into how something like this can happen."
+    },
+    {
+      "start": 73.0,
+      "end": 81.0,
+      "text": " And I'm doing this because I want everyone watching this video to promise me you'll never get involved in any approach that sounds anything like this."
+    },
+    {
+      "start": 81.0,
+      "end": 86.0,
+      "text": " If you do, well, stick around and wait and see what could happen to you."
+    },
+    {
+      "start": 86.0,
+      "end": 91.0,
+      "text": " I'm Seth Furberg, I'm the head trader of SMB Capital Soptions Trading, Desk here in Manhattan."
+    },
+    {
+      "start": 91.0,
+      "end": 97.0,
+      "text": " And every once in a while, a catastrophe, a totally avoidable disaster takes place in the trading world."
+    },
+    {
+      "start": 97.0,
+      "end": 106.0,
+      "text": " And it's important for our community that follows our YouTube channel to be warned about this kind of thing so that you don't make this terrible mistake yourself."
+    },
+    {
+      "start": 106.0,
+      "end": 109.0,
+      "text": " And that's what today's video is going to be about."
+    },
+    {
+      "start": 109.0,
+      "end": 114.0,
+      "text": " Now, we're going to explain how this happened in this video and it involves a particular options income strategy."
+    },
+    {
+      "start": 114.0,
+      "end": 124.0,
+      "text": " And so if you're absolutely brand new to options trading and you don't know much about options and how they work, we've created a video for you to understand options basics."
+    },
+    {
+      "start": 124.0,
+      "end": 133.0,
+      "text": " And if you click the video appearing on your screen right now, it will lay the groundwork for understanding the options strategy that we'll be discussing in today's video."
+    },
+    {
+      "start": 133.0,
+      "end": 137.0,
+      "text": " Then when you're finished, you can come back and watch the rest of this video."
+    },
+    {
+      "start": 137.0,
+      "end": 143.0,
+      "text": " So first off, I need to say that I'm not privy to the precise trace that these people were doing each day."
+    },
+    {
+      "start": 143.0,
+      "end": 150.0,
+      "text": " I have a general idea of what they were doing enough to understand how this whole thing blew up and will run you through that in a minute."
+    },
+    {
+      "start": 150.0,
+      "end": 155.0,
+      "text": " So today's explanation is not going to be a factual breakdown of what happened in this case."
+    },
+    {
+      "start": 155.0,
+      "end": 163.0,
+      "text": " Instead, the example we're going to run you through today is a kind of a rough simulation estimate of what we understand happened to these poor folks."
+    },
+    {
+      "start": 164.0,
+      "end": 169.0,
+      "text": " And so the purpose of this video is not to issue an actual report on the loss these folks experience."
+    },
+    {
+      "start": 169.0,
+      "end": 179.0,
+      "text": " Rather, we want to run you through the math of why the basic principle upon which their trading strategy was premised had an enormous risk embedded in it."
+    },
+    {
+      "start": 179.0,
+      "end": 187.0,
+      "text": " So that if you ever come across ideas like this in the future, you'll understand just how catastrophic these ideas can become."
+    },
+    {
+      "start": 187.0,
+      "end": 190.0,
+      "text": " And so stay very, very far away from them."
+    },
+    {
+      "start": 191.0,
+      "end": 203.0,
+      "text": " Okay, and so the way that this trade works sometime near the closing bell, the traders pull up an options chain of the SPX index, the S&P 500 index, an options chain expiring the next day."
+    },
+    {
+      "start": 203.0,
+      "end": 207.0,
+      "text": " So in other words, what's called a one DTE options chain."
+    },
+    {
+      "start": 207.0,
+      "end": 219.0,
+      "text": " And then the trader proceeds to construct what options traders refer to as an iron condor, which in this case, we call a market neutral iron condor because the way it's positioned, it expresses no bias."
+    },
+    {
+      "start": 219.0,
+      "end": 231.0,
+      "text": " It's to what the direction of the index will be headed that next day is. In other words, the traders in different as to whether the index goes up or down as long as it doesn't go too far in either direction."
+    },
+    {
+      "start": 231.0,
+      "end": 239.0,
+      "text": " And so let's run through an example, which I believe to be around the same time frame as this catastrophe, you know, that happened to these folks."
+    },
+    {
+      "start": 239.0,
+      "end": 244.0,
+      "text": " Okay, so as I said, this strategy utilizes SPX index options."
+    },
+    {
+      "start": 244.0,
+      "end": 251.0,
+      "text": " So let's take a look at the daily chart of the SPX index back on December 18, 2025, right before Christmas."
+    },
+    {
+      "start": 251.0,
+      "end": 259.0,
+      "text": " As you can see, the index has been rallying all year off of its April lows, closing at 67, 74, 76 that day."
+    },
+    {
+      "start": 259.0,
+      "end": 266.0,
+      "text": " And so when you execute this particular option strategy, the iron condor, you actually collect cash upfront."
+    },
+    {
+      "start": 266.0,
+      "end": 275.0,
+      "text": " And the goal is basically to hold on to as much of that cash as possible. And how this happens will become clear to you as we go through the example."
+    },
+    {
+      "start": 275.0,
+      "end": 292.0,
+      "text": " So just hang in there. From what I understand, once the traders pull up that options chain expiring the next day, they would look at the call side and the put side on that options chain and try to find a combination of options where they would collect a net credit of $1.75 for each lock that they sold."
+    },
+    {
+      "start": 292.0,
+      "end": 298.0,
+      "text": " So for example, let's take a look at this options chain from 4 p.m. on December 18."
+    },
+    {
+      "start": 298.0,
+      "end": 309.0,
+      "text": " As you can see with SPX closing right around 67, 75, if you move up the options chain on the call side, you'll see that we've outlined both the 68, 10 and the 68, 15 calls."
+    },
+    {
+      "start": 309.0,
+      "end": 315.0,
+      "text": " And on the put side, we've outlined the 67, 45 and the 67, 40 puts."
+    },
+    {
+      "start": 315.0,
+      "end": 328.0,
+      "text": " If we just focus on the prices of those options, you'll see that if we had sold the 68, 10 call, bought the 68, 15 call, sold the 67, 45 put and bought the 67, 40 put."
+    },
+    {
+      "start": 328.0,
+      "end": 338.0,
+      "text": " If you net it all down, it comes to $1.80. That means the criterion of receiving at least $1.75 when you enter into this iron condor."
+    },
+    {
+      "start": 338.0,
+      "end": 345.0,
+      "text": " So let's suppose that the members of this trading community collectively sold 9,000 of these iron condors that day."
+    },
+    {
+      "start": 345.0,
+      "end": 352.0,
+      "text": " There were 1,000 of them, as I said, so it's very possible that the collective number could have been about 9,000 of these iron condors."
+    },
+    {
+      "start": 352.0,
+      "end": 357.0,
+      "text": " So the collective options chain for the community would look like this that day."
+    },
+    {
+      "start": 357.0,
+      "end": 370.0,
+      "text": " Selling 9,000 of the 68, 10 calls, buying 9,000 of the 68, 15 calls, selling 9,000 of the 67, 45 puts and buying 9,000 of the 67, 40 puts."
+    },
+    {
+      "start": 370.0,
+      "end": 381.0,
+      "text": " What happens cash flow wise when you do this? Well, as you can see, we sold the 68, 10 calls for price of 3, 45 but index pay options pay off at a rate of $100 per point."
+    },
+    {
+      "start": 381.0,
+      "end": 394.0,
+      "text": " And so you multiply that by 100 and we sold 9,000 of them. So when you multiply it all together, they would have received from selling those 9,000 calls, $3,100, $50,000."
+    },
+    {
+      "start": 394.0,
+      "end": 406.0,
+      "text": " But then you turn right around and pay out $2,385 for buying the 9,000 calls up at 68, 15 for protection, as you can see from that same calculation."
+    },
+    {
+      "start": 406.0,
+      "end": 420.0,
+      "text": " Then simultaneously we sold the 67, 45 puts bringing in 6,000,000,000 and as you can see from the calculation, we also pay out 5,000,000 for those protective 67, 40 puts."
+    },
+    {
+      "start": 420.0,
+      "end": 441.0,
+      "text": " So when you net it all down, it results in positive cash flow of a million 6, 20 for which their brokers collectively would require 2,880 in capital to execute this trade using this 9,000 lot trade size that we did here because that represents the worst case scenario loss on this trade."
+    },
+    {
+      "start": 441.0,
+      "end": 455.0,
+      "text": " Let's first talk about the desired outcome of this trade. You see, you've received a million 6, 20 in cash and the goal of the trade is to hold on to as much of that cash as possible by the end of the next day when the options expire."
+    },
+    {
+      "start": 455.0,
+      "end": 468.0,
+      "text": " The best outcome, the outcome where you get to keep all the cash, is if the index were to close at any price between the calls we sold at 68,000 and above the puts we sold at 67, 45, why?"
+    },
+    {
+      "start": 468.0,
+      "end": 482.0,
+      "text": " Because at any price between those two points, all four options expire worthless. That's because calls only have value if the closing price on expiration day is above the call strike price or in the case of puts below that put strike price."
+    },
+    {
+      "start": 482.0,
+      "end": 499.0,
+      "text": " But if the index ends up closing between those two points anywhere in that 65 point range between 67, 45 and 68, 10, then all four options would expire worthless because neither the calls nor the puts would have value in that range."
+    },
+    {
+      "start": 499.0,
+      "end": 513.0,
+      "text": " In which case then you get to just pocket the million 6, 20 in cash that you originally received the day before when you initiated the trade and that would be pretty cool right you get to keep a million 6, 120,000."
+    },
+    {
+      "start": 513.0,
+      "end": 523.0,
+      "text": " But there's another outcome and an example of that is what happened on the next day when this trade expires and all the options can be assigned their final value."
+    },
+    {
+      "start": 523.0,
+      "end": 539.0,
+      "text": " And so as you can see the next day, December 19, SPX staged a big rally closing up about 60 points to 68, 35, 50. Now at this point as we said, we're in a position where we can value each of the options because they've expired."
+    },
+    {
+      "start": 539.0,
+      "end": 552.0,
+      "text": " So let's take a look at that and you'll probably be pretty shocked to see that while you start with a million 6, 20 of initial cash you received, take a look at those 68, 10 calls that you sold to value a call at expiration."
+    },
+    {
+      "start": 552.0,
+      "end": 562.0,
+      "text": " You have to take the closing price of the index and subtract from it the strike price of the call which comes to 24, 50 in this case as you can see."
+    },
+    {
+      "start": 562.0,
+      "end": 575.0,
+      "text": " Well, when you multiply that by a hundred dollars of point and you sell 9,000 of these options you can see that comes out to a loss of payout by you of 22,000,000,000 on those calls."
+    },
+    {
+      "start": 575.0,
+      "end": 586.0,
+      "text": " Now you did also buy the 68, 15 calls and you're able to recover from your loss a lot, 17,550, which is what those calls are worth that expiration for the same reason."
+    },
+    {
+      "start": 586.0,
+      "end": 596.0,
+      "text": " To value the 68, 15 calls you subtract out the price of SPX from 68, 15 and you get 1950 for those."
+    },
+    {
+      "start": 596.0,
+      "end": 615.0,
+      "text": " So when you multiply that out it becomes a total value of 17,550 that your broker is going to cash in for you automatically and of course both the 67, 45 and 67, 40 puts expire worthless because they are way below the SPX closing price of 68, 30, 450."
+    },
+    {
+      "start": 615.0,
+      "end": 623.0,
+      "text": " And so when you net it all down it results in a loss to the community of $2,880,000."
+    },
+    {
+      "start": 623.0,
+      "end": 629.0,
+      "text": " Okay, so that's not a very good start, but the really bad part hasn't even been covered yet."
+    },
+    {
+      "start": 629.0,
+      "end": 641.0,
+      "text": " So let's get into that. You see the strategy that this group is apparently employing is a strategy based upon a money management technique that's actually used by gamblers called the Martin-Gale system."
+    },
+    {
+      "start": 641.0,
+      "end": 664.0,
+      "text": " And the idea is that anytime you experience a loss you simply put on a larger trade the next day where the initial cash received for selling the iron condor exceeds the loss from the previous days so that if the index closes between the calls and the puts that next day you get to keep that cash and you be up money after two days even though you had a big loss the previous day."
+    },
+    {
+      "start": 664.0,
+      "end": 680.0,
+      "text": " So in this case they need to collect more than 2,880, obviously when they entered into that next day's iron condor. Well to accomplish this the next day the trade would have required an increase in the lot size to 16,000 lots as you can see."
+    },
+    {
+      "start": 680.0,
+      "end": 691.0,
+      "text": " Why do I say that? Well if we look at the prices we got for each of these options you can see that we're talking some pretty big numbers here because the condor price per lot in this case was $1,550."
+    },
+    {
+      "start": 691.0,
+      "end": 711.0,
+      "text": " So that exceeds our minimum $1,75. And if you do the math a 16,000 lot iron condor comes to $2,960,000 in cash collected from selling that condor which exceeds the loss we had on the first trade by a bit which is how we got to that amount of lots."
+    },
+    {
+      "start": 712.0,
+      "end": 731.0,
+      "text": " And by the way in this case the communities broker collectively required 5,040 in capital for this second new trade but when we take a look at what happened the next day the index rallied again the next day up 44 points this time to 68,78,49."
+    },
+    {
+      "start": 732.0,
+      "end": 760.0,
+      "text": " Well how did our trade do? Well not too great because again starting with the initial 2,660,880 would have collected the index blue far past the calls they sold at 68,65, forcing them to pay out over $21 million for those although they recover over $13 million from the calls they bought up at 68,70 but that wasn't nearly enough obviously and the traders would have lost $5,040,000 that day."
+    },
+    {
+      "start": 760.0,
+      "end": 778.0,
+      "text": " So now keeping track of where we are you can see that we're now up to total losses of 7,920,000 dollars. And so we need to overcome that with the cash flow from the next days trade and so in this case we have to put on a 42,000 lot iron condor."
+    },
+    {
+      "start": 778.0,
+      "end": 796.0,
+      "text": " Why? Well if we do the math we realize that with each slot bringing in a dollar 90 that we be needing 42,000 lots to get up to 7,980 and positive cash flow which again slightly exceeds our loss from the first true trades."
+    },
+    {
+      "start": 796.0,
+      "end": 820.0,
+      "text": " Unfortunately the next day the index rallied again closing is the 909.79 that day which is above the location of both of the calls and so when we do the calculation as you can see we've now added another $13 million,20,000 to our growing pile of losses which now totals over $20 million."
+    },
+    {
+      "start": 820.0,
+      "end": 833.0,
+      "text": " And so once again as the system dictates the traders entered the next days trade with now because the massive losses would have required a 105,000 lot iron condor."
+    },
+    {
+      "start": 833.0,
+      "end": 845.0,
+      "text": " Now more than 11 times larger than the first trade just three days ago by the way which produces 21,210,000 just enough to cover the previous losses."
+    },
+    {
+      "start": 845.0,
+      "end": 859.0,
+      "text": " And these condors are going to require a collective 31,290,000 in capital more than 28,000,000 more capital than was required by the very first trade just three days earlier."
+    },
+    {
+      "start": 859.0,
+      "end": 876.0,
+      "text": " And so as some kind of a sick Christmas present on Christmas Eve the SPX index rallied yet again closing at 69,30,205 blowing again well past the location of both calls resulting in a loss of over $31 million."
+    },
+    {
+      "start": 876.0,
+      "end": 894.0,
+      "text": " Resulting in a cumulative loss over $50 million in four days and of course as it always inevitably will many of the community members apparently simply ran out of money and some of them were as a result in financial ruined."
+    },
+    {
+      "start": 894.0,
+      "end": 913.0,
+      "text": " And so what are the lessons that we can draw from this very sad story well though is obvious and glaring one is that any system predicated on ballooning capital for each losing trade until you make up all the losses from all the previous cumulative trades that has a giant flaw on it doesn't it."
+    },
+    {
+      "start": 913.0,
+      "end": 933.0,
+      "text": " And that is that there's no one with unlimited amounts of capital it may sound like a foolproof plan you just keep doubling and tripling and quadrupling down on the same bet until the finally wins which it eventually will but the flaws that you won't be there to take that final bet that wins it all back because you'll have gone into bankruptcy."
+    },
+    {
+      "start": 933.0,
+      "end": 939.0,
+      "text": " In other words you won't be able to make that bet and so then the entire thing collapses."
+    },
+    {
+      "start": 939.0,
+      "end": 948.0,
+      "text": " The Martin Gale system may or may not work in gambling I don't know but it sure as hell doesn't work in trading and so this is a cautionary tale."
+    },
+    {
+      "start": 948.0,
+      "end": 959.0,
+      "text": " You can either accept it or not but I can virtually assure you that if you ignore the advice we're giving you in this video you'll lose all your money and your dreams of becoming a full time trader will go up and smoke."
+    },
+    {
+      "start": 959.0,
+      "end": 988.0,
+      "text": " There are plenty of options trading systems that have edge with steady levels of capital and don't require infinite capital to work professional traders work with their mentors and their colleagues to develop these trading systems and then trade them often very successfully with reasonable amounts of capital which through their own profits or supplemental capital from others can be scaled up carefully and deliberately to very meaningful levels without taking crazy risk that will end up in disaster like capital."
+    },
+    {
+      "start": 988.0,
+      "end": 1017.0,
+      "text": " There are a lot of options that are like happen to these poor people. If you like to learn three more options strategies that are pro traders use including the unique options trick that allows you to make money while you wait to buy stocks or ETFs at the price you want and the options income strategy that allows you to make consistent money whether the market goes up or down or sideways and how to make money on a stock or index trade even if you're wrong on the direction."
+    },
+    {
+      "start": 1017.0,
+      "end": 1035.0,
+      "text": " Then click the link that's appearing right now at the top right hand corner of your screen that will open up the free workshop registration page in a new window so don't worry you won't lose this video or you can register directly for free at options class.com."
+    }
+  ],
+  "visual_entries": [
+    {
+      "timestamp": 0,
+      "timecode": "00:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " I read an article this week about a trading community of about a thousand members who all piled into a specific options trade every day."
+    },
+    {
+      "timestamp": 10,
+      "timecode": "00:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And in fact, at least one member had risked his entire life savings to trade this particular strategy."
+    },
+    {
+      "timestamp": 20,
+      "timecode": "00:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " But then seemingly out of nowhere, late last year, to their horror, the active members of the community apparently experienced"
+    },
+    {
+      "timestamp": 30,
+      "timecode": "00:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " more than a $50 million loss over like a four or five day period."
+    },
+    {
+      "timestamp": 40,
+      "timecode": "00:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And the guy who had risked his entire life savings, and there might have been more, I don't know, but that guy actually had to launch a GoFundMe page,"
+    },
+    {
+      "timestamp": 50,
+      "timecode": "00:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " soliciting donations to help him cover his basic living expenses. And this is really sad actually."
+    },
+    {
+      "timestamp": 60,
+      "timecode": "01:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " But you've got to ask yourself, how the hell does this happen? I mean, the strategy is doing really great one day."
+    },
+    {
+      "timestamp": 70,
+      "timecode": "01:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Well, we're going to do a deep dive into how something like this can happen."
+    },
+    {
+      "timestamp": 80,
+      "timecode": "01:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And I'm doing this because I want everyone watching this video to promise me you'll never get involved in any approach that sounds anything like this."
+    },
+    {
+      "timestamp": 90,
+      "timecode": "01:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " I'm Seth Furberg, I'm the head trader of SMB Capital Soptions Trading, Desk here in Manhattan."
+    },
+    {
+      "timestamp": 100,
+      "timecode": "01:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And it's important for our community that follows our YouTube channel to be warned about this kind of thing so that you don't make this terrible mistake yourself."
+    },
+    {
+      "timestamp": 110,
+      "timecode": "01:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Now, we're going to explain how this happened in this video and it involves a particular options income strategy."
+    },
+    {
+      "timestamp": 120,
+      "timecode": "02:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so if you're absolutely brand new to options trading and you don't know much about options and how they work, we've created a video for you to understand options basics."
+    },
+    {
+      "timestamp": 130,
+      "timecode": "02:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And if you click the video appearing on your screen right now, it will lay the groundwork for understanding the options strategy that we'll be discussing in today's video."
+    },
+    {
+      "timestamp": 140,
+      "timecode": "02:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So first off, I need to say that I'm not privy to the precise trace that these people were doing each day."
+    },
+    {
+      "timestamp": 150,
+      "timecode": "02:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " I have a general idea of what they were doing enough to understand how this whole thing blew up and will run you through that in a minute."
+    },
+    {
+      "timestamp": 160,
+      "timecode": "02:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Instead, the example we're going to run you through today is a kind of a rough simulation estimate of what we understand happened to these poor folks."
+    },
+    {
+      "timestamp": 170,
+      "timecode": "02:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Rather, we want to run you through the math of why the basic principle upon which their trading strategy was premised had an enormous risk embedded in it."
+    },
+    {
+      "timestamp": 180,
+      "timecode": "03:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So that if you ever come across ideas like this in the future, you'll understand just how catastrophic these ideas can become."
+    },
+    {
+      "timestamp": 190,
+      "timecode": "03:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so stay very, very far away from them."
+    },
+    {
+      "timestamp": 200,
+      "timecode": "03:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Okay, and so the way that this trade works sometime near the closing bell, the traders pull up an options chain of the SPX index, the S&P 500 index, an options chain expiring the next day."
+    },
+    {
+      "timestamp": 210,
+      "timecode": "03:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And then the trader proceeds to construct what options traders refer to as an iron condor, which in this case, we call a market neutral iron condor because the way it's positioned, it expresses no bi"
+    },
+    {
+      "timestamp": 220,
+      "timecode": "03:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It's to what the direction of the index will be headed that next day is. In other words, the traders in different as to whether the index goes up or down as long as it doesn't go too far in either di"
+    },
+    {
+      "timestamp": 230,
+      "timecode": "03:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It's to what the direction of the index will be headed that next day is. In other words, the traders in different as to whether the index goes up or down as long as it doesn't go too far in either di"
+    },
+    {
+      "timestamp": 240,
+      "timecode": "04:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Okay, so as I said, this strategy utilizes SPX index options."
+    },
+    {
+      "timestamp": 250,
+      "timecode": "04:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So let's take a look at the daily chart of the SPX index back on December 18, 2025, right before Christmas."
+    },
+    {
+      "timestamp": 260,
+      "timecode": "04:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so when you execute this particular option strategy, the iron condor, you actually collect cash upfront."
+    },
+    {
+      "timestamp": 270,
+      "timecode": "04:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And the goal is basically to hold on to as much of that cash as possible. And how this happens will become clear to you as we go through the example."
+    },
+    {
+      "timestamp": 280,
+      "timecode": "04:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So just hang in there. From what I understand, once the traders pull up that options chain expiring the next day, they would look at the call side and the put side on that options chain and try to fi"
+    },
+    {
+      "timestamp": 290,
+      "timecode": "04:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So just hang in there. From what I understand, once the traders pull up that options chain expiring the next day, they would look at the call side and the put side on that options chain and try to fi"
+    },
+    {
+      "timestamp": 300,
+      "timecode": "05:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " As you can see with SPX closing right around 67, 75, if you move up the options chain on the call side, you'll see that we've outlined both the 68, 10 and the 68, 15 calls."
+    },
+    {
+      "timestamp": 310,
+      "timecode": "05:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And on the put side, we've outlined the 67, 45 and the 67, 40 puts."
+    },
+    {
+      "timestamp": 320,
+      "timecode": "05:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " If we just focus on the prices of those options, you'll see that if we had sold the 68, 10 call, bought the 68, 15 call, sold the 67, 45 put and bought the 67, 40 put."
+    },
+    {
+      "timestamp": 330,
+      "timecode": "05:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " If you net it all down, it comes to $1.80. That means the criterion of receiving at least $1.75 when you enter into this iron condor."
+    },
+    {
+      "timestamp": 340,
+      "timecode": "05:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So let's suppose that the members of this trading community collectively sold 9,000 of these iron condors that day."
+    },
+    {
+      "timestamp": 350,
+      "timecode": "05:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " There were 1,000 of them, as I said, so it's very possible that the collective number could have been about 9,000 of these iron condors."
+    },
+    {
+      "timestamp": 360,
+      "timecode": "06:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Selling 9,000 of the 68, 10 calls, buying 9,000 of the 68, 15 calls, selling 9,000 of the 67, 45 puts and buying 9,000 of the 67, 40 puts."
+    },
+    {
+      "timestamp": 370,
+      "timecode": "06:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Selling 9,000 of the 68, 10 calls, buying 9,000 of the 68, 15 calls, selling 9,000 of the 67, 45 puts and buying 9,000 of the 67, 40 puts."
+    },
+    {
+      "timestamp": 380,
+      "timecode": "06:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " What happens cash flow wise when you do this? Well, as you can see, we sold the 68, 10 calls for price of 3, 45 but index pay options pay off at a rate of $100 per point."
+    },
+    {
+      "timestamp": 390,
+      "timecode": "06:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so you multiply that by 100 and we sold 9,000 of them. So when you multiply it all together, they would have received from selling those 9,000 calls, $3,100, $50,000."
+    },
+    {
+      "timestamp": 400,
+      "timecode": "06:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " But then you turn right around and pay out $2,385 for buying the 9,000 calls up at 68, 15 for protection, as you can see from that same calculation."
+    },
+    {
+      "timestamp": 410,
+      "timecode": "06:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Then simultaneously we sold the 67, 45 puts bringing in 6,000,000,000 and as you can see from the calculation, we also pay out 5,000,000 for those protective 67, 40 puts."
+    },
+    {
+      "timestamp": 420,
+      "timecode": "07:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Then simultaneously we sold the 67, 45 puts bringing in 6,000,000,000 and as you can see from the calculation, we also pay out 5,000,000 for those protective 67, 40 puts."
+    },
+    {
+      "timestamp": 430,
+      "timecode": "07:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So when you net it all down, it results in positive cash flow of a million 6, 20 for which their brokers collectively would require 2,880 in capital to execute this trade using this 9,000 lot trade s"
+    },
+    {
+      "timestamp": 440,
+      "timecode": "07:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So when you net it all down, it results in positive cash flow of a million 6, 20 for which their brokers collectively would require 2,880 in capital to execute this trade using this 9,000 lot trade s"
+    },
+    {
+      "timestamp": 450,
+      "timecode": "07:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Let's first talk about the desired outcome of this trade. You see, you've received a million 6, 20 in cash and the goal of the trade is to hold on to as much of that cash as possible by the end of th"
+    },
+    {
+      "timestamp": 460,
+      "timecode": "07:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " The best outcome, the outcome where you get to keep all the cash, is if the index were to close at any price between the calls we sold at 68,000 and above the puts we sold at 67, 45, why?"
+    },
+    {
+      "timestamp": 470,
+      "timecode": "07:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Because at any price between those two points, all four options expire worthless. That's because calls only have value if the closing price on expiration day is above the call strike price or in the "
+    },
+    {
+      "timestamp": 480,
+      "timecode": "08:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Because at any price between those two points, all four options expire worthless. That's because calls only have value if the closing price on expiration day is above the call strike price or in the "
+    },
+    {
+      "timestamp": 490,
+      "timecode": "08:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " But if the index ends up closing between those two points anywhere in that 65 point range between 67, 45 and 68, 10, then all four options would expire worthless because neither the calls nor the put"
+    },
+    {
+      "timestamp": 500,
+      "timecode": "08:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " In which case then you get to just pocket the million 6, 20 in cash that you originally received the day before when you initiated the trade and that would be pretty cool right you get to keep a mill"
+    },
+    {
+      "timestamp": 510,
+      "timecode": "08:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " In which case then you get to just pocket the million 6, 20 in cash that you originally received the day before when you initiated the trade and that would be pretty cool right you get to keep a mill"
+    },
+    {
+      "timestamp": 520,
+      "timecode": "08:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " But there's another outcome and an example of that is what happened on the next day when this trade expires and all the options can be assigned their final value."
+    },
+    {
+      "timestamp": 530,
+      "timecode": "08:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so as you can see the next day, December 19, SPX staged a big rally closing up about 60 points to 68, 35, 50. Now at this point as we said, we're in a position where we can value each of the opti"
+    },
+    {
+      "timestamp": 540,
+      "timecode": "09:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So let's take a look at that and you'll probably be pretty shocked to see that while you start with a million 6, 20 of initial cash you received, take a look at those 68, 10 calls that you sold to va"
+    },
+    {
+      "timestamp": 550,
+      "timecode": "09:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So let's take a look at that and you'll probably be pretty shocked to see that while you start with a million 6, 20 of initial cash you received, take a look at those 68, 10 calls that you sold to va"
+    },
+    {
+      "timestamp": 560,
+      "timecode": "09:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " You have to take the closing price of the index and subtract from it the strike price of the call which comes to 24, 50 in this case as you can see."
+    },
+    {
+      "timestamp": 570,
+      "timecode": "09:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Well, when you multiply that by a hundred dollars of point and you sell 9,000 of these options you can see that comes out to a loss of payout by you of 22,000,000,000 on those calls."
+    },
+    {
+      "timestamp": 580,
+      "timecode": "09:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Now you did also buy the 68, 15 calls and you're able to recover from your loss a lot, 17,550, which is what those calls are worth that expiration for the same reason."
+    },
+    {
+      "timestamp": 590,
+      "timecode": "09:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " To value the 68, 15 calls you subtract out the price of SPX from 68, 15 and you get 1950 for those."
+    },
+    {
+      "timestamp": 600,
+      "timecode": "10:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So when you multiply that out it becomes a total value of 17,550 that your broker is going to cash in for you automatically and of course both the 67, 45 and 67, 40 puts expire worthless because they"
+    },
+    {
+      "timestamp": 610,
+      "timecode": "10:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So when you multiply that out it becomes a total value of 17,550 that your broker is going to cash in for you automatically and of course both the 67, 45 and 67, 40 puts expire worthless because they"
+    },
+    {
+      "timestamp": 620,
+      "timecode": "10:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so when you net it all down it results in a loss to the community of $2,880,000."
+    },
+    {
+      "timestamp": 630,
+      "timecode": "10:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So let's get into that. You see the strategy that this group is apparently employing is a strategy based upon a money management technique that's actually used by gamblers called the Martin-Gale syst"
+    },
+    {
+      "timestamp": 640,
+      "timecode": "10:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So let's get into that. You see the strategy that this group is apparently employing is a strategy based upon a money management technique that's actually used by gamblers called the Martin-Gale syst"
+    },
+    {
+      "timestamp": 650,
+      "timecode": "10:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And the idea is that anytime you experience a loss you simply put on a larger trade the next day where the initial cash received for selling the iron condor exceeds the loss from the previous days so"
+    },
+    {
+      "timestamp": 660,
+      "timecode": "11:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And the idea is that anytime you experience a loss you simply put on a larger trade the next day where the initial cash received for selling the iron condor exceeds the loss from the previous days so"
+    },
+    {
+      "timestamp": 670,
+      "timecode": "11:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So in this case they need to collect more than 2,880, obviously when they entered into that next day's iron condor. Well to accomplish this the next day the trade would have required an increase in t"
+    },
+    {
+      "timestamp": 680,
+      "timecode": "11:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So in this case they need to collect more than 2,880, obviously when they entered into that next day's iron condor. Well to accomplish this the next day the trade would have required an increase in t"
+    },
+    {
+      "timestamp": 690,
+      "timecode": "11:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Why do I say that? Well if we look at the prices we got for each of these options you can see that we're talking some pretty big numbers here because the condor price per lot in this case was $1,550."
+    },
+    {
+      "timestamp": 700,
+      "timecode": "11:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So that exceeds our minimum $1,75. And if you do the math a 16,000 lot iron condor comes to $2,960,000 in cash collected from selling that condor which exceeds the loss we had on the first trade by a"
+    },
+    {
+      "timestamp": 710,
+      "timecode": "11:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So that exceeds our minimum $1,75. And if you do the math a 16,000 lot iron condor comes to $2,960,000 in cash collected from selling that condor which exceeds the loss we had on the first trade by a"
+    },
+    {
+      "timestamp": 720,
+      "timecode": "12:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And by the way in this case the communities broker collectively required 5,040 in capital for this second new trade but when we take a look at what happened the next day the index rallied again the n"
+    },
+    {
+      "timestamp": 730,
+      "timecode": "12:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And by the way in this case the communities broker collectively required 5,040 in capital for this second new trade but when we take a look at what happened the next day the index rallied again the n"
+    },
+    {
+      "timestamp": 740,
+      "timecode": "12:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Well how did our trade do? Well not too great because again starting with the initial 2,660,880 would have collected the index blue far past the calls they sold at 68,65, forcing them to pay out over"
+    },
+    {
+      "timestamp": 750,
+      "timecode": "12:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Well how did our trade do? Well not too great because again starting with the initial 2,660,880 would have collected the index blue far past the calls they sold at 68,65, forcing them to pay out over"
+    },
+    {
+      "timestamp": 760,
+      "timecode": "12:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Well how did our trade do? Well not too great because again starting with the initial 2,660,880 would have collected the index blue far past the calls they sold at 68,65, forcing them to pay out over"
+    },
+    {
+      "timestamp": 770,
+      "timecode": "12:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So now keeping track of where we are you can see that we're now up to total losses of 7,920,000 dollars. And so we need to overcome that with the cash flow from the next days trade and so in this cas"
+    },
+    {
+      "timestamp": 780,
+      "timecode": "13:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Why? Well if we do the math we realize that with each slot bringing in a dollar 90 that we be needing 42,000 lots to get up to 7,980 and positive cash flow which again slightly exceeds our loss from "
+    },
+    {
+      "timestamp": 790,
+      "timecode": "13:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Why? Well if we do the math we realize that with each slot bringing in a dollar 90 that we be needing 42,000 lots to get up to 7,980 and positive cash flow which again slightly exceeds our loss from "
+    },
+    {
+      "timestamp": 800,
+      "timecode": "13:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Unfortunately the next day the index rallied again closing is the 909.79 that day which is above the location of both of the calls and so when we do the calculation as you can see we've now added ano"
+    },
+    {
+      "timestamp": 810,
+      "timecode": "13:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Unfortunately the next day the index rallied again closing is the 909.79 that day which is above the location of both of the calls and so when we do the calculation as you can see we've now added ano"
+    },
+    {
+      "timestamp": 820,
+      "timecode": "13:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Unfortunately the next day the index rallied again closing is the 909.79 that day which is above the location of both of the calls and so when we do the calculation as you can see we've now added ano"
+    },
+    {
+      "timestamp": 830,
+      "timecode": "13:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so once again as the system dictates the traders entered the next days trade with now because the massive losses would have required a 105,000 lot iron condor."
+    },
+    {
+      "timestamp": 840,
+      "timecode": "14:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Now more than 11 times larger than the first trade just three days ago by the way which produces 21,210,000 just enough to cover the previous losses."
+    },
+    {
+      "timestamp": 850,
+      "timecode": "14:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And these condors are going to require a collective 31,290,000 in capital more than 28,000,000 more capital than was required by the very first trade just three days earlier."
+    },
+    {
+      "timestamp": 860,
+      "timecode": "14:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so as some kind of a sick Christmas present on Christmas Eve the SPX index rallied yet again closing at 69,30,205 blowing again well past the location of both calls resulting in a loss of over $3"
+    },
+    {
+      "timestamp": 870,
+      "timecode": "14:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so as some kind of a sick Christmas present on Christmas Eve the SPX index rallied yet again closing at 69,30,205 blowing again well past the location of both calls resulting in a loss of over $3"
+    },
+    {
+      "timestamp": 880,
+      "timecode": "14:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Resulting in a cumulative loss over $50 million in four days and of course as it always inevitably will many of the community members apparently simply ran out of money and some of them were as a res"
+    },
+    {
+      "timestamp": 890,
+      "timecode": "14:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Resulting in a cumulative loss over $50 million in four days and of course as it always inevitably will many of the community members apparently simply ran out of money and some of them were as a res"
+    },
+    {
+      "timestamp": 900,
+      "timecode": "15:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so what are the lessons that we can draw from this very sad story well though is obvious and glaring one is that any system predicated on ballooning capital for each losing trade until you make u"
+    },
+    {
+      "timestamp": 910,
+      "timecode": "15:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so what are the lessons that we can draw from this very sad story well though is obvious and glaring one is that any system predicated on ballooning capital for each losing trade until you make u"
+    },
+    {
+      "timestamp": 920,
+      "timecode": "15:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And that is that there's no one with unlimited amounts of capital it may sound like a foolproof plan you just keep doubling and tripling and quadrupling down on the same bet until the finally wins wh"
+    },
+    {
+      "timestamp": 930,
+      "timecode": "15:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And that is that there's no one with unlimited amounts of capital it may sound like a foolproof plan you just keep doubling and tripling and quadrupling down on the same bet until the finally wins wh"
+    },
+    {
+      "timestamp": 940,
+      "timecode": "15:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " The Martin Gale system may or may not work in gambling I don't know but it sure as hell doesn't work in trading and so this is a cautionary tale."
+    },
+    {
+      "timestamp": 950,
+      "timecode": "15:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " You can either accept it or not but I can virtually assure you that if you ignore the advice we're giving you in this video you'll lose all your money and your dreams of becoming a full time trader w"
+    },
+    {
+      "timestamp": 960,
+      "timecode": "16:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " There are plenty of options trading systems that have edge with steady levels of capital and don't require infinite capital to work professional traders work with their mentors and their colleagues t"
+    },
+    {
+      "timestamp": 970,
+      "timecode": "16:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " There are plenty of options trading systems that have edge with steady levels of capital and don't require infinite capital to work professional traders work with their mentors and their colleagues t"
+    },
+    {
+      "timestamp": 980,
+      "timecode": "16:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " There are plenty of options trading systems that have edge with steady levels of capital and don't require infinite capital to work professional traders work with their mentors and their colleagues t"
+    },
+    {
+      "timestamp": 990,
+      "timecode": "16:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " There are a lot of options that are like happen to these poor people. If you like to learn three more options strategies that are pro traders use including the unique options trick that allows you to"
+    },
+    {
+      "timestamp": 1000,
+      "timecode": "16:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " There are a lot of options that are like happen to these poor people. If you like to learn three more options strategies that are pro traders use including the unique options trick that allows you to"
+    },
+    {
+      "timestamp": 1010,
+      "timecode": "16:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " There are a lot of options that are like happen to these poor people. If you like to learn three more options strategies that are pro traders use including the unique options trick that allows you to"
+    },
+    {
+      "timestamp": 1020,
+      "timecode": "17:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Then click the link that's appearing right now at the top right hand corner of your screen that will open up the free workshop registration page in a new window so don't worry you won't lose this vid"
+    },
+    {
+      "timestamp": 1030,
+      "timecode": "17:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Then click the link that's appearing right now at the top right hand corner of your screen that will open up the free workshop registration page in a new window so don't worry you won't lose this vid"
+    }
+  ]
+}

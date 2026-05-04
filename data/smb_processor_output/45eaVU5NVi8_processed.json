@@ -1,0 +1,2423 @@
+{
+  "video_id": "45eaVU5NVi8",
+  "segments": [
+    {
+      "timestamp": 0.0,
+      "end_timestamp": 3.08,
+      "text": "Two months ago, I couldn't write a line of HTML."
+    },
+    {
+      "timestamp": 3.56,
+      "end_timestamp": 8.3,
+      "text": "Today, I have a personal AI trading assistant that tracks every trade I've made this year."
+    },
+    {
+      "timestamp": 8.78,
+      "end_timestamp": 12.92,
+      "text": "It flags the moment I start repeating mistakes I've already paid for."
+    },
+    {
+      "timestamp": 13.4,
+      "end_timestamp": 19.16,
+      "text": "Auto-populates my dashboard while I just talk to it about my day and runs a full ritual"
+    },
+    {
+      "timestamp": 19.16,
+      "end_timestamp": 22.76,
+      "text": "at 4.15 every afternoon without me lifting a finger."
+    },
+    {
+      "timestamp": 23.38,
+      "end_timestamp": 28.62,
+      "text": "I built the entire thing in a single afternoon and by the end of this video, so will you."
+    },
+    {
+      "timestamp": 29.2,
+      "end_timestamp": 34.78,
+      "text": "Clawed code unlocked this for anyone and the traders are already using it are pulling ahead fast."
+    },
+    {
+      "timestamp": 34.98,
+      "end_timestamp": 36.34,
+      "text": "I'm not going to talk in theory."
+    },
+    {
+      "timestamp": 36.84,
+      "end_timestamp": 39.16,
+      "text": "I'm not going to tell you AI is powerful."
+    },
+    {
+      "timestamp": 39.5,
+      "end_timestamp": 40.14,
+      "text": "You know that."
+    },
+    {
+      "timestamp": 40.88,
+      "end_timestamp": 47.94,
+      "text": "I'm going to show you the exact four-step workflow I use and take you from a blank page to a working"
+    },
+    {
+      "timestamp": 47.94,
+      "end_timestamp": 49.3,
+      "text": "trading assistant today."
+    },
+    {
+      "timestamp": 49.76,
+      "end_timestamp": 55.74,
+      "text": "Every prompt I typed, the exact order, the shortcuts, the guardrails that kept me out of trouble."
+    },
+    {
+      "timestamp": 56.16,
+      "end_timestamp": 56.98,
+      "text": "You'll have them all."
+    },
+    {
+      "timestamp": 57.62,
+      "end_timestamp": 62.84,
+      "text": "And you can pause this video, copy them, and paste them into your own session as I go along."
+    },
+    {
+      "timestamp": 63.2,
+      "end_timestamp": 64.0,
+      "text": "That's the point."
+    },
+    {
+      "timestamp": 64.68,
+      "end_timestamp": 66.04,
+      "text": "You're not copying my dashboard."
+    },
+    {
+      "timestamp": 66.6,
+      "end_timestamp": 69.52,
+      "text": "You're learning the workflow that lets you build yours."
+    },
+    {
+      "timestamp": 70.16,
+      "end_timestamp": 74.0,
+      "text": "You have everything you need to close it right now today."
+    },
+    {
+      "timestamp": 74.48,
+      "end_timestamp": 76.38,
+      "text": "All right, let's get into it, Garrett. How's it going?"
+    },
+    {
+      "timestamp": 76.82,
+      "end_timestamp": 77.36,
+      "text": "It's good, man."
+    },
+    {
+      "timestamp": 77.58,
+      "end_timestamp": 83.64,
+      "text": "So I'm excited about this one because as we talked about it for a few minutes briefly,"
+    },
+    {
+      "timestamp": 83.64,
+      "end_timestamp": 88.56,
+      "text": "and you kind of filled me in on what you wanted to talk about today, I love it because this is like,"
+    },
+    {
+      "timestamp": 88.74,
+      "end_timestamp": 93.32,
+      "text": "this is just, let's lay out the actionable stuff, right?"
+    },
+    {
+      "timestamp": 93.48,
+      "end_timestamp": 98.14,
+      "text": "And I thought about myself in this situation, but I'm somebody who knows how to code."
+    },
+    {
+      "timestamp": 98.4,
+      "end_timestamp": 104.52,
+      "text": "And I come, we figured out how to code and do a lot of this stuff on our own before AI came in."
+    },
+    {
+      "timestamp": 105.32,
+      "end_timestamp": 111.64,
+      "text": "But even then, once Cloud Code came about and co-work and the agentic AI stuff,"
+    },
+    {
+      "timestamp": 111.64,
+      "end_timestamp": 115.22,
+      "text": "I was even kind of coming from a coding background."
+    },
+    {
+      "timestamp": 115.4,
+      "end_timestamp": 116.38,
+      "text": "I was kind of like, where do I start?"
+    },
+    {
+      "timestamp": 117.04,
+      "end_timestamp": 119.56,
+      "text": "Right? Like I was asking you all kinds of questions like, what are you been doing?"
+    },
+    {
+      "timestamp": 119.74,
+      "end_timestamp": 121.64,
+      "text": "How do you kick off this project?"
+    },
+    {
+      "timestamp": 121.92,
+      "end_timestamp": 128.68,
+      "text": "So I'm thinking about people I know, traders I know who have zero coding background,"
+    },
+    {
+      "timestamp": 129.28,
+      "end_timestamp": 131.1,
+      "text": "not much AI experience."
+    },
+    {
+      "timestamp": 131.58,
+      "end_timestamp": 134.68,
+      "text": "And I've mentioned my dad before because he's like, he can trade."
+    },
+    {
+      "timestamp": 135.12,
+      "end_timestamp": 140.76,
+      "text": "He knows he's doing, but he doesn't necessarily know what he's doing with the AI stuff."
+    },
+    {
+      "timestamp": 140.76,
+      "end_timestamp": 150.32,
+      "text": "And it's like for him, it's like, okay, can I just give you like a recipe for how to build your own AI assistant"
+    },
+    {
+      "timestamp": 150.32,
+      "end_timestamp": 155.42,
+      "text": "that you could follow and do the same kind of stuff that Tim is doing."
+    },
+    {
+      "timestamp": 155.56,
+      "end_timestamp": 156.54,
+      "text": "And that's what we're going to do today."
+    },
+    {
+      "timestamp": 156.54,
+      "end_timestamp": 157.52,
+      "text": "So that's what I'm excited."
+    },
+    {
+      "timestamp": 158.04,
+      "end_timestamp": 159.1,
+      "text": "So why don't we just start?"
+    },
+    {
+      "timestamp": 159.34,
+      "end_timestamp": 166.26,
+      "text": "What's where do we begin if you're just getting into this and you want to create your own AI trading assistant?"
+    },
+    {
+      "timestamp": 167.26,
+      "end_timestamp": 174.9,
+      "text": "And the big like takeaway I want to have today is that it's not about the dashboard that we're building."
+    },
+    {
+      "timestamp": 175.08,
+      "end_timestamp": 180.08,
+      "text": "The idea is you're going to have the steps, four steps that you can build anything."
+    },
+    {
+      "timestamp": 180.66,
+      "end_timestamp": 188.04,
+      "text": "And what I've found like what makes Claude awesome is it's not like you're doing crazy, complicated prompts."
+    },
+    {
+      "timestamp": 188.6,
+      "end_timestamp": 191.94,
+      "text": "It's not like you need to really know specifically what to ask."
+    },
+    {
+      "timestamp": 191.98,
+      "end_timestamp": 195.4,
+      "text": "You have to just be curious in like the possibilities are endless."
+    },
+    {
+      "timestamp": 195.4,
+      "end_timestamp": 201.72,
+      "text": "And if you follow like four steps, which we will go over like you can build anything."
+    },
+    {
+      "timestamp": 202.62,
+      "end_timestamp": 204.34,
+      "text": "So let's just jump into it."
+    },
+    {
+      "timestamp": 204.4,
+      "end_timestamp": 210.96,
+      "text": "So what's the take if the takeaway is not to not be because you're going to show the tool that you built, right?"
+    },
+    {
+      "timestamp": 211.26,
+      "end_timestamp": 212.04,
+      "text": "The dashboard."
+    },
+    {
+      "timestamp": 212.78,
+      "end_timestamp": 215.0,
+      "text": "But you're saying the takeaway is not the dashboard."
+    },
+    {
+      "timestamp": 215.14,
+      "end_timestamp": 222.14,
+      "text": "That's going to be like a fun accident that people can, people can certainly copy that and take away that from the video."
+    },
+    {
+      "timestamp": 222.14,
+      "end_timestamp": 223.86,
+      "text": "But what is the takeaway to you?"
+    },
+    {
+      "timestamp": 224.74,
+      "end_timestamp": 226.84,
+      "text": "The takeaway is going to just be the workflow."
+    },
+    {
+      "timestamp": 227.5,
+      "end_timestamp": 231.96,
+      "text": "Because with this workflow, you're going to be able to build any tool you possibly want."
+    },
+    {
+      "timestamp": 232.12,
+      "end_timestamp": 242.5,
+      "text": "Like really any project within your trading process that would help you make decisions, discretionary trade, quantitative trade."
+    },
+    {
+      "timestamp": 242.76,
+      "end_timestamp": 244.28,
+      "text": "You can really build anything."
+    },
+    {
+      "timestamp": 244.74,
+      "end_timestamp": 252.64,
+      "text": "And these four steps, all you would replace is pretty much key words in that first prompt, which we will show you today."
+    },
+    {
+      "timestamp": 252.64,
+      "end_timestamp": 261.2,
+      "text": "All right. So you're going to give us the blueprint and then we can cater it to anything we can dream up that is specific to our own trading, which is great, because we're all different."
+    },
+    {
+      "timestamp": 261.3,
+      "end_timestamp": 264.62,
+      "text": "We all have different processes and strategies and stuff like that too."
+    },
+    {
+      "timestamp": 264.8,
+      "end_timestamp": 267.92,
+      "text": "So what works for you might be different for somebody else."
+    },
+    {
+      "timestamp": 268.0,
+      "end_timestamp": 268.52,
+      "text": "All right. Let's go."
+    },
+    {
+      "timestamp": 268.92,
+      "end_timestamp": 272.8,
+      "text": "And I'll at some point take over the screen and just use my own cloud."
+    },
+    {
+      "timestamp": 273.54,
+      "end_timestamp": 276.82,
+      "text": "So to start, Kurt, do you want to pull up image number one?"
+    },
+    {
+      "timestamp": 276.82,
+      "end_timestamp": 281.38,
+      "text": "Would you like to gain the biggest edge a retail trader can get?"
+    },
+    {
+      "timestamp": 282.12,
+      "end_timestamp": 287.06,
+      "text": "All of our daily and weekly in-house trader meetings are now available to you."
+    },
+    {
+      "timestamp": 287.42,
+      "end_timestamp": 291.4,
+      "text": "Just head over to smbtrainingfloor.com to find out more."
+    },
+    {
+      "timestamp": 291.74,
+      "end_timestamp": 295.76,
+      "text": "I just kind of want to flash this to you because this is the takeaway. This is the main point."
+    },
+    {
+      "timestamp": 296.24,
+      "end_timestamp": 297.6,
+      "text": "So these are my four steps."
+    },
+    {
+      "timestamp": 298.2,
+      "end_timestamp": 299.36,
+      "text": "You could have more steps."
+    },
+    {
+      "timestamp": 299.48,
+      "end_timestamp": 300.68,
+      "text": "All you need is these four."
+    },
+    {
+      "timestamp": 301.29999999999995,
+      "end_timestamp": 309.44,
+      "text": "And this is exactly how I built the trading dashboard on just a Sunday afternoon and it starts with plan mode."
+    },
+    {
+      "timestamp": 309.88,
+      "end_timestamp": 318.5,
+      "text": "So I go into cloud code and I'll show on my screen, but you go into plan mode where cloud doesn't accept any edits."
+    },
+    {
+      "timestamp": 318.78,
+      "end_timestamp": 321.42,
+      "text": "It's not making any changes to scripts or files."
+    },
+    {
+      "timestamp": 321.7,
+      "end_timestamp": 328.12,
+      "text": "You're just brainstorming with the goal of coming up with a concrete implementation plan."
+    },
+    {
+      "timestamp": 329.12,
+      "end_timestamp": 331.4,
+      "text": "Step two is you have that plan."
+    },
+    {
+      "timestamp": 331.92,
+      "end_timestamp": 339.18,
+      "text": "It's going to be just an MD file and then you're going to go into build mode where you're going to give cloud code."
+    },
+    {
+      "timestamp": 339.6,
+      "end_timestamp": 344.58,
+      "text": "That plan accept edits and it's going to build the skeleton of the dashboard."
+    },
+    {
+      "timestamp": 345.54,
+      "end_timestamp": 349.22,
+      "text": "Then the third one, the third step is where it gets fun."
+    },
+    {
+      "timestamp": 349.64,
+      "end_timestamp": 351.2,
+      "text": "This is where you personalize it."
+    },
+    {
+      "timestamp": 351.52,
+      "end_timestamp": 354.66,
+      "text": "You can say, all right, I actually want this stat in this tab."
+    },
+    {
+      "timestamp": 354.66,
+      "end_timestamp": 358.68,
+      "text": "I actually missed the tab so can you add tendencies tab."
+    },
+    {
+      "timestamp": 359.20000000000005,
+      "end_timestamp": 362.58,
+      "text": "And you can really add any element that you want."
+    },
+    {
+      "timestamp": 362.9,
+      "end_timestamp": 369.3,
+      "text": "And one cool thing that I do want to show you is you can add this coach layer, a performance coach,"
+    },
+    {
+      "timestamp": 369.5,
+      "end_timestamp": 376.24,
+      "text": "where it looks at, for me, it looks at different trade write-ups and looks for tendencies and mistakes"
+    },
+    {
+      "timestamp": 376.24,
+      "end_timestamp": 380.12,
+      "text": "and is able to do analysis that you might not be able to see yourself."
+    },
+    {
+      "timestamp": 381.0,
+      "end_timestamp": 383.26,
+      "text": "And then fourth, you have this cool thing."
+    },
+    {
+      "timestamp": 383.62,
+      "end_timestamp": 387.14,
+      "text": "How do you implement it in your daily workflow into your routine?"
+    },
+    {
+      "timestamp": 387.48,
+      "end_timestamp": 391.72,
+      "text": "And cloud code got this cool thing called routines where you just schedule it."
+    },
+    {
+      "timestamp": 392.2,
+      "end_timestamp": 396.62,
+      "text": "And you can have it ask you certain questions to help fill out your dashboard every day."
+    },
+    {
+      "timestamp": 397.02,
+      "end_timestamp": 399.24,
+      "text": "So it asks me like, what trade do you take today?"
+    },
+    {
+      "timestamp": 399.9,
+      "end_timestamp": 403.0,
+      "text": "Do you want to add anything to the journal, best ops, etc?"
+    },
+    {
+      "timestamp": 403.94,
+      "end_timestamp": 409.52,
+      "text": "In those four steps, emphasis on plan first before you build,"
+    },
+    {
+      "timestamp": 409.52,
+      "end_timestamp": 413.62,
+      "text": "then you build, then you personalize, then you make it repeatable."
+    },
+    {
+      "timestamp": 414.28000000000003,
+      "end_timestamp": 418.64,
+      "text": "All right. And of course, we're going to go into each of these and how exactly you do each of these steps."
+    },
+    {
+      "timestamp": 419.16,
+      "end_timestamp": 424.72,
+      "text": "But when just to clear this up, so when you say dashboard, you're like, okay, we're going to build,"
+    },
+    {
+      "timestamp": 425.34000000000003,
+      "end_timestamp": 429.68,
+      "text": "step two, build mode, and that's where cloud's going to go in and actually build the dashboard."
+    },
+    {
+      "timestamp": 429.88,
+      "end_timestamp": 430.92,
+      "text": "Like, what are you talking about?"
+    },
+    {
+      "timestamp": 431.08,
+      "end_timestamp": 435.68,
+      "text": "Like pretend that I know nothing about what cloud code even is."
+    },
+    {
+      "timestamp": 435.68,
+      "end_timestamp": 436.98,
+      "text": "Like, what are you doing?"
+    },
+    {
+      "timestamp": 437.64,
+      "end_timestamp": 439.74,
+      "text": "Dashboard, where? Where is this dashboard?"
+    },
+    {
+      "timestamp": 440.76,
+      "end_timestamp": 445.22,
+      "text": "100%. Yeah. So we've used trader view in the past."
+    },
+    {
+      "timestamp": 445.72,
+      "end_timestamp": 449.1,
+      "text": "I know that is common just in general. There's a bunch of other ones."
+    },
+    {
+      "timestamp": 449.74,
+      "end_timestamp": 456.32,
+      "text": "The idea was, I'm going to build my own trader view that specific for what matters in my trading"
+    },
+    {
+      "timestamp": 456.96000000000004,
+      "end_timestamp": 460.48,
+      "text": "and include stats that might not be included in trader view."
+    },
+    {
+      "timestamp": 460.8,
+      "end_timestamp": 465.52,
+      "text": "So trader view being like a performance tracker that gives you statistics on your"
+    },
+    {
+      "timestamp": 465.52,
+      "end_timestamp": 470.6,
+      "text": "different setups and you let's you tag trades and gives you your PNL breakdowns and"
+    },
+    {
+      "timestamp": 471.2,
+      "end_timestamp": 474.26,
+      "text": "win loss ratio and all that stuff, right? Exactly."
+    },
+    {
+      "timestamp": 475.02,
+      "end_timestamp": 480.6,
+      "text": "And when you say a dashboard, like when we go to trader view, it's like a website and we like"
+    },
+    {
+      "timestamp": 480.6,
+      "end_timestamp": 486.8,
+      "text": "log our trades and we can look at it. So when you say dashboard, are you building like a Tim website?"
+    },
+    {
+      "timestamp": 487.48,
+      "end_timestamp": 493.04,
+      "text": "Yeah, it's an HTML. Okay. So it's a, so it's an HTML that's now going to show you"
+    },
+    {
+      "timestamp": 493.04,
+      "end_timestamp": 496.54,
+      "text": "that's personal. You know, and else can get in there, right?"
+    },
+    {
+      "timestamp": 496.96,
+      "end_timestamp": 501.72,
+      "text": "Yep. And it's personal to you. And it's going to display"
+    },
+    {
+      "timestamp": 502.88,
+      "end_timestamp": 507.06,
+      "text": "everything that you're creating here. That is like going to be constantly updated."
+    },
+    {
+      "timestamp": 507.24,
+      "end_timestamp": 511.1,
+      "text": "So when you say dashboard, that's where we go. So it's an internet webpage. Okay."
+    },
+    {
+      "timestamp": 511.86,
+      "end_timestamp": 519.64,
+      "text": "In basically, then you will input trades, input any information you want to update the dashboard,"
+    },
+    {
+      "timestamp": 520.1999999999999,
+      "end_timestamp": 526.56,
+      "text": "just in cloud code, and then it will update it for me and then re-save that HTML website."
+    },
+    {
+      "timestamp": 527.22,
+      "end_timestamp": 533.5,
+      "text": "Yeah. Okay. Great. All right. I think, Gary, let's just let's just go into the first prompt."
+    },
+    {
+      "timestamp": 535.4600000000002,
+      "end_timestamp": 541.28,
+      "text": "So we're going to go into plan mode. Step one, right? Yep. We're in cloud code"
+    },
+    {
+      "timestamp": 542.1600000000001,
+      "end_timestamp": 549.2,
+      "text": "just to go over like some basics. This is the desktop app of cloud. You have chat here. You"
+    },
+    {
+      "timestamp": 549.2,
+      "end_timestamp": 556.62,
+      "text": "can then go to cloud code. I'm starting a new session. And this is where you can go down to"
+    },
+    {
+      "timestamp": 556.62,
+      "end_timestamp": 562.72,
+      "text": "accept edits. So that's build mode right now. You're allowing cloud to edit anything, change anything."
+    },
+    {
+      "timestamp": 563.18,
+      "end_timestamp": 568.94,
+      "text": "And if you click this plan mode, now we're in plan mode. Okay. And let's back up a second. And"
+    },
+    {
+      "timestamp": 568.94,
+      "end_timestamp": 573.58,
+      "text": "I don't want to belabor this stuff. But I know that they're like, I mean, there are a lot of people"
+    },
+    {
+      "timestamp": 573.58,
+      "end_timestamp": 579.76,
+      "text": "that don't get this because I didn't at one point. Chat mode is one thing. Cloud code is a different"
+    },
+    {
+      "timestamp": 579.76,
+      "end_timestamp": 585.56,
+      "text": "thing. So chat mode is like what we all think of like chat GBT where we can just talk to it and it"
+    },
+    {
+      "timestamp": 585.56,
+      "end_timestamp": 591.78,
+      "text": "can give us answers. Cloud code, the difference, the agentic part is that it is an agent for you. So"
+    },
+    {
+      "timestamp": 591.78,
+      "end_timestamp": 598.54,
+      "text": "it's building things. It's coding for you and building these these websites and consoles and it can"
+    },
+    {
+      "timestamp": 598.54,
+      "end_timestamp": 603.82,
+      "text": "even manipulate your computer through like co work and stuff like that. So you're there is a"
+    },
+    {
+      "timestamp": 603.82,
+      "end_timestamp": 609.74,
+      "text": "cloud chat, but you're going into cloud code. So now you're in the agentic part, but you're choosing a"
+    },
+    {
+      "timestamp": 609.74,
+      "end_timestamp": 617.14,
+      "text": "toggle that allows you to plan with cloud code. So it's not actually going to do anything yet."
+    },
+    {
+      "timestamp": 618.1200000000001,
+      "end_timestamp": 624.38,
+      "text": "Correct. Exactly. Exactly. And this is the reason this is the first step is"
+    },
+    {
+      "timestamp": 625.22,
+      "end_timestamp": 631.98,
+      "text": "before you jump into any project, you really want to come up with a plan and you'll have"
+    },
+    {
+      "timestamp": 631.98,
+      "end_timestamp": 639.34,
+      "text": "cloud right the plan and you can revise the plan and it will just save so much time down the road"
+    },
+    {
+      "timestamp": 639.34,
+      "end_timestamp": 645.72,
+      "text": "of debugging trying to fix any problems, anything you don't like with the plan before it starts"
+    },
+    {
+      "timestamp": 645.72,
+      "end_timestamp": 654.14,
+      "text": "changing things. This is the first prompt that we want to use and I'll put it in there and I'll"
+    },
+    {
+      "timestamp": 654.14,
+      "end_timestamp": 661.92,
+      "text": "also read it. The first prompt I wrote and this is the exact prompt that I use that Sunday is I want"
+    },
+    {
+      "timestamp": 661.92,
+      "end_timestamp": 667.96,
+      "text": "to create a trading dashboard that I update every day with the trades I took the best ops of the"
+    },
+    {
+      "timestamp": 667.96,
+      "end_timestamp": 674.56,
+      "text": "day and I want to model it slightly off of a template dashboard doc with three images of a"
+    },
+    {
+      "timestamp": 674.56,
+      "end_timestamp": 680.06,
+      "text": "trading dashboard that I attached, but I want to incorporate a lot more into it. So for right now,"
+    },
+    {
+      "timestamp": 680.42,
+      "end_timestamp": 686.76,
+      "text": "I wanted to use the Ask Me Questions mode for every tab that I want on the dashboard. And since we're"
+    },
+    {
+      "timestamp": 686.76,
+      "end_timestamp": 691.88,
+      "text": "in plan mode, let's really take our time. The idea is I want to create my own trader view super"
+    },
+    {
+      "timestamp": 691.88,
+      "end_timestamp": 698.5,
+      "text": "unique to the stuff that matters to me as well as a bunch of potential problems patterns that I want"
+    },
+    {
+      "timestamp": 698.5,
+      "end_timestamp": 705.12,
+      "text": "to include and have you aware of this is going to take a good amount of time. I don't want you to"
+    },
+    {
+      "timestamp": 705.12,
+      "end_timestamp": 710.46,
+      "text": "decide on anything yet. So let's just take it slow. And then I reiterate, use Ask Question Mode,"
+    },
+    {
+      "timestamp": 710.76,
+      "end_timestamp": 717.22,
+      "text": "Ask User Question Mode for every major decision, batch three to four questions per round after each"
+    },
+    {
+      "timestamp": 717.22,
+      "end_timestamp": 724.6,
+      "text": "batch update the plan document. Okay, so that first part was like one sentence. So bravo for that."
+    },
+    {
+      "timestamp": 724.6,
+      "end_timestamp": 732.28,
+      "text": "I would have been kicked out of my English classes and college for that one, but that's great."
+    },
+    {
+      "timestamp": 733.58,
+      "end_timestamp": 738.44,
+      "text": "So you're basically just giving it everything up front so that you're kind of preparing it to"
+    },
+    {
+      "timestamp": 738.44,
+      "end_timestamp": 745.02,
+      "text": "get on the same page as you. Do you want to sit in on all of our daily and weekly in-house"
+    },
+    {
+      "timestamp": 745.02,
+      "end_timestamp": 751.66,
+      "text": "trader meetings? There's no bigger edge retail traders can get. Visit smbtradingfloor.com to learn more."
+    },
+    {
+      "timestamp": 751.66,
+      "end_timestamp": 758.18,
+      "text": "And anyone in the comments section like the next area of cloud that I really am trying to focus on"
+    },
+    {
+      "timestamp": 758.6999999999999,
+      "end_timestamp": 764.26,
+      "text": "is how to use less tokens, how to be more efficient and even rereading that out loud."
+    },
+    {
+      "timestamp": 764.64,
+      "end_timestamp": 772.36,
+      "text": "You can prompt more efficiently than that more concise. What I really wanted to give was the exact"
+    },
+    {
+      "timestamp": 772.36,
+      "end_timestamp": 778.22,
+      "text": "thing I did to build this because it's that simple and everyone could do it. But if anyone has"
+    },
+    {
+      "timestamp": 778.22,
+      "end_timestamp": 784.58,
+      "text": "any tips on the token you see efficiency. It's as cluttered as my apartment is right now as you"
+    },
+    {
+      "timestamp": 784.58,
+      "end_timestamp": 789.34,
+      "text": "can see. Maybe you can see it. It's kind of blurred, but we're renovating right now. So there's"
+    },
+    {
+      "timestamp": 789.34,
+      "end_timestamp": 795.28,
+      "text": "stuff everywhere in room. I can't think straight when stuff is all over the place and that's what"
+    },
+    {
+      "timestamp": 795.28,
+      "end_timestamp": 801.58,
+      "text": "that sentence reminds me of. All right, and so I'm going to run it and this might take a sec and we"
+    },
+    {
+      "timestamp": 801.58,
+      "end_timestamp": 815.96,
+      "text": "will see. All right, here we go. So first a couple quick points. Once it ran, it saw the prompt"
+    },
+    {
+      "timestamp": 815.96,
+      "end_timestamp": 823.1,
+      "text": "and what ask user question is, is one way of trying to be more efficient with cloud code,"
+    },
+    {
+      "timestamp": 823.38,
+      "end_timestamp": 829.7,
+      "text": "where when you're in plan mode, rather than using it like a llm chat gpt interface where you're"
+    },
+    {
+      "timestamp": 829.7,
+      "end_timestamp": 835.96,
+      "text": "asking a question, it responds, you type another response. If you say use ask user questions,"
+    },
+    {
+      "timestamp": 836.48,
+      "end_timestamp": 843.6,
+      "text": "it's going to be building the specs of our skeleton dashboard and it's going to do it in a way of"
+    },
+    {
+      "timestamp": 843.6,
+      "end_timestamp": 849.88,
+      "text": "just drop down questions where you have a question and then you choose your response."
+    },
+    {
+      "timestamp": 850.74,
+      "end_timestamp": 855.34,
+      "text": "And basically, it's like multiple choice. Basically, it's exactly. It's like a multiple choice."
+    },
+    {
+      "timestamp": 855.34,
+      "end_timestamp": 860.9,
+      "text": "And just clicking one of those responses takes up way less tokens. It might even be zero tokens,"
+    },
+    {
+      "timestamp": 860.9,
+      "end_timestamp": 873.16,
+      "text": "but way less than typing responses out. Okay. And the other one thing to mention is in the prompt,"
+    },
+    {
+      "timestamp": 873.32,
+      "end_timestamp": 881.4,
+      "text": "you probably heard that I said I had a dashboard examples templates. And I basically just went into"
+    },
+    {
+      "timestamp": 881.4,
+      "end_timestamp": 888.04,
+      "text": "my own trader view, took a screenshot of a couple of the pages. And I'm giving it to cloud."
+    },
+    {
+      "timestamp": 888.42,
+      "end_timestamp": 894.56,
+      "text": "Basically, trying to get an idea of like, this is the end goal, similar to trader view. And it just,"
+    },
+    {
+      "timestamp": 894.84,
+      "end_timestamp": 900.18,
+      "text": "for me, I like using templates. I do it when we do our scripting. I'll give it a template script."
+    },
+    {
+      "timestamp": 900.48,
+      "end_timestamp": 905.0,
+      "text": "So it doesn't just start from a blank slate. That's just a personal preference."
+    },
+    {
+      "timestamp": 905.5799999999999,
+      "end_timestamp": 910.98,
+      "text": "So you're giving it three examples of what you might want it to look like using"
+    },
+    {
+      "timestamp": 912.1399999999999,
+      "end_timestamp": 919.46,
+      "text": "trading view or trader view. Exactly. And even one of them, one of them I just found on Twitter."
+    },
+    {
+      "timestamp": 919.72,
+      "end_timestamp": 926.64,
+      "text": "And I was like, ooh, that looks pretty good. Okay. And this was, I forgot why that's not even"
+    },
+    {
+      "timestamp": 926.64,
+      "end_timestamp": 934.08,
+      "text": "you. You're not. No, I'm not Nick. But I was like, oh, I like how that set up. I like the tabs"
+    },
+    {
+      "timestamp": 934.08,
+      "end_timestamp": 941.92,
+      "text": "on the left. Like it has a lot of good information, good stats. Okay. And it just has like a better idea"
+    },
+    {
+      "timestamp": 941.92,
+      "end_timestamp": 949.18,
+      "text": "of, you know, what we're trying to accomplish. Yeah. And so this is where it gets fun. So confirming"
+    },
+    {
+      "timestamp": 949.18,
+      "end_timestamp": 956.24,
+      "text": "the platform, local HTML single page app that you open in browser. So it's asking how I want this"
+    },
+    {
+      "timestamp": 956.24,
+      "end_timestamp": 963.9,
+      "text": "to exist. So I want just an HTML file that I'm going to get in my file explorer. And I'll be able to"
+    },
+    {
+      "timestamp": 965.04,
+      "end_timestamp": 968.86,
+      "text": "easily get it. So I just click that. And now we move on to the next question."
+    },
+    {
+      "timestamp": 969.66,
+      "end_timestamp": 973.1,
+      "text": "Where should the dashboard data live? Daily entries, notes, tags."
+    },
+    {
+      "timestamp": 977.2799999999999,
+      "end_timestamp": 981.82,
+      "text": "And usually, yeah, human readable get friendly. I'll go with the first one. And they tell you"
+    },
+    {
+      "timestamp": 981.82,
+      "end_timestamp": 988.86,
+      "text": "sometimes like, I recommend this. Okay. How does data get into the dashboard each day?"
+    },
+    {
+      "timestamp": 991.4,
+      "end_timestamp": 998.24,
+      "text": "So you can run a script that automatically pulls your trades. You can do a manual entry where"
+    },
+    {
+      "timestamp": 998.24,
+      "end_timestamp": 1004.52,
+      "text": "you just type in every trade. You can even say, not sure yet. And we'll defer until the end."
+    },
+    {
+      "timestamp": 1005.38,
+      "end_timestamp": 1011.28,
+      "text": "All right. So what are you going to, what did you choose? So on this one, I ended up doing my own"
+    },
+    {
+      "timestamp": 1012.0799999999999,
+      "end_timestamp": 1024.32,
+      "text": "where I was saying I want to create a routine on the last step that asked me certain questions."
+    },
+    {
+      "timestamp": 1035.34,
+      "end_timestamp": 1040.36,
+      "text": "So I don't want it auto pulling anything. What I found for my own trading is I like,"
+    },
+    {
+      "timestamp": 1040.36,
+      "end_timestamp": 1048.2,
+      "text": "I'll give it the executions. I will then also tell the PNL what pattern it is for my playbook."
+    },
+    {
+      "timestamp": 1048.4,
+      "end_timestamp": 1053.68,
+      "text": "And then I'll have a short write up. So you can then just type in your own another hit next."
+    },
+    {
+      "timestamp": 1055.32,
+      "end_timestamp": 1062.28,
+      "text": "What is this dashboard for? Pick everything that applies. And just to keep it pretty simple,"
+    },
+    {
+      "timestamp": 1063.3,
+      "end_timestamp": 1075.46,
+      "text": "you can do as many as you want. I'll do review what I did. So the historical review and the coach"
+    },
+    {
+      "timestamp": 1075.46,
+      "end_timestamp": 1082.84,
+      "text": "accountability view. So you have that coach layer. When I did it, I did all of them, but just for time."
+    },
+    {
+      "timestamp": 1084.06,
+      "end_timestamp": 1091.54,
+      "text": "Yeah. Okay. And you asked those four questions and then it will update the document or plan."
+    },
+    {
+      "timestamp": 1098.82,
+      "end_timestamp": 1105.56,
+      "text": "All right. Now we got our second batch of questions. And what's fun is it feels like brainstorming, you know."
+    },
+    {
+      "timestamp": 1107.66,
+      "end_timestamp": 1109.14,
+      "text": "So what does best ops mean?"
+    },
+    {
+      "timestamp": 1114.24,
+      "end_timestamp": 1118.48,
+      "text": "I want my best ops to be setups that I saw and didn't take setups that I took."
+    },
+    {
+      "timestamp": 1119.42,
+      "end_timestamp": 1132.4,
+      "text": "Market-wide. I want my patterns to be trade tags very similar to trader view plus detected patterns."
+    },
+    {
+      "timestamp": 1132.56,
+      "end_timestamp": 1137.5,
+      "text": "So I could group all my trades together. The end-to-day routine. What should it ask?"
+    },
+    {
+      "timestamp": 1138.34,
+      "end_timestamp": 1145.3,
+      "text": "Trade write ups best ops. We'll do. We'll do all those."
+    },
+    {
+      "timestamp": 1153.58,
+      "end_timestamp": 1156.16,
+      "text": "Again, I'll do all of them just getting all the stats."
+    },
+    {
+      "timestamp": 1160.12,
+      "end_timestamp": 1166.24,
+      "text": "So this is still just step one. And you're going to keep getting asked questions in these batches."
+    },
+    {
+      "timestamp": 1166.62,
+      "end_timestamp": 1172.5,
+      "text": "You'll go through all the questions. And then it'll say, all right, I have all the information we need."
+    },
+    {
+      "timestamp": 1172.5,
+      "end_timestamp": 1183.0,
+      "text": "And your dot md implementation plan document is finished. And all you'll do is save that md.md file."
+    },
+    {
+      "timestamp": 1184.26,
+      "end_timestamp": 1192.04,
+      "text": "Then go to new session. Make sure you're out of plan mode, hit accept edits, and just paste in"
+    },
+    {
+      "timestamp": 1192.82,
+      "end_timestamp": 1196.8,
+      "text": "your plan and say, all right, time to build. And it'll build the skeleton."
+    },
+    {
+      "timestamp": 1196.8,
+      "end_timestamp": 1206.08,
+      "text": "Okay. So it decides when it is ready, when it's complete, when the plan, if the plan is complete,"
+    },
+    {
+      "timestamp": 1206.08,
+      "end_timestamp": 1209.88,
+      "text": "it tells you or do you have to tell it that we were good here."
+    },
+    {
+      "timestamp": 1210.76,
+      "end_timestamp": 1217.42,
+      "text": "It will ask a question basically saying, is there anything else you want to go over before,"
+    },
+    {
+      "timestamp": 1217.64,
+      "end_timestamp": 1221.16,
+      "text": "but it'll say I have all the information I think I need to build the skeleton."
+    },
+    {
+      "timestamp": 1221.62,
+      "end_timestamp": 1225.82,
+      "text": "Okay. So at that point, I say sweet because you can always personalize it after."
+    },
+    {
+      "timestamp": 1226.54,
+      "end_timestamp": 1231.4,
+      "text": "Right. Got you. So that gives you a great jumping off point because now it kind of understands this"
+    },
+    {
+      "timestamp": 1231.4,
+      "end_timestamp": 1240.9,
+      "text": "architecture ahead of time before it starts coding and creating this thing. Okay. Exactly."
+    },
+    {
+      "timestamp": 1242.48,
+      "end_timestamp": 1251.0,
+      "text": "And just lastly, before I stopped the screen share, what ends up happening is every day on the"
+    },
+    {
+      "timestamp": 1251.0,
+      "end_timestamp": 1257.74,
+      "text": "closed. This is my daily clothes, ritual. This was 34 minutes ago. I get a pop up on my desktop."
+    },
+    {
+      "timestamp": 1259.9399999999998,
+      "end_timestamp": 1264.98,
+      "text": "And I even moved it back a little, but then we had the podcast today. But it'll say, all right,"
+    },
+    {
+      "timestamp": 1265.04,
+      "end_timestamp": 1269.52,
+      "text": "I'm here for the daily clothes. What trades? It'll start with the first question. What trades you"
+    },
+    {
+      "timestamp": 1269.52,
+      "end_timestamp": 1276.4,
+      "text": "take today? And then I told you, you know, I'll come back later just this one time. So, all right."
+    },
+    {
+      "timestamp": 1276.4,
+      "end_timestamp": 1281.16,
+      "text": "So you're finished with the plan mode. You have, it gives you that file that the plan is on."
+    },
+    {
+      "timestamp": 1282.12,
+      "end_timestamp": 1290.5,
+      "text": "And you're then going into the execution mode and giving it that plan. And what you're showing us"
+    },
+    {
+      "timestamp": 1290.5,
+      "end_timestamp": 1297.2,
+      "text": "here is the end result. Like this is what it asked you today. Do you have to do anything now?"
+    },
+    {
+      "timestamp": 1297.48,
+      "end_timestamp": 1302.78,
+      "text": "Like in step two, like as we enter into step two, which is the, what, what did you call it?"
+    },
+    {
+      "timestamp": 1302.78,
+      "end_timestamp": 1311.46,
+      "text": "Um, execution mode, build mode, build mode. Right. So what, what are you doing in build mode?"
+    },
+    {
+      "timestamp": 1311.88,
+      "end_timestamp": 1317.94,
+      "text": "Other than giving it the plan that you just created in step one, that's all you're doing."
+    },
+    {
+      "timestamp": 1318.32,
+      "end_timestamp": 1325.02,
+      "text": "That's basically, it's literally you just, you have this now so you can start a new session."
+    },
+    {
+      "timestamp": 1325.48,
+      "end_timestamp": 1332.38,
+      "text": "And you'll then copy and paste the plan in. So here's just a different plan, but you can"
+    },
+    {
+      "timestamp": 1332.78,
+      "end_timestamp": 1344.22,
+      "text": "copy and place one in where you just go there at a file. And basically, what you saw on the routine was"
+    },
+    {
+      "timestamp": 1344.22,
+      "end_timestamp": 1358.98,
+      "text": "it looked for this daily ritual file. So I don't have a naturally want to do it, but you would"
+    },
+    {
+      "timestamp": 1358.98,
+      "end_timestamp": 1364.68,
+      "text": "post it, paste it in and say, here's my implementation plan for a trading dashboard. Then I'm trying to build."
+    },
+    {
+      "timestamp": 1364.94,
+      "end_timestamp": 1371.74,
+      "text": "I want you to build the skeleton. Okay. And once that is built, the foundation's there,"
+    },
+    {
+      "timestamp": 1371.94,
+      "end_timestamp": 1377.7,
+      "text": "I'll most likely personalize and change up the layout, the visuals and the stats included."
+    },
+    {
+      "timestamp": 1378.48,
+      "end_timestamp": 1384.2,
+      "text": "Got you. So then step two. So step two, build mode, it's going to see that plan. It's going to build"
+    },
+    {
+      "timestamp": 1384.2,
+      "end_timestamp": 1388.38,
+      "text": "the skeleton of that architecture. Now you're going to be able to see it, right? It'll give you"
+    },
+    {
+      "timestamp": 1388.38,
+      "end_timestamp": 1394.78,
+      "text": "like a link or something to go to that website, right? And you'll be able to see it. And then you can"
+    },
+    {
+      "timestamp": 1394.78,
+      "end_timestamp": 1405.22,
+      "text": "talk to it in build mode to tweak what it has built already. Correct. Exactly. Okay. And just to show,"
+    },
+    {
+      "timestamp": 1405.22,
+      "end_timestamp": 1411.78,
+      "text": "we don't need to go through everything. Here's when I did it myself. So"
+    },
+    {
+      "timestamp": 1413.66,
+      "end_timestamp": 1423.82,
+      "text": "this step three now, we built it. Step three now looked like me personalizing it. So it was very"
+    },
+    {
+      "timestamp": 1423.82,
+      "end_timestamp": 1431.98,
+      "text": "like one off one by one. I want to make this change. For example, it had this chart where it was"
+    },
+    {
+      "timestamp": 1431.98,
+      "end_timestamp": 1439.24,
+      "text": "great accuracy. So it's each of my grades, a plus a, a minus b. And did I grade the trade"
+    },
+    {
+      "timestamp": 1439.94,
+      "end_timestamp": 1446.76,
+      "text": "accurately or not? So I'm like, that's great. Can we actually have the exact accuracy percent"
+    },
+    {
+      "timestamp": 1446.76,
+      "end_timestamp": 1454.72,
+      "text": "as well in the cumulative P and L on the x axis? So it's small changes. And then it's like me adding"
+    },
+    {
+      "timestamp": 1454.72,
+      "end_timestamp": 1468.44,
+      "text": "in our playbook. Okay. Great. So that is all of the personalization stuff. So that's enough of"
+    },
+    {
+      "timestamp": 1468.44,
+      "end_timestamp": 1477.36,
+      "text": "price show in my exact poorly worded props. But step three is honestly where it gets fun, where I'm"
+    },
+    {
+      "timestamp": 1477.36,
+      "end_timestamp": 1484.1,
+      "text": "adding, adding journal entries, I'm adding everything. And then step four is you have this HTML"
+    },
+    {
+      "timestamp": 1484.1,
+      "end_timestamp": 1491.32,
+      "text": "bill. It has all the tabs you want. You personalized it. You add your trades. You can backfill your"
+    },
+    {
+      "timestamp": 1491.32,
+      "end_timestamp": 1497.54,
+      "text": "old trades. So now it has data. It could show your graphs. And then you're like, all right, how could"
+    },
+    {
+      "timestamp": 1497.54,
+      "end_timestamp": 1503.24,
+      "text": "I make this so easy to input? It's basically your DRC. So how could I make this so repeatable"
+    },
+    {
+      "timestamp": 1503.24,
+      "end_timestamp": 1510.18,
+      "text": "that I can be consistent? And I do my DRC every single day. And the easiest way is then telling it,"
+    },
+    {
+      "timestamp": 1510.18,
+      "end_timestamp": 1516.94,
+      "text": "I want to set up a routine where this is scheduled at 415 or 430 every day. And then you say,"
+    },
+    {
+      "timestamp": 1516.94,
+      "end_timestamp": 1524.4,
+      "text": "what do I want to input? And it'll ask you again. And that's it. That's great. So let's review the steps."
+    },
+    {
+      "timestamp": 1525.92,
+      "end_timestamp": 1531.96,
+      "text": "Number one is plan mode, where you're coming up with the thing and it doesn't do anything."
+    },
+    {
+      "timestamp": 1532.38,
+      "end_timestamp": 1537.68,
+      "text": "Then it's build mode where you give it the plan. And then it actually just builds the skeleton"
+    },
+    {
+      "timestamp": 1537.68,
+      "end_timestamp": 1544.84,
+      "text": "right there. That's the easiest step. Yes. Step three is personalization. So now you're seeing"
+    },
+    {
+      "timestamp": 1544.84,
+      "end_timestamp": 1548.34,
+      "text": "what it built. You go to the, it gives you a link. You go to that web page. You're saying, oh,"
+    },
+    {
+      "timestamp": 1548.48,
+      "end_timestamp": 1555.92,
+      "text": "cool. All right. Well, this is my, this is my, what do you call it? A console or a dashboard?"
+    },
+    {
+      "timestamp": 1556.5,
+      "end_timestamp": 1562.66,
+      "text": "This is my dashboard. Now I want to edit and tweak things to my liking. I might want to add a"
+    },
+    {
+      "timestamp": 1562.66,
+      "end_timestamp": 1568.8,
+      "text": "few things. I might want to change a few things. And now I'm going to talk to cloud code in build mode."
+    },
+    {
+      "timestamp": 1570.44,
+      "end_timestamp": 1575.62,
+      "text": "Get it all tweaked the way I want. And of course, that could be an ongoing process, right?"
+    },
+    {
+      "timestamp": 1575.66,
+      "end_timestamp": 1585.04,
+      "text": "As you find new ideas and stuff as time goes on. Step four is set up a routine. So you're basically"
+    },
+    {
+      "timestamp": 1585.04,
+      "end_timestamp": 1590.62,
+      "text": "telling it, okay, like periodically, whether that's every hour, every day, maybe after the close,"
+    },
+    {
+      "timestamp": 1590.62,
+      "end_timestamp": 1595.88,
+      "text": "maybe before the open, maybe there's something that happens over the weekend. You're saying, like,"
+    },
+    {
+      "timestamp": 1595.98,
+      "end_timestamp": 1601.08,
+      "text": "I want you to either update at these points, or I want you to hit me up at these points. And I can,"
+    },
+    {
+      "timestamp": 1601.08,
+      "end_timestamp": 1609.84,
+      "text": "I can give you inputs. Here's a mind bending stat for you. S&B traders have 20 x to 40 x higher odds of"
+    },
+    {
+      "timestamp": 1609.84,
+      "end_timestamp": 1616.62,
+      "text": "success than independent traders. Find out why and how to greatly increase your odds by visiting"
+    },
+    {
+      "timestamp": 1617.6599999999999,
+      "end_timestamp": 1623.68,
+      "text": "smbtradingfloor.com. The reason, like, we skipped over some of the personalization and some of"
+    },
+    {
+      "timestamp": 1623.68,
+      "end_timestamp": 1630.26,
+      "text": "the questions is again, like, that's not the point. Like, if you have the first two steps down,"
+    },
+    {
+      "timestamp": 1630.38,
+      "end_timestamp": 1635.58,
+      "text": "like, you can build anything. Like, yeah, it's all in that first prompt. You're just saying in"
+    },
+    {
+      "timestamp": 1635.58,
+      "end_timestamp": 1640.62,
+      "text": "plain English, what you want it to do. What do you want to build? What tool? And then you go through"
+    },
+    {
+      "timestamp": 1640.62,
+      "end_timestamp": 1647.46,
+      "text": "all of the questions and you answer what you want included, how you want it to look. And step three,"
+    },
+    {
+      "timestamp": 1647.66,
+      "end_timestamp": 1652.3,
+      "text": "build mode, it's not that fun to look at. So if anyone's thinking you know, we're hiding stuff,"
+    },
+    {
+      "timestamp": 1652.3,
+      "end_timestamp": 1656.78,
+      "text": "it's just, it's building. And you're just sitting back, doing nothing, hands off the keys."
+    },
+    {
+      "timestamp": 1657.56,
+      "end_timestamp": 1662.3,
+      "text": "Well, I think the order of operation helps the learning curve a little bit and, like,"
+    },
+    {
+      "timestamp": 1662.44,
+      "end_timestamp": 1667.22,
+      "text": "demystify this whole thing, realizing that all you're doing is talking to it. But if you can do it in"
+    },
+    {
+      "timestamp": 1667.22,
+      "end_timestamp": 1673.02,
+      "text": "organized way, and prompt it so that it doesn't get confused or overloaded, and that you know,"
+    },
+    {
+      "timestamp": 1674.0599999999997,
+      "end_timestamp": 1678.88,
+      "text": "okay, ABCD, like, here's my, here's my order of operations. I think that helps a lot. That"
+    },
+    {
+      "timestamp": 1678.88,
+      "end_timestamp": 1684.34,
+      "text": "definitely helps organize my mind versus just this free for all, like, let me open up Cloud code and"
+    },
+    {
+      "timestamp": 1684.34,
+      "end_timestamp": 1691.7,
+      "text": "just go nuts, right? This is, this is a very thought out way to do it, which I enjoy it. What, Tim,"
+    },
+    {
+      "timestamp": 1691.86,
+      "end_timestamp": 1696.44,
+      "text": "what's the, what have you been getting out of this particular tool that you built? Like, what is"
+    },
+    {
+      "timestamp": 1696.44,
+      "end_timestamp": 1700.6,
+      "text": "your favorite part about it? Like, something that you didn't have before that you couldn't do before"
+    },
+    {
+      "timestamp": 1700.6,
+      "end_timestamp": 1706.22,
+      "text": "that you can do now? Honestly, should I just show it? Yeah, let's, yeah, I'd love to. Yeah,"
+    },
+    {
+      "timestamp": 1706.56,
+      "end_timestamp": 1715.78,
+      "text": "let's see it. So here it is, where it starts with today's entry. And, you know, it has my trades"
+    },
+    {
+      "timestamp": 1717.6,
+      "end_timestamp": 1724.46,
+      "text": "exactly, you know, all the little stats I put. The fun stuff for me, it has a ton of tabs,"
+    },
+    {
+      "timestamp": 1724.46,
+      "end_timestamp": 1730.8,
+      "text": "a ton of tabs. What I like, you know, your classic trader view calendar, you have all your trades"
+    },
+    {
+      "timestamp": 1730.8,
+      "end_timestamp": 1738.04,
+      "text": "based on grade, where this is where it's really a dashboard for me. Like, you know, you're the same"
+    },
+    {
+      "timestamp": 1738.04,
+      "end_timestamp": 1745.16,
+      "text": "way, like grading is our main focus. So having your trade split like grade helps a ton, and you can"
+    },
+    {
+      "timestamp": 1745.16,
+      "end_timestamp": 1752.12,
+      "text": "go back historically. But what I really like, and this is my probably favorite part, is I have this"
+    },
+    {
+      "timestamp": 1752.12,
+      "end_timestamp": 1762.96,
+      "text": "page called tendencies. And these are things, these are different patterns in my trading that is"
+    },
+    {
+      "timestamp": 1762.96,
+      "end_timestamp": 1771.28,
+      "text": "shown up in multiple trade writeups, where this dashboard and any dashboard is really only as good"
+    },
+    {
+      "timestamp": 1772.04,
+      "end_timestamp": 1778.98,
+      "text": "or as detailed or as personalized as you make it. So the way I do it is I'm like giving you a lot"
+    },
+    {
+      "timestamp": 1778.98,
+      "end_timestamp": 1784.48,
+      "text": "of information in my trade writeups about how I traded it, mistakes, what was really good about how"
+    },
+    {
+      "timestamp": 1784.48,
+      "end_timestamp": 1791.86,
+      "text": "I traded it, how was the allocation grade accuracy, everything. And then it was like, all right,"
+    },
+    {
+      "timestamp": 1792.06,
+      "end_timestamp": 1799.36,
+      "text": "I have all of your trades for 2026. I've noticed you mentioned no man's land side is in five times."
+    },
+    {
+      "timestamp": 1799.8,
+      "end_timestamp": 1803.76,
+      "text": "So that's a main trading tendency that you want to always be aware of."
+    },
+    {
+      "timestamp": 1804.94,
+      "end_timestamp": 1812.98,
+      "text": "So did it recognize that as a pattern in your writeups, or did you tell it, hey, I want you to"
+    },
+    {
+      "timestamp": 1812.98,
+      "end_timestamp": 1820.0,
+      "text": "give me a heads up on new man's land trading, if I start to mention it. Some of these, it noticed"
+    },
+    {
+      "timestamp": 1820.0,
+      "end_timestamp": 1827.4,
+      "text": "itself, it picked up itself. Some of them I did tell it. This was one of them because it was a big focus."
+    },
+    {
+      "timestamp": 1829.12,
+      "end_timestamp": 1836.52,
+      "text": "Some of the ones that I didn't tell was this is end-to-month BCAP, or basically I tried to limit"
+    },
+    {
+      "timestamp": 1836.52,
+      "end_timestamp": 1842.72,
+      "text": "the amount of B trades I take. And in the past, there has been this overgrading when we get"
+    },
+    {
+      "timestamp": 1842.72,
+      "end_timestamp": 1846.7,
+      "text": "closer to the end of the month. And I don't want to take as many B trades."
+    },
+    {
+      "timestamp": 1849.6,
+      "end_timestamp": 1853.9,
+      "text": "Okay. Wrong execution style, that's an example of one it found on its own."
+    },
+    {
+      "timestamp": 1854.6000000000001,
+      "end_timestamp": 1860.08,
+      "text": "And what's cool is you have this page. So not only is this a cheat sheet where you're like,"
+    },
+    {
+      "timestamp": 1860.3,
+      "end_timestamp": 1864.56,
+      "text": "these are the things that I want to focus on that I messed up in the past."
+    },
+    {
+      "timestamp": 1865.8,
+      "end_timestamp": 1874.1,
+      "text": "On any day, whenever I input my trades for the day, my entry with the trade writeups, my journal entry,"
+    },
+    {
+      "timestamp": 1874.76,
+      "end_timestamp": 1882.02,
+      "text": "I have it do a coaches note basically, where it's a performance coach looking at all of the stats"
+    },
+    {
+      "timestamp": 1882.02,
+      "end_timestamp": 1888.02,
+      "text": "looking at the writeups. And it knows my mistakes, it knows my tendency, it knows my journal entries,"
+    },
+    {
+      "timestamp": 1888.22,
+      "end_timestamp": 1894.34,
+      "text": "so it knows where I'm at. And it's going to tell me, all right, those were two no-mans landsizing"
+    },
+    {
+      "timestamp": 1894.34,
+      "end_timestamp": 1899.4,
+      "text": "today. Like that's something we really want to keep an eye on. Yeah, which is kind of fun."
+    },
+    {
+      "timestamp": 1899.8,
+      "end_timestamp": 1904.64,
+      "text": "That's great. That's a great way to use it. You know, you get to focus on your"
+    },
+    {
+      "timestamp": 1904.64,
+      "end_timestamp": 1911.74,
+      "text": "your traps, right? You're tightening those things up that you need to not forget about."
+    },
+    {
+      "timestamp": 1912.92,
+      "end_timestamp": 1918.88,
+      "text": "Do you have a spot in here for strengths for like things that like good tendency is that you"
+    },
+    {
+      "timestamp": 1918.88,
+      "end_timestamp": 1927.9,
+      "text": "that you want to leverage? Goals, but no, I should do more strengths. I haven't added that yet."
+    },
+    {
+      "timestamp": 1928.42,
+      "end_timestamp": 1932.74,
+      "text": "I'm just thinking Doc Perez is the closest right now. I'm just thinking like, because I'm reading"
+    },
+    {
+      "timestamp": 1932.74,
+      "end_timestamp": 1936.88,
+      "text": "his new book. I'm reading his new book and like that he like that's something that he would say"
+    },
+    {
+      "timestamp": 1936.88,
+      "end_timestamp": 1942.12,
+      "text": "based on what I'm reading, which is great by the way so far. Yeah, I'm enjoying it as well."
+    },
+    {
+      "timestamp": 1942.34,
+      "end_timestamp": 1947.42,
+      "text": "No, I should add a strengths one. That's a that's pretty good. Here's another section that I really"
+    },
+    {
+      "timestamp": 1947.42,
+      "end_timestamp": 1953.1,
+      "text": "like where it is all of the playbook trades. And it tallies them because we're marking them,"
+    },
+    {
+      "timestamp": 1953.24,
+      "end_timestamp": 1957.98,
+      "text": "gives you your stats, your win rate. But then here's my checks in favor. Here's my rules."
+    },
+    {
+      "timestamp": 1957.98,
+      "end_timestamp": 1963.76,
+      "text": "Here's how I execute these trades and it's all within this. So it's a one place for everything"
+    },
+    {
+      "timestamp": 1963.76,
+      "end_timestamp": 1968.74,
+      "text": "for me in my trading. So how did it get those checks in favor? Did you give it your playbook?"
+    },
+    {
+      "timestamp": 1969.22,
+      "end_timestamp": 1976.24,
+      "text": "Exactly. Got it. Okay. Great. So you're just creating a you're just giving it a lot of the"
+    },
+    {
+      "timestamp": 1976.24,
+      "end_timestamp": 1981.78,
+      "text": "information and putting it funneling it all into here so that it sort of understands your business"
+    },
+    {
+      "timestamp": 1981.78,
+      "end_timestamp": 1988.26,
+      "text": "in a way that allows it to help you very cater to it to the individual, which I think was the"
+    },
+    {
+      "timestamp": 1988.26,
+      "end_timestamp": 1996.72,
+      "text": "main point that you made right off the bat. Exactly. Where again, you want whatever you're focusing"
+    },
+    {
+      "timestamp": 1996.72,
+      "end_timestamp": 2003.0,
+      "text": "on to be the main point, trader view didn't have a good way of me grading the accuracy in my trades."
+    },
+    {
+      "timestamp": 2003.82,
+      "end_timestamp": 2010.02,
+      "text": "It didn't have a great way. It has tags, but they could get a little convoluted as we've"
+    },
+    {
+      "timestamp": 2010.02,
+      "end_timestamp": 2014.42,
+      "text": "seen with trader view and all your different accounts, but just simple win rate P&L by pattern."
+    },
+    {
+      "timestamp": 2017.1,
+      "end_timestamp": 2020.3,
+      "text": "I mean, you can throw in anything. I even have claw tips in here."
+    },
+    {
+      "timestamp": 2023.1,
+      "end_timestamp": 2031.48,
+      "text": "All my slash commands. This is great. This is great. Tim, thank you so much for opening up"
+    },
+    {
+      "timestamp": 2032.02,
+      "end_timestamp": 2039.0,
+      "text": "this for everybody because it's been it's been helpful for me. Somebody who I think, you know,"
+    },
+    {
+      "timestamp": 2040.02,
+      "end_timestamp": 2046.02,
+      "text": "I think was sort of late diving headfirst into this stuff because I've built so many things"
+    },
+    {
+      "timestamp": 2046.02,
+      "end_timestamp": 2053.22,
+      "text": "from actual coding that I wasn't as like enthralled by all this. I think what the way a lot of"
+    },
+    {
+      "timestamp": 2053.22,
+      "end_timestamp": 2057.86,
+      "text": "people were initially when I heard about it because I was like, yeah, I've like created algos and"
+    },
+    {
+      "timestamp": 2057.86,
+      "end_timestamp": 2062.88,
+      "text": "stuff and like I don't know what more I like can do, you know, like I didn't feel like I had a"
+    },
+    {
+      "timestamp": 2062.88,
+      "end_timestamp": 2067.94,
+      "text": "need for it. But then like as you've kind of played around with it and show me some of the"
+    },
+    {
+      "timestamp": 2067.94,
+      "end_timestamp": 2072.96,
+      "text": "applications and how powerful this stuff is and the fact that like anybody could really do anything."
+    },
+    {
+      "timestamp": 2074.08,
+      "end_timestamp": 2081.24,
+      "text": "Like we're not building web pages. This is this is great. It's inspirational for me to get to kind"
+    },
+    {
+      "timestamp": 2081.24,
+      "end_timestamp": 2087.7,
+      "text": "of start to go a little nuts here. Hey, I love it. And it's fun. I like showing it. I got a question"
+    },
+    {
+      "timestamp": 2087.7,
+      "end_timestamp": 2094.14,
+      "text": "for you. So now see in the four steps, see in that you can build a dashboard, but you can build"
+    },
+    {
+      "timestamp": 2094.14,
+      "end_timestamp": 2097.54,
+      "text": "any tool, anything come to mind on something you might want to attack."
+    },
+    {
+      "timestamp": 2098.6,
+      "end_timestamp": 2103.62,
+      "text": "Yeah, so I mean, I think you've nailed the obvious one because like the first thing that came to my"
+    },
+    {
+      "timestamp": 2103.62,
+      "end_timestamp": 2111.02,
+      "text": "mind was some sort of trading assistant. I guess it was what we've been calling it. But I think that"
+    },
+    {
+      "timestamp": 2111.58,
+      "end_timestamp": 2123.92,
+      "text": "my emphasis would be different. So like rather than performance based, like yours is very geared"
+    },
+    {
+      "timestamp": 2123.92,
+      "end_timestamp": 2129.46,
+      "text": "on like DRC like daily review performance based, which I think is great. And I would certainly adopt"
+    },
+    {
+      "timestamp": 2129.46,
+      "end_timestamp": 2136.9,
+      "text": "that. But like you know, all the stuff we're doing like in our notion and like I would try to"
+    },
+    {
+      "timestamp": 2137.76,
+      "end_timestamp": 2144.22,
+      "text": "like give it that right where it's keeping track of catalysts. It's keeping track of"
+    },
+    {
+      "timestamp": 2145.2000000000003,
+      "end_timestamp": 2152.26,
+      "text": "setups that are working setups that are not working. I want it to understand how I grade setups"
+    },
+    {
+      "timestamp": 2152.26,
+      "end_timestamp": 2161.72,
+      "text": "so that I can give it information and maybe get some feedback on like what kind of grade"
+    },
+    {
+      "timestamp": 2162.42,
+      "end_timestamp": 2167.82,
+      "text": "the setup should be. I don't even know how realistic that is. Like I kind of have my doubts as"
+    },
+    {
+      "timestamp": 2167.82,
+      "end_timestamp": 2175.82,
+      "text": "to whether that would be better than what I could do alone. But it's interesting to me. So I think"
+    },
+    {
+      "timestamp": 2175.82,
+      "end_timestamp": 2182.62,
+      "text": "that like something some sort of like dynamic resource page, I guess is the way that I put it. Like"
+    },
+    {
+      "timestamp": 2182.62,
+      "end_timestamp": 2189.66,
+      "text": "like a resource page for the stuff that I care about. So there's all kinds of noise and information"
+    },
+    {
+      "timestamp": 2189.66,
+      "end_timestamp": 2196.54,
+      "text": "in the market that we're all aware of that. But on the other side of that, like we all have our very"
+    },
+    {
+      "timestamp": 2196.54,
+      "end_timestamp": 2201.6,
+      "text": "clearly defined businesses. And within those clearly defined businesses are very specific plays."
+    },
+    {
+      "timestamp": 2202.24,
+      "end_timestamp": 2208.68,
+      "text": "And those plays have very specific checks and favor and variables and characteristics. And so"
+    },
+    {
+      "timestamp": 2209.2799999999997,
+      "end_timestamp": 2216.42,
+      "text": "my idea is like if the AI can understand what my businesses are and what those very specific"
+    },
+    {
+      "timestamp": 2216.42,
+      "end_timestamp": 2222.56,
+      "text": "checks and favor and characteristics are. And then on the other side, I could feed it information"
+    },
+    {
+      "timestamp": 2223.5800000000004,
+      "end_timestamp": 2231.3,
+      "text": "somehow. Maybe maybe it would become a really good resource page for me for either finding setups"
+    },
+    {
+      "timestamp": 2231.3,
+      "end_timestamp": 2239.26,
+      "text": "or even just grading things that are there. That's a pretty cool idea. I like it, especially on the"
+    },
+    {
+      "timestamp": 2239.26,
+      "end_timestamp": 2246.66,
+      "text": "grading setups front. Yeah, I mean, the reason I thought about that is just because that's been my focus."
+    },
+    {
+      "timestamp": 2247.02,
+      "end_timestamp": 2251.08,
+      "text": "So it's not that I think it would be particularly good at it. Like I'm really I have my doubts."
+    },
+    {
+      "timestamp": 2252.7999999999997,
+      "end_timestamp": 2258.88,
+      "text": "But I go there because like that's what my focus is. So I'm like if I could have it help me do"
+    },
+    {
+      "timestamp": 2258.88,
+      "end_timestamp": 2262.82,
+      "text": "anything, it might as well be kind of like what I'm focusing on right now. So it would be like how"
+    },
+    {
+      "timestamp": 2262.82,
+      "end_timestamp": 2268.34,
+      "text": "can I figure out how to get it to help me in that area? So you know, I'm like and I'm kind of"
+    },
+    {
+      "timestamp": 2268.34,
+      "end_timestamp": 2275.06,
+      "text": "on the fence with this stuff. Like I acknowledge it's unbelievably powerful. And it clearly based on"
+    },
+    {
+      "timestamp": 2275.06,
+      "end_timestamp": 2281.76,
+      "text": "your demonstration, you can do anything with this thing, which I think is awesome because for even"
+    },
+    {
+      "timestamp": 2281.76,
+      "end_timestamp": 2287.32,
+      "text": "stuff like trader view, like you can do a better version just by yourself. I mean, this is why the"
+    },
+    {
+      "timestamp": 2287.32,
+      "end_timestamp": 2294.4,
+      "text": "software names are quick have been in the in the the doghouse, right? Awesome. And I can see so"
+    },
+    {
+      "timestamp": 2294.4,
+      "end_timestamp": 2298.76,
+      "text": "many applications, but we've been doing this for so long. We're hooked up with so many things"
+    },
+    {
+      "timestamp": 2298.76,
+      "end_timestamp": 2304.08,
+      "text": "already that are sort of like integrated and helping us. Whereas like I think again, like someone"
+    },
+    {
+      "timestamp": 2304.08,
+      "end_timestamp": 2307.92,
+      "text": "like my dad who trades, but doesn't have the infrastructure that we have. I'm like, oh my god,"
+    },
+    {
+      "timestamp": 2307.96,
+      "end_timestamp": 2312.76,
+      "text": "I have a million ideas for for you, right? Someone who doesn't even have a trader view, right?"
+    },
+    {
+      "timestamp": 2312.76,
+      "end_timestamp": 2323.34,
+      "text": "Yeah. But I also feel like trading is simple and it should be simple. And of course, like we want to"
+    },
+    {
+      "timestamp": 2323.34,
+      "end_timestamp": 2329.48,
+      "text": "do a really good job of being alerted to information quickly that's going to help us. We want to do a"
+    },
+    {
+      "timestamp": 2329.48,
+      "end_timestamp": 2335.38,
+      "text": "really good job of finding our best setups. But when it comes down to it, like at the end of the day,"
+    },
+    {
+      "timestamp": 2336.02,
+      "end_timestamp": 2340.68,
+      "text": "it's like whether you put the risk on or not on like a really good setup and it's like how you do it."
+    },
+    {
+      "timestamp": 2340.68,
+      "end_timestamp": 2346.46,
+      "text": "It's like, you know, it could be the simplest thing that you that you miss or that you don't do or"
+    },
+    {
+      "timestamp": 2346.46,
+      "end_timestamp": 2354.48,
+      "text": "that you do based on really, really simple things like how you were feeling that day or whether"
+    },
+    {
+      "timestamp": 2354.48,
+      "end_timestamp": 2360.62,
+      "text": "like how clearly you were thinking, right? So given how simple trading is and how simple it"
+    },
+    {
+      "timestamp": 2360.62,
+      "end_timestamp": 2366.7,
+      "text": "should be, like that's my big sort of reservation or like question mark with this stuff because"
+    },
+    {
+      "timestamp": 2366.7,
+      "end_timestamp": 2372.08,
+      "text": "the last thing that I want to do is like get in the weeds like deeper and deeper and deeper into"
+    },
+    {
+      "timestamp": 2372.08,
+      "end_timestamp": 2378.56,
+      "text": "this like never ending sort of like complex building out this like system that that seems really"
+    },
+    {
+      "timestamp": 2378.56,
+      "end_timestamp": 2383.56,
+      "text": "fancy that makes me feel like I'm doing like all kinds of work. But in the end, it's like what's the ROI?"
+    },
+    {
+      "timestamp": 2383.94,
+      "end_timestamp": 2391.76,
+      "text": "Like how's it actually going to help me like crush that really simple moment more than I am now."
+    },
+    {
+      "timestamp": 2391.76,
+      "end_timestamp": 2396.66,
+      "text": "So I don't want to lose sight of that. What I want to do is like get into this. I want to"
+    },
+    {
+      "timestamp": 2396.66,
+      "end_timestamp": 2401.34,
+      "text": "experiment with it. I want to use it. But I want to do it kind of parallel to that thought without"
+    },
+    {
+      "timestamp": 2401.34,
+      "end_timestamp": 2407.52,
+      "text": "losing sight of that thought. Have you heard this study of tens of millions of traders,"
+    },
+    {
+      "timestamp": 2407.52,
+      "end_timestamp": 2413.82,
+      "text": "which shows that only one percent of retail traders actually make it? Don't be a statistic."
+    },
+    {
+      "timestamp": 2414.44,
+      "end_timestamp": 2418.68,
+      "text": "Visit smbtradingfloor.com to greatly increase your odds."
+    },
+    {
+      "timestamp": 2419.3999999999996,
+      "end_timestamp": 2425.46,
+      "text": "And you can spend your wheels if you're not careful. Like so many directions you can take things"
+    },
+    {
+      "timestamp": 2425.46,
+      "end_timestamp": 2432.88,
+      "text": "and do way too much work. But I think like you just said, if you have the main goal of my entire"
+    },
+    {
+      "timestamp": 2432.88,
+      "end_timestamp": 2439.78,
+      "text": "trading dashboard is these are the things that I want to be aware of that I want to be able to"
+    },
+    {
+      "timestamp": 2439.78,
+      "end_timestamp": 2450.22,
+      "text": "access quickly and like to review or like pre-market. And this dashboard like if I focus on these"
+    },
+    {
+      "timestamp": 2450.22,
+      "end_timestamp": 2456.08,
+      "text": "things, that will get me to trade better in those simple moments discretionarily. So never losing"
+    },
+    {
+      "timestamp": 2456.08,
+      "end_timestamp": 2462.7,
+      "text": "that connection where the whole idea is you just are doing stuff to make you the best trader you"
+    },
+    {
+      "timestamp": 2462.7,
+      "end_timestamp": 2468.5,
+      "text": "can be. You're not looking for some flashy dashboard that has these cool moving charts and like,"
+    },
+    {
+      "timestamp": 2468.5,
+      "end_timestamp": 2474.2,
+      "text": "you know, heat mats and crazy stuff. I really like what you've done with it in terms of"
+    },
+    {
+      "timestamp": 2474.2,
+      "end_timestamp": 2478.46,
+      "text": "personalizing it to you and having it really focus on those points that can like move the needle."
+    },
+    {
+      "timestamp": 2478.58,
+      "end_timestamp": 2481.96,
+      "text": "I mean, I think you've you've done a good job of that, which is great."
+    },
+    {
+      "timestamp": 2482.02,
+      "end_timestamp": 2484.82,
+      "text": "And so people might have less of a psychology element as well."
+    },
+    {
+      "timestamp": 2485.42,
+      "end_timestamp": 2488.0,
+      "text": "Yeah, sure. I know myself and it's like I like that part."
+    },
+    {
+      "timestamp": 2488.36,
+      "end_timestamp": 2491.56,
+      "text": "Yeah, of course. Like everyone's everyone's going to be different."
+    },
+    {
+      "timestamp": 2491.56,
+      "end_timestamp": 2498.68,
+      "text": "And I wonder, I guess like my thing is like if I can just keep it super simple like again,"
+    },
+    {
+      "timestamp": 2498.76,
+      "end_timestamp": 2504.32,
+      "text": "like don't get carried away Garrett. That's the last thing I want to do. But if I could just have"
+    },
+    {
+      "timestamp": 2504.32,
+      "end_timestamp": 2510.92,
+      "text": "something to check in with like during the day that knows my process and my tendency is just like you."
+    },
+    {
+      "timestamp": 2512.16,
+      "end_timestamp": 2516.36,
+      "text": "Like I might use it more intraday than say after the close."
+    },
+    {
+      "timestamp": 2517.24,
+      "end_timestamp": 2521.12,
+      "text": "Like, you know what I mean? Like I might be like, here's the setup I'm looking at."
+    },
+    {
+      "timestamp": 2521.9,
+      "end_timestamp": 2527.1,
+      "text": "Here are the checks and favor that I'm seeing. Here are the things kind of going against it."
+    },
+    {
+      "timestamp": 2527.46,
+      "end_timestamp": 2537.28,
+      "text": "And for some reason, like I intuitively feel really cautious with this setup. But I'm second guessing"
+    },
+    {
+      "timestamp": 2537.28,
+      "end_timestamp": 2544.9,
+      "text": "myself. And maybe that's just a terrible path to take. Maybe talking to an AI about a goddamn trade."
+    },
+    {
+      "timestamp": 2544.9,
+      "end_timestamp": 2550.3,
+      "text": "It could be literally like how much risk. Like the end of the world. Like yeah, like exactly."
+    },
+    {
+      "timestamp": 2550.3,
+      "end_timestamp": 2554.92,
+      "text": "Like, like, don't we do that? I'm just I'm just like we're experimenting here, right? We're just this"
+    },
+    {
+      "timestamp": 2554.92,
+      "end_timestamp": 2561.12,
+      "text": "is a thought experiment. I totally understand the potential pitfalls and sort of like how crazy"
+    },
+    {
+      "timestamp": 2561.12,
+      "end_timestamp": 2567.18,
+      "text": "this sounds. But I'm interested, right? Because if you can make it simple and mathematical,"
+    },
+    {
+      "timestamp": 2568.42,
+      "end_timestamp": 2572.52,
+      "text": "like maybe it just knows your system and you can use it as a computer, right? Like it's like,"
+    },
+    {
+      "timestamp": 2572.52,
+      "end_timestamp": 2576.72,
+      "text": "okay, well, if it has these checks and favor, like so did this, this, this, and this example."
+    },
+    {
+      "timestamp": 2577.2,
+      "end_timestamp": 2582.46,
+      "text": "And that these these great examples didn't have this one either. And it was in the similar kind"
+    },
+    {
+      "timestamp": 2582.46,
+      "end_timestamp": 2587.0,
+      "text": "of market environment, right? It can go through your like backlog and kind of give you that,"
+    },
+    {
+      "timestamp": 2587.0,
+      "end_timestamp": 2593.7,
+      "text": "like right away, like that, that stuff might be helpful. My mind's going to you have a breakout day."
+    },
+    {
+      "timestamp": 2594.12,
+      "end_timestamp": 2599.32,
+      "text": "You're getting involved in the morning. It doesn't close above the breakout level or closes right"
+    },
+    {
+      "timestamp": 2599.32,
+      "end_timestamp": 2605.4,
+      "text": "at the breakout level, which tends to be a tough decision on clothes. You have clawed has all your"
+    },
+    {
+      "timestamp": 2605.4,
+      "end_timestamp": 2610.36,
+      "text": "trades and it's like, all right, like how many times did a breakout trend trade that close below"
+    },
+    {
+      "timestamp": 2610.36,
+      "end_timestamp": 2616.54,
+      "text": "the breakout level work for me? Right, right. And then you maybe just get stats and it's like you've"
+    },
+    {
+      "timestamp": 2616.54,
+      "end_timestamp": 2624.62,
+      "text": "taken 20 breakout trend trades the past year, all of the let's say 70% closed above the level that"
+    },
+    {
+      "timestamp": 2624.62,
+      "end_timestamp": 2630.42,
+      "text": "worked. Yeah. And none of them close below and worked. And you're like, oh, wait a second. All right,"
+    },
+    {
+      "timestamp": 2630.42,
+      "end_timestamp": 2636.84,
+      "text": "lower the grade, maybe get flat. That's a that's a very specific example of what I'm talking about."
+    },
+    {
+      "timestamp": 2637.42,
+      "end_timestamp": 2644.64,
+      "text": "That's great. That's where my mind went. No, that's that's that's an actual example that that is"
+    },
+    {
+      "timestamp": 2644.64,
+      "end_timestamp": 2649.46,
+      "text": "right along the lines of what I'm talking about. And I think that that just speaks to how"
+    },
+    {
+      "timestamp": 2650.1800000000003,
+      "end_timestamp": 2657.14,
+      "text": "it's all about the inputs. So like the better it knows, whether all those breakouts you took"
+    },
+    {
+      "timestamp": 2657.14,
+      "end_timestamp": 2662.16,
+      "text": "closed above or below the breakout level, like it has to know that or it has to be able to back test."
+    },
+    {
+      "timestamp": 2662.84,
+      "end_timestamp": 2669.12,
+      "text": "So the data that you have that you're working with, if you're able to use an API and input data,"
+    },
+    {
+      "timestamp": 2669.16,
+      "end_timestamp": 2674.6,
+      "text": "if you're able to do really good reviews, really good playbooks that have all this information in it"
+    },
+    {
+      "timestamp": 2674.6,
+      "end_timestamp": 2679.04,
+      "text": "that you can give like it's just it's all about the inputs, the quality of the data."
+    },
+    {
+      "timestamp": 2679.6,
+      "end_timestamp": 2684.54,
+      "text": "In my opinion that you're giving it that's going to then give it the power, right, because just"
+    },
+    {
+      "timestamp": 2684.54,
+      "end_timestamp": 2690.04,
+      "text": "because it can process doesn't mean it's going to be smart. Right. Exactly. And you don't want to make"
+    },
+    {
+      "timestamp": 2690.04,
+      "end_timestamp": 2695.14,
+      "text": "it too many decisions on its own without your stuff. I don't want to make I don't want it making"
+    },
+    {
+      "timestamp": 2695.14,
+      "end_timestamp": 2700.62,
+      "text": "any decisions like that's my yeah, that's my thing. Yeah. But I sometimes might want to know"
+    },
+    {
+      "timestamp": 2702.4199999999996,
+      "end_timestamp": 2707.34,
+      "text": "about past setups with like, you know, sometimes we'll run a back test. It's not that different,"
+    },
+    {
+      "timestamp": 2707.34,
+      "end_timestamp": 2712.98,
+      "text": "right? But like to do that, you've got to go right of script and then do a back test. And even that"
+    },
+    {
+      "timestamp": 2712.98,
+      "end_timestamp": 2719.02,
+      "text": "has its own nuances and complexities that kind of are you going to really get what you want to"
+    },
+    {
+      "timestamp": 2719.02,
+      "end_timestamp": 2724.12,
+      "text": "see. And we might come back and say, Hey, you know, every time an IPO did this, like this was the next day,"
+    },
+    {
+      "timestamp": 2724.12,
+      "end_timestamp": 2731.58,
+      "text": "right? So it's not that different than that. All right. Just to summarize, we went over a four-step"
+    },
+    {
+      "timestamp": 2731.58,
+      "end_timestamp": 2737.4,
+      "text": "workflow that you can use on any cloud project. I happen to use it on a trading dashboard."
+    },
+    {
+      "timestamp": 2737.4,
+      "end_timestamp": 2743.48,
+      "text": "And this is the Trading Floor podcast. We're still on Spotify if you choose to listen there."
+    },
+    {
+      "timestamp": 2744.1,
+      "end_timestamp": 2746.58,
+      "text": "And in the comments, let us know what you're building."
+    }
+  ],
+  "visual_entries": [
+    {
+      "timestamp": 465.52,
+      "timecode": "07:45",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 07:45",
+      "confidence": 0.75,
+      "transcript_context": "different setups and you let's you tag trades and gives you your PNL breakdowns and"
+    },
+    {
+      "timestamp": 691.88,
+      "timecode": "11:31",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 11:31",
+      "confidence": 0.75,
+      "transcript_context": "unique to the stuff that matters to me as well as a bunch of potential problems patterns that I want"
+    },
+    {
+      "timestamp": 1040.36,
+      "timecode": "17:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 17:20",
+      "confidence": 0.75,
+      "transcript_context": "I'll give it the executions. I will then also tell the PNL what pattern it is for my playbook."
+    },
+    {
+      "timestamp": 1114.24,
+      "timecode": "18:34",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 18:34",
+      "confidence": 0.75,
+      "transcript_context": "I want my best ops to be setups that I saw and didn't take setups that I took."
+    },
+    {
+      "timestamp": 1119.42,
+      "timecode": "18:39",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 18:39",
+      "confidence": 0.75,
+      "transcript_context": "Market-wide. I want my patterns to be trade tags very similar to trader view plus detected patterns."
+    },
+    {
+      "timestamp": 1423.82,
+      "timecode": "23:43",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 23:43",
+      "confidence": 0.75,
+      "transcript_context": "like one off one by one. I want to make this change. For example, it had this chart where it was"
+    },
+    {
+      "timestamp": 1491.32,
+      "timecode": "24:51",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 24:51",
+      "confidence": 0.75,
+      "transcript_context": "old trades. So now it has data. It could show your graphs. And then you're like, all right, how could"
+    },
+    {
+      "timestamp": 1752.12,
+      "timecode": "29:12",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 29:12",
+      "confidence": 0.75,
+      "transcript_context": "page called tendencies. And these are things, these are different patterns in my trading that is"
+    },
+    {
+      "timestamp": 1804.94,
+      "timecode": "30:04",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 30:04",
+      "confidence": 0.75,
+      "transcript_context": "So did it recognize that as a pattern in your writeups, or did you tell it, hey, I want you to"
+    },
+    {
+      "timestamp": 2010.02,
+      "timecode": "33:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 33:30",
+      "confidence": 0.75,
+      "transcript_context": "seen with trader view and all your different accounts, but just simple win rate P&L by pattern."
+    },
+    {
+      "timestamp": 2145.2000000000003,
+      "timecode": "35:45",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 35:45",
+      "confidence": 0.75,
+      "transcript_context": "setups that are working setups that are not working. I want it to understand how I grade setups"
+    },
+    {
+      "timestamp": 2162.42,
+      "timecode": "36:02",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 36:02",
+      "confidence": 0.75,
+      "transcript_context": "the setup should be. I don't even know how realistic that is. Like I kind of have my doubts as"
+    },
+    {
+      "timestamp": 2223.5800000000004,
+      "timecode": "37:03",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 37:03",
+      "confidence": 0.75,
+      "transcript_context": "somehow. Maybe maybe it would become a really good resource page for me for either finding setups"
+    },
+    {
+      "timestamp": 2239.26,
+      "timecode": "37:19",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 37:19",
+      "confidence": 0.75,
+      "transcript_context": "grading setups front. Yeah, I mean, the reason I thought about that is just because that's been my focus."
+    },
+    {
+      "timestamp": 2281.76,
+      "timecode": "38:01",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 38:01",
+      "confidence": 0.75,
+      "transcript_context": "stuff like trader view, like you can do a better version just by yourself. I mean, this is why the"
+    },
+    {
+      "timestamp": 2329.48,
+      "timecode": "38:49",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 38:49",
+      "confidence": 0.75,
+      "transcript_context": "really good job of finding our best setups. But when it comes down to it, like at the end of the day,"
+    },
+    {
+      "timestamp": 2336.02,
+      "timecode": "38:56",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 38:56",
+      "confidence": 0.75,
+      "transcript_context": "it's like whether you put the risk on or not on like a really good setup and it's like how you do it."
+    },
+    {
+      "timestamp": 2462.7,
+      "timecode": "41:02",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 41:02",
+      "confidence": 0.75,
+      "transcript_context": "can be. You're not looking for some flashy dashboard that has these cool moving charts and like,"
+    },
+    {
+      "timestamp": 2517.24,
+      "timecode": "41:57",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 41:57",
+      "confidence": 0.75,
+      "transcript_context": "Like, you know what I mean? Like I might be like, here's the setup I'm looking at."
+    },
+    {
+      "timestamp": 2527.46,
+      "timecode": "42:07",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 42:07",
+      "confidence": 0.75,
+      "transcript_context": "And for some reason, like I intuitively feel really cautious with this setup. But I'm second guessing"
+    },
+    {
+      "timestamp": 2605.4,
+      "timecode": "43:25",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 43:25",
+      "confidence": 0.75,
+      "transcript_context": "trades and it's like, all right, like how many times did a breakout trend trade that close below"
+    },
+    {
+      "timestamp": 2616.54,
+      "timecode": "43:36",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 43:36",
+      "confidence": 0.75,
+      "transcript_context": "taken 20 breakout trend trades the past year, all of the let's say 70% closed above the level that"
+    },
+    {
+      "timestamp": 2702.4199999999996,
+      "timecode": "45:02",
+      "visual_type": "chart_or_diagram",
+      "description": "Visual content at 45:02",
+      "confidence": 0.75,
+      "transcript_context": "about past setups with like, you know, sometimes we'll run a back test. It's not that different,"
+    }
+  ],
+  "download_path": "/home/ml/smb_processor/downloads/45eaVU5NVi8.mp4",
+  "processed_at": "2026-05-01T06:12:55Z"
+}

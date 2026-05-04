@@ -1,0 +1,4180 @@
+{
+  "video_id": "Eh6DUSgApIc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " If you're waiting for the move to be obvious, you're 100% late."
+    },
+    {
+      "start": 4.0,
+      "end": 6.88,
+      "text": " You aren't the hunter, you're the exit liquidity."
+    },
+    {
+      "start": 6.88,
+      "end": 9.200000000000001,
+      "text": " The easy money has already been made."
+    },
+    {
+      "start": 9.200000000000001,
+      "end": 13.280000000000001,
+      "text": " Anyone can tell you a stock is strong when it's up 100%."
+    },
+    {
+      "start": 13.280000000000001,
+      "end": 17.48,
+      "text": " But there's a way to tell a stock is strong before it makes its move."
+    },
+    {
+      "start": 17.48,
+      "end": 20.2,
+      "text": " We call it hidden relative strength."
+    },
+    {
+      "start": 20.2,
+      "end": 22.56,
+      "text": " This is the quiet accumulation that happens"
+    },
+    {
+      "start": 22.56,
+      "end": 25.36,
+      "text": " while the rest of the market is looking the other way."
+    },
+    {
+      "start": 25.36,
+      "end": 29.44,
+      "text": " It's not sexy, it won't make your X-feed, but it works."
+    },
+    {
+      "start": 29.44,
+      "end": 32.760000000000005,
+      "text": " We're going to discuss how we spot hidden relative strength,"
+    },
+    {
+      "start": 32.760000000000005,
+      "end": 36.56,
+      "text": " how we measure it, and how we use it to anticipate breakouts."
+    },
+    {
+      "start": 36.56,
+      "end": 40.2,
+      "text": " It's time to become an expert on spotting hidden relative strength."
+    },
+    {
+      "start": 40.2,
+      "end": 43.84,
+      "text": " Welcome to the Trading Four podcast episode nine."
+    },
+    {
+      "start": 43.84,
+      "end": 47.8,
+      "text": " I'm Tim Belden, joined as always with Garrett Dryman"
+    },
+    {
+      "start": 47.8,
+      "end": 51.040000000000006,
+      "text": " in our guide, Kurt, behind the curtain."
+    },
+    {
+      "start": 51.040000000000006,
+      "end": 55.56,
+      "text": " So Garrett, when we're saying hidden relative strength, what do we mean?"
+    },
+    {
+      "start": 55.56,
+      "end": 59.400000000000006,
+      "text": " So when a lot of people talk about strength,"
+    },
+    {
+      "start": 59.400000000000006,
+      "end": 62.040000000000006,
+      "text": " they're talking about a really strong stock."
+    },
+    {
+      "start": 62.040000000000006,
+      "end": 66.12,
+      "text": " And relative strength obviously is comparing one stock to another,"
+    },
+    {
+      "start": 66.12,
+      "end": 68.0,
+      "text": " or one stock to the market."
+    },
+    {
+      "start": 68.0,
+      "end": 69.64,
+      "text": " Everyone knows that."
+    },
+    {
+      "start": 69.64,
+      "end": 72.68,
+      "text": " But I think that a lot of times when we talk about relative strength,"
+    },
+    {
+      "start": 72.68,
+      "end": 75.96000000000001,
+      "text": " the thing that stands out to us is the strength part."
+    },
+    {
+      "start": 75.96000000000001,
+      "end": 78.84,
+      "text": " So something that has tremendous relative strength is like,"
+    },
+    {
+      "start": 78.84,
+      "end": 81.64,
+      "text": " some stock that's just running, it's the strongest stock in the market,"
+    },
+    {
+      "start": 81.64,
+      "end": 83.68,
+      "text": " it's super obvious."
+    },
+    {
+      "start": 83.68,
+      "end": 87.2,
+      "text": " But there are other kinds of relative strength that are more subtle."
+    },
+    {
+      "start": 87.2,
+      "end": 92.0,
+      "text": " But in our case, and you'd probably agree with this, Tim, more powerful,"
+    },
+    {
+      "start": 92.0,
+      "end": 95.44000000000001,
+      "text": " because there's a way to use it to our advantage."
+    },
+    {
+      "start": 95.44000000000001,
+      "end": 100.44000000000001,
+      "text": " Now, a stock that's up 10% today, obviously,"
+    },
+    {
+      "start": 100.44000000000001,
+      "end": 103.0,
+      "text": " it's probably going to have some pretty serious relative strength."
+    },
+    {
+      "start": 103.0,
+      "end": 105.52000000000001,
+      "text": " But it's like the cat's out of the bag."
+    },
+    {
+      "start": 105.52000000000001,
+      "end": 111.80000000000001,
+      "text": " So what is this hidden relative strength that we're talking about?"
+    },
+    {
+      "start": 111.8,
+      "end": 113.44,
+      "text": " That is a little more subtle."
+    },
+    {
+      "start": 113.44,
+      "end": 116.12,
+      "text": " You can measure it, you can easily measure it."
+    },
+    {
+      "start": 116.12,
+      "end": 120.64,
+      "text": " But it's different than just something that's just ridiculously strong."
+    },
+    {
+      "start": 120.64,
+      "end": 122.67999999999999,
+      "text": " And what you're getting at, it's actionable."
+    },
+    {
+      "start": 122.67999999999999,
+      "end": 126.24,
+      "text": " Like it's something where you find hidden relative strength,"
+    },
+    {
+      "start": 126.24,
+      "end": 127.96,
+      "text": " and that could lead to trades."
+    },
+    {
+      "start": 127.96,
+      "end": 130.76,
+      "text": " And you don't want to be looking at it every single day."
+    },
+    {
+      "start": 130.76,
+      "end": 135.64,
+      "text": " So like you said, relative strength, we compare the strength of a stock"
+    },
+    {
+      "start": 135.64,
+      "end": 138.48,
+      "text": " to the indices to the market."
+    },
+    {
+      "start": 138.48,
+      "end": 140.64,
+      "text": " And for hidden relative strength, we really"
+    },
+    {
+      "start": 140.64,
+      "end": 144.16,
+      "text": " want to be looking at it when the market is having down days."
+    },
+    {
+      "start": 144.16,
+      "end": 147.76,
+      "text": " When the market is weak, what's standing out and holding up the best?"
+    },
+    {
+      "start": 147.76,
+      "end": 149.51999999999998,
+      "text": " And that's what gets us excited."
+    },
+    {
+      "start": 149.51999999999998,
+      "end": 150.39999999999998,
+      "text": " Yeah, absolutely."
+    },
+    {
+      "start": 150.39999999999998,
+      "end": 156.39999999999998,
+      "text": " So it's a stock that isn't going down when the market's going down."
+    },
+    {
+      "start": 156.39999999999998,
+      "end": 158.44,
+      "text": " So if we're going to compare it to the overall market,"
+    },
+    {
+      "start": 158.44,
+      "end": 163.11999999999998,
+      "text": " because that's a really great proxy to say, is our stock stronger or weaker?"
+    },
+    {
+      "start": 163.11999999999998,
+      "end": 166.16,
+      "text": " Then the market we can compare it to spy or cues,"
+    },
+    {
+      "start": 166.16,
+      "end": 169.0,
+      "text": " or maybe it's ETF, it's sector ETF."
+    },
+    {
+      "start": 169.0,
+      "end": 171.56,
+      "text": " There's different things we can do there."
+    },
+    {
+      "start": 171.56,
+      "end": 177.76,
+      "text": " But it might be as simple as we're watching our stock."
+    },
+    {
+      "start": 177.76,
+      "end": 180.8,
+      "text": " And we use this for breakouts, mostly Tim."
+    },
+    {
+      "start": 180.8,
+      "end": 182.64,
+      "text": " Like we're teeing up a breakout."
+    },
+    {
+      "start": 182.64,
+      "end": 184.48,
+      "text": " We're trying to take the temperature of the stock."
+    },
+    {
+      "start": 184.48,
+      "end": 187.32,
+      "text": " We want to get the feel for, is it ready?"
+    },
+    {
+      "start": 187.32,
+      "end": 189.12,
+      "text": " It's trading in the range."
+    },
+    {
+      "start": 189.12,
+      "end": 191.16,
+      "text": " It's maybe testing the breakout level."
+    },
+    {
+      "start": 191.16,
+      "end": 193.6,
+      "text": " Maybe it's getting close, it's getting tight."
+    },
+    {
+      "start": 193.6,
+      "end": 197.64,
+      "text": " There's various reasons why we're watching it a lot closer now."
+    },
+    {
+      "start": 197.64,
+      "end": 199.95999999999998,
+      "text": " We're really trying to like time this thing."
+    },
+    {
+      "start": 199.95999999999998,
+      "end": 204.48,
+      "text": " And like the last episode, when we talked about the pink line,"
+    },
+    {
+      "start": 204.48,
+      "end": 207.04,
+      "text": " there are certain things we do below that breakout level"
+    },
+    {
+      "start": 207.04,
+      "end": 209.11999999999998,
+      "text": " where we might anticipate that breakout level"
+    },
+    {
+      "start": 209.11999999999998,
+      "end": 211.04,
+      "text": " or we might wait for that break."
+    },
+    {
+      "start": 211.04,
+      "end": 215.32,
+      "text": " And one of those things that might get us to anticipate"
+    },
+    {
+      "start": 215.32,
+      "end": 217.6,
+      "text": " is, relatives trying."
+    },
+    {
+      "start": 217.6,
+      "end": 222.48,
+      "text": " Would you like to gain the biggest edge a retail trader can get?"
+    },
+    {
+      "start": 222.48,
+      "end": 225.67999999999998,
+      "text": " All of our daily and weekly in-house trader meetings"
+    },
+    {
+      "start": 225.68,
+      "end": 227.92000000000002,
+      "text": " are now available to you."
+    },
+    {
+      "start": 227.92000000000002,
+      "end": 232.08,
+      "text": " Just head over to smbtrainingfloor.com to find out more."
+    },
+    {
+      "start": 232.08,
+      "end": 233.84,
+      "text": " And it's really that hidden relative strength."
+    },
+    {
+      "start": 233.84,
+      "end": 235.20000000000002,
+      "text": " So it might be as simple."
+    },
+    {
+      "start": 235.20000000000002,
+      "end": 237.48000000000002,
+      "text": " So to me, a lot of the time, it's just watching the market."
+    },
+    {
+      "start": 237.48000000000002,
+      "end": 238.72,
+      "text": " There's ways to measure this."
+    },
+    {
+      "start": 238.72,
+      "end": 241.44,
+      "text": " And I want to actually get into that, Tim,"
+    },
+    {
+      "start": 241.44,
+      "end": 244.84,
+      "text": " because I brought a couple slides of an indicator"
+    },
+    {
+      "start": 244.84,
+      "end": 247.48000000000002,
+      "text": " that I created that I like to use to measure this,"
+    },
+    {
+      "start": 247.48000000000002,
+      "end": 249.52,
+      "text": " especially on the quant side."
+    },
+    {
+      "start": 249.52,
+      "end": 250.32,
+      "text": " Let's go."
+    },
+    {
+      "start": 251.28,
+      "end": 258.28,
+      "text": " But it's usually as simple as, like, I'm just watching the stock."
+    },
+    {
+      "start": 258.28,
+      "end": 261.12,
+      "text": " And you notice that the market ticks down."
+    },
+    {
+      "start": 261.12,
+      "end": 264.24,
+      "text": " You're watching the spy at the same time as your stock."
+    },
+    {
+      "start": 264.24,
+      "end": 267.0,
+      "text": " And maybe there's a down draft in the market."
+    },
+    {
+      "start": 267.0,
+      "end": 268.6,
+      "text": " And you're watching your stock."
+    },
+    {
+      "start": 268.6,
+      "end": 271.48,
+      "text": " And maybe it doesn't go down as hard."
+    },
+    {
+      "start": 271.48,
+      "end": 272.71999999999997,
+      "text": " Maybe there's some bids there."
+    },
+    {
+      "start": 272.71999999999997,
+      "end": 273.48,
+      "text": " Maybe it holds."
+    },
+    {
+      "start": 273.48,
+      "end": 275.32,
+      "text": " Maybe it doesn't go down at all."
+    },
+    {
+      "start": 275.32,
+      "end": 279.48,
+      "text": " And that's just a little instance within that day"
+    },
+    {
+      "start": 279.48,
+      "end": 282.44,
+      "text": " that it demonstrated some relative strength, some resilience,"
+    },
+    {
+      "start": 282.44,
+      "end": 284.08000000000004,
+      "text": " something that, like, something's there."
+    },
+    {
+      "start": 284.08000000000004,
+      "end": 285.52000000000004,
+      "text": " There's a bid there."
+    },
+    {
+      "start": 285.52000000000004,
+      "end": 289.32,
+      "text": " There's something there that shows some buying, right?"
+    },
+    {
+      "start": 289.32,
+      "end": 294.48,
+      "text": " Without it kind of having to go up 10% before you realize that,"
+    },
+    {
+      "start": 294.48,
+      "end": 294.68,
+      "text": " right?"
+    },
+    {
+      "start": 294.68,
+      "end": 297.56,
+      "text": " So you're collecting these little data points"
+    },
+    {
+      "start": 297.56,
+      "end": 300.32,
+      "text": " as the market drops in your stock holds,"
+    },
+    {
+      "start": 300.32,
+      "end": 302.20000000000005,
+      "text": " the market drops your stock holds, right?"
+    },
+    {
+      "start": 302.20000000000005,
+      "end": 304.04,
+      "text": " Maybe the market rallies a little."
+    },
+    {
+      "start": 304.04,
+      "end": 305.92,
+      "text": " And yours goes more."
+    },
+    {
+      "start": 305.92,
+      "end": 308.04,
+      "text": " Maybe the market starts to consolidate."
+    },
+    {
+      "start": 308.04,
+      "end": 310.48,
+      "text": " And the stock keeps going out a little bit higher."
+    },
+    {
+      "start": 310.48,
+      "end": 313.84000000000003,
+      "text": " There are these little moments that are qualitative"
+    },
+    {
+      "start": 313.84000000000003,
+      "end": 317.52000000000004,
+      "text": " that we can see when we're watching the tape."
+    },
+    {
+      "start": 317.52000000000004,
+      "end": 321.84000000000003,
+      "text": " So simply put, it's like the queues are down 2% on the day."
+    },
+    {
+      "start": 321.84000000000003,
+      "end": 323.24,
+      "text": " What is green?"
+    },
+    {
+      "start": 323.24,
+      "end": 325.04,
+      "text": " What's positive on the day?"
+    },
+    {
+      "start": 325.04,
+      "end": 332.8,
+      "text": " Or if the market's down 2% to 3%, what's only down 0.25%."
+    },
+    {
+      "start": 332.8,
+      "end": 334.36,
+      "text": " And I think what's interesting, you're"
+    },
+    {
+      "start": 334.36,
+      "end": 337.44,
+      "text": " saying the underlying bid, what I find so"
+    },
+    {
+      "start": 337.44,
+      "end": 339.32,
+      "text": " interesting with hidden relative strength,"
+    },
+    {
+      "start": 339.32,
+      "end": 342.4,
+      "text": " is that there is a fundamental driver behind it,"
+    },
+    {
+      "start": 342.4,
+      "end": 345.4,
+      "text": " where the strongest stocks, usually they make"
+    },
+    {
+      "start": 345.4,
+      "end": 347.96,
+      "text": " the biggest, most explosive moves"
+    },
+    {
+      "start": 347.96,
+      "end": 351.04,
+      "text": " because they have institutional buying behind it."
+    },
+    {
+      "start": 351.04,
+      "end": 354.36,
+      "text": " And we know these are huge funds, huge firms"
+    },
+    {
+      "start": 354.36,
+      "end": 357.15999999999997,
+      "text": " where they can't execute everything in a day."
+    },
+    {
+      "start": 357.15999999999997,
+      "end": 361.56,
+      "text": " Like if they want to buy Tesla or SNDK,"
+    },
+    {
+      "start": 361.56,
+      "end": 363.56,
+      "text": " you can't do it in one single day."
+    },
+    {
+      "start": 363.56,
+      "end": 365.88,
+      "text": " So on those down market days, you're"
+    },
+    {
+      "start": 365.88,
+      "end": 369.12,
+      "text": " getting that big money still adding to their positions"
+    },
+    {
+      "start": 369.12,
+      "end": 370.56,
+      "text": " via a T-Wap."
+    },
+    {
+      "start": 370.56,
+      "end": 375.04,
+      "text": " And that's kind of the dynamic that is that underlying bid"
+    },
+    {
+      "start": 375.04,
+      "end": 376.71999999999997,
+      "text": " that we're talking about."
+    },
+    {
+      "start": 376.71999999999997,
+      "end": 380.2,
+      "text": " Right, it's like the footprints of those institutions."
+    },
+    {
+      "start": 380.2,
+      "end": 384.4,
+      "text": " And it's really the market showing you its hand."
+    },
+    {
+      "start": 384.4,
+      "end": 386.12,
+      "text": " The market having those down moves"
+    },
+    {
+      "start": 386.12,
+      "end": 390.68,
+      "text": " gives you an opportunity to see which stocks have bids in them."
+    },
+    {
+      "start": 390.68,
+      "end": 393.12,
+      "text": " And that's why our team leader, K-FITS,"
+    },
+    {
+      "start": 393.12,
+      "end": 394.8,
+      "text": " he's a great swing trader."
+    },
+    {
+      "start": 394.8,
+      "end": 397.72,
+      "text": " He's always talking about every time we get a weekday"
+    },
+    {
+      "start": 397.72,
+      "end": 400.84000000000003,
+      "text": " in the market, or even just a week period in the market,"
+    },
+    {
+      "start": 400.84000000000003,
+      "end": 404.76,
+      "text": " that's like that's his time to start collecting his list"
+    },
+    {
+      "start": 404.76,
+      "end": 406.6,
+      "text": " of strong stocks."
+    },
+    {
+      "start": 406.6,
+      "end": 409.12,
+      "text": " It's not after they've all gone up 10%."
+    },
+    {
+      "start": 409.12,
+      "end": 411.08000000000004,
+      "text": " It's when the market's going down,"
+    },
+    {
+      "start": 411.08000000000004,
+      "end": 414.52,
+      "text": " and he's just looking and just adding stocks, adding stocks"
+    },
+    {
+      "start": 414.52,
+      "end": 419.44,
+      "text": " like this stock, and by the time the pullback is over"
+    },
+    {
+      "start": 419.44,
+      "end": 422.24,
+      "text": " in the market, he has this list of relatively strong stocks."
+    },
+    {
+      "start": 422.24,
+      "end": 424.92,
+      "text": " And it's typically once that market turns,"
+    },
+    {
+      "start": 424.92,
+      "end": 427.28000000000003,
+      "text": " those are the stocks that are going to explode."
+    },
+    {
+      "start": 427.28000000000003,
+      "end": 430.8,
+      "text": " And those are the stocks that he ends up swing trading"
+    },
+    {
+      "start": 430.8,
+      "end": 433.0,
+      "text": " like on the way back up, which is, I mean,"
+    },
+    {
+      "start": 433.0,
+      "end": 435.32,
+      "text": " that's like his whole strategy."
+    },
+    {
+      "start": 435.32,
+      "end": 437.8,
+      "text": " Yeah, and he's made a lot of money doing it."
+    },
+    {
+      "start": 437.8,
+      "end": 439.84000000000003,
+      "text": " Which we do that as well."
+    },
+    {
+      "start": 439.84000000000003,
+      "end": 441.12,
+      "text": " Yes, yeah."
+    },
+    {
+      "start": 441.12,
+      "end": 443.6,
+      "text": " So the blueprint you're saying is,"
+    },
+    {
+      "start": 443.6,
+      "end": 446.52,
+      "text": " when the market is down, he'll send the text in."
+    },
+    {
+      "start": 446.52,
+      "end": 447.56,
+      "text": " We already know to do it."
+    },
+    {
+      "start": 447.56,
+      "end": 451.04,
+      "text": " But when the market is down, look at what's holding up the best."
+    },
+    {
+      "start": 451.04,
+      "end": 453.68,
+      "text": " Like simply put, that's the best way to start going"
+    },
+    {
+      "start": 453.68,
+      "end": 456.24,
+      "text": " about finding hidden relative strength in stocks."
+    },
+    {
+      "start": 456.24,
+      "end": 460.36,
+      "text": " Yeah, so to me, there's like two ways to use this."
+    },
+    {
+      "start": 460.36,
+      "end": 463.12,
+      "text": " Like one, you're scanning for stocks,"
+    },
+    {
+      "start": 463.12,
+      "end": 465.48,
+      "text": " so you're trying to create a list of stocks"
+    },
+    {
+      "start": 465.48,
+      "end": 467.24,
+      "text": " that are showing relative strength."
+    },
+    {
+      "start": 467.24,
+      "end": 468.24,
+      "text": " Right?"
+    },
+    {
+      "start": 468.24,
+      "end": 469.96000000000004,
+      "text": " That's kind of like, you can keep your relative strength list."
+    },
+    {
+      "start": 469.96000000000004,
+      "end": 473.40000000000003,
+      "text": " And now you know, these are stocks when the market"
+    },
+    {
+      "start": 473.40000000000003,
+      "end": 475.76,
+      "text": " gets strong, might outperform."
+    },
+    {
+      "start": 475.76,
+      "end": 477.92,
+      "text": " They might set up, and these are the stocks"
+    },
+    {
+      "start": 477.92,
+      "end": 479.12,
+      "text": " you want to be watching."
+    },
+    {
+      "start": 479.2,
+      "end": 483.24,
+      "text": " So that's kind of like a scanning way to go about this."
+    },
+    {
+      "start": 483.24,
+      "end": 486.8,
+      "text": " The other way is like, you've got a stock that's setting up."
+    },
+    {
+      "start": 487.76,
+      "end": 489.36,
+      "text": " And this is kind of already watching it."
+    },
+    {
+      "start": 489.36,
+      "end": 492.32,
+      "text": " Yeah, and this is kind of like where I was thinking,"
+    },
+    {
+      "start": 492.32,
+      "end": 494.08,
+      "text": " like going into this, like we didn't talk a lot"
+    },
+    {
+      "start": 494.08,
+      "end": 498.48,
+      "text": " about this episode, but that's kind of where my head was at."
+    },
+    {
+      "start": 498.48,
+      "end": 501.24,
+      "text": " Because you're right, you can use it to scan the stocks."
+    },
+    {
+      "start": 501.24,
+      "end": 504.24,
+      "text": " Where my head was at was, you're watching a stock"
+    },
+    {
+      "start": 504.24,
+      "end": 508.12,
+      "text": " for a breakout, and you're trying to figure out when it's ready."
+    },
+    {
+      "start": 508.96,
+      "end": 510.48,
+      "text": " Right? Because we're always like, you know,"
+    },
+    {
+      "start": 510.48,
+      "end": 511.56,
+      "text": " there can be failed breakouts."
+    },
+    {
+      "start": 511.56,
+      "end": 512.4,
+      "text": " It can be too early."
+    },
+    {
+      "start": 512.4,
+      "end": 514.44,
+      "text": " You don't want to anticipate if it's not going to go,"
+    },
+    {
+      "start": 514.44,
+      "end": 517.08,
+      "text": " and you know, you want to wait for the pink line,"
+    },
+    {
+      "start": 517.08,
+      "end": 519.24,
+      "text": " you know, regarding last episode."
+    },
+    {
+      "start": 519.24,
+      "end": 522.2,
+      "text": " And all those things, and so you're trying to time it."
+    },
+    {
+      "start": 522.2,
+      "end": 525.44,
+      "text": " And there's something about when you're watching"
+    },
+    {
+      "start": 525.44,
+      "end": 528.44,
+      "text": " for a breakout, that like in the beginning of the consolidation,"
+    },
+    {
+      "start": 528.44,
+      "end": 530.48,
+      "text": " a lot of the times the stock's underperforming."
+    },
+    {
+      "start": 530.48,
+      "end": 532.6,
+      "text": " Like it might, you know, it's pulling back."
+    },
+    {
+      "start": 532.6,
+      "end": 535.04,
+      "text": " It's resting after a big move."
+    },
+    {
+      "start": 535.04,
+      "end": 536.8,
+      "text": " There's some volatility there."
+    },
+    {
+      "start": 536.8,
+      "end": 538.8,
+      "text": " And then it starts to go sideways."
+    },
+    {
+      "start": 538.8,
+      "end": 540.9599999999999,
+      "text": " And it's some point."
+    },
+    {
+      "start": 540.9599999999999,
+      "end": 544.5999999999999,
+      "text": " It starts showing some relative strength before it breaks out."
+    },
+    {
+      "start": 544.5999999999999,
+      "end": 547.0,
+      "text": " And I would say that like, I mean, 90% of the time,"
+    },
+    {
+      "start": 547.0,
+      "end": 549.64,
+      "text": " when I go back and like look at my indicator,"
+    },
+    {
+      "start": 549.64,
+      "end": 551.4399999999999,
+      "text": " and just kind of review, like a lot of times"
+    },
+    {
+      "start": 551.4399999999999,
+      "end": 554.04,
+      "text": " we're computing this like qualitatively"
+    },
+    {
+      "start": 554.04,
+      "end": 555.12,
+      "text": " as we look at the market."
+    },
+    {
+      "start": 555.12,
+      "end": 558.1999999999999,
+      "text": " But if you go back and look at this,"
+    },
+    {
+      "start": 558.1999999999999,
+      "end": 560.7199999999999,
+      "text": " I mean, 90% of the breakouts that are really good,"
+    },
+    {
+      "start": 560.7199999999999,
+      "end": 562.8399999999999,
+      "text": " that we trade, like they start to show"
+    },
+    {
+      "start": 562.8399999999999,
+      "end": 565.68,
+      "text": " that relative strength before the breakout."
+    },
+    {
+      "start": 565.68,
+      "end": 567.56,
+      "text": " And these really subtle ways."
+    },
+    {
+      "start": 567.56,
+      "end": 569.68,
+      "text": " And so that's like one of my favorite ways"
+    },
+    {
+      "start": 569.68,
+      "end": 574.12,
+      "text": " to start teaming up a breakout is because you start to see that."
+    },
+    {
+      "start": 574.12,
+      "end": 576.88,
+      "text": " And I remember it instinctively."
+    },
+    {
+      "start": 576.88,
+      "end": 579.92,
+      "text": " I think it was like the Tesla 360 breakout last year."
+    },
+    {
+      "start": 579.92,
+      "end": 583.56,
+      "text": " It consolidated for weeks off that April low."
+    },
+    {
+      "start": 583.56,
+      "end": 585.68,
+      "text": " It came off and then consolidated higher"
+    },
+    {
+      "start": 585.68,
+      "end": 586.4,
+      "text": " and then broke out."
+    },
+    {
+      "start": 586.4,
+      "end": 588.4799999999999,
+      "text": " Like I think it was through 360."
+    },
+    {
+      "start": 588.4799999999999,
+      "end": 592.4399999999999,
+      "text": " And it was like the few days leading up to the breakout."
+    },
+    {
+      "start": 592.4399999999999,
+      "end": 595.4,
+      "text": " It was just obvious relative strength."
+    },
+    {
+      "start": 595.4,
+      "end": 597.68,
+      "text": " And I actually brought a slide."
+    },
+    {
+      "start": 597.68,
+      "end": 599.16,
+      "text": " So let's look at it."
+    },
+    {
+      "start": 599.16,
+      "end": 602.3199999999999,
+      "text": " If you could please bring up the Tesla slide,"
+    },
+    {
+      "start": 602.3199999999999,
+      "end": 604.3199999999999,
+      "text": " I think it's number two."
+    },
+    {
+      "start": 605.8,
+      "end": 608.84,
+      "text": " And Tesla is our favorite in terms of like,"
+    },
+    {
+      "start": 608.84,
+      "end": 610.76,
+      "text": " I don't remember a Tesla breakout"
+    },
+    {
+      "start": 610.76,
+      "end": 613.76,
+      "text": " that didn't show relative strength right before it broke out."
+    },
+    {
+      "start": 613.76,
+      "end": 616.76,
+      "text": " Like that's a signature for Tesla breakouts."
+    },
+    {
+      "start": 616.76,
+      "end": 617.6,
+      "text": " Yeah, yeah."
+    },
+    {
+      "start": 617.6,
+      "end": 620.4,
+      "text": " And so Tesla is on the left."
+    },
+    {
+      "start": 620.4,
+      "end": 623.16,
+      "text": " And the cues are on the right."
+    },
+    {
+      "start": 623.16,
+      "end": 626.16,
+      "text": " So I'm just comparing Tesla to the cues."
+    },
+    {
+      "start": 626.16,
+      "end": 629.8399999999999,
+      "text": " And that line on the bottom of the Tesla chart"
+    },
+    {
+      "start": 629.8399999999999,
+      "end": 632.04,
+      "text": " is the relative strength line."
+    },
+    {
+      "start": 632.04,
+      "end": 636.88,
+      "text": " Now, Tim, you know, sometimes I like to do things differently."
+    },
+    {
+      "start": 636.88,
+      "end": 639.04,
+      "text": " A lot of times, like most of the times"
+    },
+    {
+      "start": 639.04,
+      "end": 641.28,
+      "text": " when people want to quantify relative strength,"
+    },
+    {
+      "start": 641.28,
+      "end": 642.8,
+      "text": " I think the traditional way to do it"
+    },
+    {
+      "start": 642.8,
+      "end": 644.4399999999999,
+      "text": " is like a ratio chart,"
+    },
+    {
+      "start": 644.4399999999999,
+      "end": 648.52,
+      "text": " where you're kind of like dividing like one stock by the other"
+    },
+    {
+      "start": 648.52,
+      "end": 650.76,
+      "text": " and you're plotting that line."
+    },
+    {
+      "start": 650.76,
+      "end": 652.64,
+      "text": " Right? And the movement of that line"
+    },
+    {
+      "start": 652.64,
+      "end": 655.84,
+      "text": " shows the relationship between those two stocks."
+    },
+    {
+      "start": 655.84,
+      "end": 659.4,
+      "text": " And that works great when you're comparing two very similar"
+    },
+    {
+      "start": 661.0,
+      "end": 664.0,
+      "text": " types of equities with similar volatility"
+    },
+    {
+      "start": 664.0,
+      "end": 664.84,
+      "text": " and stuff like that."
+    },
+    {
+      "start": 664.84,
+      "end": 667.88,
+      "text": " And I think as in a broad stroke kind of way,"
+    },
+    {
+      "start": 667.88,
+      "end": 670.52,
+      "text": " like that's a great way to do it."
+    },
+    {
+      "start": 670.52,
+      "end": 673.72,
+      "text": " For me, like the issue with that is that"
+    },
+    {
+      "start": 673.72,
+      "end": 676.4399999999999,
+      "text": " it doesn't really normalize for volatility."
+    },
+    {
+      "start": 676.4399999999999,
+      "end": 679.04,
+      "text": " So what if you have a stock that moves a lot more"
+    },
+    {
+      "start": 679.04,
+      "end": 680.4,
+      "text": " and you're trying to compare to something"
+    },
+    {
+      "start": 680.4,
+      "end": 682.0799999999999,
+      "text": " that doesn't move nearly as much?"
+    },
+    {
+      "start": 682.0799999999999,
+      "end": 686.24,
+      "text": " So like for instance, if Tesla moves a lot more than the market,"
+    },
+    {
+      "start": 686.24,
+      "end": 690.56,
+      "text": " so the market's up 2%, Tesla's up 4%,"
+    },
+    {
+      "start": 690.56,
+      "end": 695.1999999999999,
+      "text": " markets down 1%, Tesla's down 2%, right?"
+    },
+    {
+      "start": 695.1999999999999,
+      "end": 697.48,
+      "text": " It's just Tesla's doing the same thing as the market."
+    },
+    {
+      "start": 697.48,
+      "end": 699.5999999999999,
+      "text": " It's just more volatile, right?"
+    },
+    {
+      "start": 699.5999999999999,
+      "end": 701.64,
+      "text": " In a situation like that,"
+    },
+    {
+      "start": 701.64,
+      "end": 704.24,
+      "text": " a lot of these traditional relative strength lines"
+    },
+    {
+      "start": 704.24,
+      "end": 707.9599999999999,
+      "text": " are gonna end up just looking like the chart of Tesla,"
+    },
+    {
+      "start": 707.96,
+      "end": 710.2,
+      "text": " like a sort of subdued chart of Tesla,"
+    },
+    {
+      "start": 710.2,
+      "end": 711.64,
+      "text": " because Tesla's gonna dominate"
+    },
+    {
+      "start": 711.64,
+      "end": 714.84,
+      "text": " because it has more volatility than the instrument"
+    },
+    {
+      "start": 714.84,
+      "end": 716.2800000000001,
+      "text": " that you're comparing it to."
+    },
+    {
+      "start": 716.2800000000001,
+      "end": 719.44,
+      "text": " So what I like to do is normalize for volatility."
+    },
+    {
+      "start": 719.44,
+      "end": 721.8000000000001,
+      "text": " And this is an indicator that we share"
+    },
+    {
+      "start": 721.8000000000001,
+      "end": 723.8000000000001,
+      "text": " in the Bionic Trader meetings."
+    },
+    {
+      "start": 723.8000000000001,
+      "end": 726.32,
+      "text": " Do you wanna sit in on all of our daily"
+    },
+    {
+      "start": 726.32,
+      "end": 728.2800000000001,
+      "text": " and weekly in-house trader meetings?"
+    },
+    {
+      "start": 728.2800000000001,
+      "end": 731.1600000000001,
+      "text": " There's no bigger edge retail traders can get."
+    },
+    {
+      "start": 731.1600000000001,
+      "end": 734.36,
+      "text": " Visit smbetradingfloor.com to learn more."
+    },
+    {
+      "start": 734.36,
+      "end": 737.08,
+      "text": " Just really quickly Tim explained like how we compute it"
+    },
+    {
+      "start": 737.08,
+      "end": 741.08,
+      "text": " so that people at home can do it and understand it."
+    },
+    {
+      "start": 742.08,
+      "end": 743.36,
+      "text": " Yeah, and definitely."
+    },
+    {
+      "start": 743.36,
+      "end": 746.96,
+      "text": " Basically, I'm taking each bar,"
+    },
+    {
+      "start": 746.96,
+      "end": 750.0,
+      "text": " which think of each bar as a move in the stock, right?"
+    },
+    {
+      "start": 750.0,
+      "end": 752.2,
+      "text": " You're going from the previous close to the close,"
+    },
+    {
+      "start": 752.2,
+      "end": 753.44,
+      "text": " and this could be on any time frame."
+    },
+    {
+      "start": 753.44,
+      "end": 756.72,
+      "text": " It's just the calculation on whatever time frame you're on."
+    },
+    {
+      "start": 756.72,
+      "end": 759.2,
+      "text": " Every bar is a move in the stock."
+    },
+    {
+      "start": 759.2,
+      "end": 761.0400000000001,
+      "text": " And so for every move in the stock,"
+    },
+    {
+      "start": 761.96,
+      "end": 764.4000000000001,
+      "text": " you're taking that move and you're dividing it by the ATR,"
+    },
+    {
+      "start": 764.4000000000001,
+      "end": 765.9200000000001,
+      "text": " which is the average true range."
+    },
+    {
+      "start": 765.92,
+      "end": 769.12,
+      "text": " So there's a rolling calculation of an average true range,"
+    },
+    {
+      "start": 769.12,
+      "end": 770.8,
+      "text": " which is the volatility of the stock."
+    },
+    {
+      "start": 771.76,
+      "end": 775.12,
+      "text": " And you're taking that move and you're dividing it by the ATR."
+    },
+    {
+      "start": 775.12,
+      "end": 776.28,
+      "text": " And then you take the next move"
+    },
+    {
+      "start": 776.28,
+      "end": 777.56,
+      "text": " and you're dividing it by the ATR."
+    },
+    {
+      "start": 777.56,
+      "end": 780.5999999999999,
+      "text": " And so now you have a chart of these ATR moves"
+    },
+    {
+      "start": 780.5999999999999,
+      "end": 782.28,
+      "text": " and you're accumulating those."
+    },
+    {
+      "start": 782.28,
+      "end": 784.4799999999999,
+      "text": " And so as the volatility is changing,"
+    },
+    {
+      "start": 784.4799999999999,
+      "end": 788.3199999999999,
+      "text": " the moves are adjusting to that volatility"
+    },
+    {
+      "start": 788.3199999999999,
+      "end": 791.5999999999999,
+      "text": " and you're basically getting an ATR-adjusted"
+    },
+    {
+      "start": 791.5999999999999,
+      "end": 794.76,
+      "text": " cumulative return of the stock, right?"
+    },
+    {
+      "start": 794.76,
+      "end": 798.48,
+      "text": " And so you do that for Tesla and then you do that for the cues,"
+    },
+    {
+      "start": 798.48,
+      "end": 800.8,
+      "text": " you take Tesla minus the cues."
+    },
+    {
+      "start": 800.8,
+      "end": 804.56,
+      "text": " So you just subtract the benchmark from your stock."
+    },
+    {
+      "start": 804.56,
+      "end": 806.48,
+      "text": " And so just the stock, you real quick,"
+    },
+    {
+      "start": 806.48,
+      "end": 810.12,
+      "text": " you're normalizing using the average true range."
+    },
+    {
+      "start": 810.12,
+      "end": 811.8,
+      "text": " Exactly, that's the big difference."
+    },
+    {
+      "start": 811.8,
+      "end": 815.4399999999999,
+      "text": " So like you're taking two separate lines"
+    },
+    {
+      "start": 815.4399999999999,
+      "end": 817.52,
+      "text": " and then you're subtracting one for the other."
+    },
+    {
+      "start": 817.52,
+      "end": 822.52,
+      "text": " Each line is a normalized like ATR return of the stock."
+    },
+    {
+      "start": 822.52,
+      "end": 823.52,
+      "text": " Yes."
+    },
+    {
+      "start": 823.52,
+      "end": 825.52,
+      "text": " During the same time period."
+    },
+    {
+      "start": 825.52,
+      "end": 831.52,
+      "text": " And so that way, you're basically saying like four Tesla's volatility,"
+    },
+    {
+      "start": 831.52,
+      "end": 834.52,
+      "text": " Tesla has performed this way."
+    },
+    {
+      "start": 834.52,
+      "end": 838.52,
+      "text": " And for the cues volatility, the cues have performed this way."
+    },
+    {
+      "start": 838.52,
+      "end": 842.52,
+      "text": " So we've now taken the volatility out of it now"
+    },
+    {
+      "start": 842.52,
+      "end": 845.52,
+      "text": " based on how they normally move, which one's outperforming."
+    },
+    {
+      "start": 845.52,
+      "end": 846.52,
+      "text": " Right?"
+    },
+    {
+      "start": 846.52,
+      "end": 848.52,
+      "text": " And so it's so interesting."
+    },
+    {
+      "start": 848.52,
+      "end": 851.52,
+      "text": " And so like if Tesla typically always just"
+    },
+    {
+      "start": 851.52,
+      "end": 855.52,
+      "text": " double the percent move as the cues."
+    },
+    {
+      "start": 855.52,
+      "end": 857.52,
+      "text": " I'm just making that up."
+    },
+    {
+      "start": 857.52,
+      "end": 861.52,
+      "text": " So now if the cues go up 2% and Tesla goes up 4%,"
+    },
+    {
+      "start": 861.52,
+      "end": 863.52,
+      "text": " that on the relative strength line,"
+    },
+    {
+      "start": 863.52,
+      "end": 866.52,
+      "text": " that's going to be like they did the same thing."
+    },
+    {
+      "start": 866.52,
+      "end": 868.52,
+      "text": " And that's what that's doing."
+    },
+    {
+      "start": 868.52,
+      "end": 870.52,
+      "text": " And then so you're saying doing the same thing,"
+    },
+    {
+      "start": 870.52,
+      "end": 871.52,
+      "text": " it'll be a flat."
+    },
+    {
+      "start": 871.52,
+      "end": 872.52,
+      "text": " Yeah, it'll just be flat."
+    },
+    {
+      "start": 872.52,
+      "end": 874.52,
+      "text": " Yeah, like they both did the same thing."
+    },
+    {
+      "start": 874.52,
+      "end": 877.52,
+      "text": " So that's what the line is down at the bottom."
+    },
+    {
+      "start": 877.52,
+      "end": 880.52,
+      "text": " And so that's plotting the relative strength of Tesla compared to the cues."
+    },
+    {
+      "start": 880.52,
+      "end": 884.52,
+      "text": " And you can you can see it pretty clearly because you see that day one."
+    },
+    {
+      "start": 884.52,
+      "end": 886.52,
+      "text": " This is over the course of three days."
+    },
+    {
+      "start": 886.52,
+      "end": 890.52,
+      "text": " And you can see those vertical lines on the chart are splitting Tesla"
+    },
+    {
+      "start": 890.52,
+      "end": 893.52,
+      "text": " and the cues up into three days."
+    },
+    {
+      "start": 893.52,
+      "end": 895.52,
+      "text": " And you can see on day one,"
+    },
+    {
+      "start": 895.52,
+      "end": 898.52,
+      "text": " how Tesla rallied in the morning,"
+    },
+    {
+      "start": 898.52,
+      "end": 901.52,
+      "text": " flat line in the afternoon, and then kind of sold off into the clothes,"
+    },
+    {
+      "start": 901.52,
+      "end": 903.52,
+      "text": " kind of clothes where it started."
+    },
+    {
+      "start": 903.52,
+      "end": 905.52,
+      "text": " And you can see that the cues,"
+    },
+    {
+      "start": 905.52,
+      "end": 912.52,
+      "text": " actually kind of sold off all afternoon and much deeper and rallied into the clothes a little bit, right?"
+    },
+    {
+      "start": 912.52,
+      "end": 915.52,
+      "text": " Which is so when when the cues rally into the clothes,"
+    },
+    {
+      "start": 915.52,
+      "end": 918.52,
+      "text": " you can see that relative strength line and Tesla dip."
+    },
+    {
+      "start": 918.52,
+      "end": 920.52,
+      "text": " Because now all of a sudden just into the clothes,"
+    },
+    {
+      "start": 920.52,
+      "end": 922.52,
+      "text": " the cues are outperforming."
+    },
+    {
+      "start": 922.52,
+      "end": 924.52,
+      "text": " So but you can see as a whole,"
+    },
+    {
+      "start": 924.52,
+      "end": 926.52,
+      "text": " Tesla held up much better than the cues."
+    },
+    {
+      "start": 926.52,
+      "end": 929.52,
+      "text": " And you can see that in the chart and you can see it on the relative strength line."
+    },
+    {
+      "start": 929.52,
+      "end": 933.52,
+      "text": " And so what's so interesting about this is that we weren't looking at this line"
+    },
+    {
+      "start": 933.52,
+      "end": 934.52,
+      "text": " when we were making this trade."
+    },
+    {
+      "start": 934.52,
+      "end": 938.52,
+      "text": " We were just watching the tape and comparing like I started out saying,"
+    },
+    {
+      "start": 938.52,
+      "end": 942.52,
+      "text": " just noticing the moves in the market compared to Tesla."
+    },
+    {
+      "start": 942.52,
+      "end": 943.52,
+      "text": " And on day two,"
+    },
+    {
+      "start": 943.52,
+      "end": 946.52,
+      "text": " Tesla was just noticeably stronger than the market."
+    },
+    {
+      "start": 946.52,
+      "end": 950.52,
+      "text": " And this is the day that it came up to and tested the breakout level,"
+    },
+    {
+      "start": 950.52,
+      "end": 951.52,
+      "text": " which is that pink line."
+    },
+    {
+      "start": 951.52,
+      "end": 952.52,
+      "text": " So strong off the open,"
+    },
+    {
+      "start": 952.52,
+      "end": 954.52,
+      "text": " and they were both kind of strong,"
+    },
+    {
+      "start": 954.52,
+      "end": 955.52,
+      "text": " but Tesla was stronger."
+    },
+    {
+      "start": 955.52,
+      "end": 959.52,
+      "text": " And especially in that afternoon move where Tesla had some follow through,"
+    },
+    {
+      "start": 959.52,
+      "end": 960.52,
+      "text": " the market didn't even move."
+    },
+    {
+      "start": 961.52,
+      "end": 963.52,
+      "text": " And that relive strength lines making new highs."
+    },
+    {
+      "start": 963.52,
+      "end": 967.52,
+      "text": " And so that's just like to show how this line works."
+    },
+    {
+      "start": 967.52,
+      "end": 969.52,
+      "text": " But when we're trading this,"
+    },
+    {
+      "start": 969.52,
+      "end": 970.52,
+      "text": " we're thinking,"
+    },
+    {
+      "start": 970.52,
+      "end": 977.52,
+      "text": " man, like Tesla's over the course of the last two days has shown so much consistent relative strength"
+    },
+    {
+      "start": 977.52,
+      "end": 980.52,
+      "text": " that this really could be ready to break out."
+    },
+    {
+      "start": 980.52,
+      "end": 983.52,
+      "text": " It's cool seeing the relative relativity line,"
+    },
+    {
+      "start": 983.52,
+      "end": 986.52,
+      "text": " because we've used this in our models in the past,"
+    },
+    {
+      "start": 986.52,
+      "end": 989.52,
+      "text": " but it's cool seeing it just to mention too,"
+    },
+    {
+      "start": 989.52,
+      "end": 991.52,
+      "text": " if you don't have the relativity line,"
+    },
+    {
+      "start": 991.52,
+      "end": 997.52,
+      "text": " like one way of also just qualitatively looking at it is Tesla is able to take out,"
+    },
+    {
+      "start": 997.52,
+      "end": 1002.52,
+      "text": " it's morning high in the afternoon when cues never did."
+    },
+    {
+      "start": 1002.52,
+      "end": 1005.52,
+      "text": " That's another small little tidbit you can use,"
+    },
+    {
+      "start": 1005.52,
+      "end": 1006.52,
+      "text": " like you were just saying."
+    },
+    {
+      "start": 1006.52,
+      "end": 1007.52,
+      "text": " Absolutely."
+    },
+    {
+      "start": 1007.52,
+      "end": 1008.52,
+      "text": " Right."
+    },
+    {
+      "start": 1008.52,
+      "end": 1012.52,
+      "text": " And those are those qualitative things that we're mostly using."
+    },
+    {
+      "start": 1012.52,
+      "end": 1015.52,
+      "text": " Like we're not really looking at this line too often."
+    },
+    {
+      "start": 1016.52,
+      "end": 1020.52,
+      "text": " So you could even look at just ATRs up as well as other ways to measure,"
+    },
+    {
+      "start": 1020.52,
+      "end": 1021.52,
+      "text": " hit and relive strength."
+    },
+    {
+      "start": 1021.52,
+      "end": 1024.52,
+      "text": " Right. Like ATRs up on the day."
+    },
+    {
+      "start": 1024.52,
+      "end": 1025.52,
+      "text": " Yeah."
+    },
+    {
+      "start": 1025.52,
+      "end": 1026.52,
+      "text": " Yeah."
+    },
+    {
+      "start": 1026.52,
+      "end": 1027.52,
+      "text": " Absolutely."
+    },
+    {
+      "start": 1027.52,
+      "end": 1030.52,
+      "text": " So what's so interesting though with this?"
+    },
+    {
+      "start": 1030.52,
+      "end": 1032.52,
+      "text": " So I'm seeing it on the charts."
+    },
+    {
+      "start": 1032.52,
+      "end": 1033.52,
+      "text": " Pretty cool to see."
+    },
+    {
+      "start": 1033.52,
+      "end": 1037.52,
+      "text": " And then I'm seeing that at the end of day two,"
+    },
+    {
+      "start": 1037.52,
+      "end": 1040.52,
+      "text": " day two is where all the magic happens here."
+    },
+    {
+      "start": 1040.52,
+      "end": 1043.52,
+      "text": " That relativity line starts to really jump."
+    },
+    {
+      "start": 1043.52,
+      "end": 1046.52,
+      "text": " And if you're like a technical trader just trade in the relativity,"
+    },
+    {
+      "start": 1046.52,
+      "end": 1048.52,
+      "text": " it breaks out then."
+    },
+    {
+      "start": 1048.52,
+      "end": 1049.52,
+      "text": " Yeah."
+    },
+    {
+      "start": 1049.52,
+      "end": 1050.52,
+      "text": " It starts to break out."
+    },
+    {
+      "start": 1050.52,
+      "end": 1054.52,
+      "text": " And then some of that's I think the continuation into the actual."
+    },
+    {
+      "start": 1054.52,
+      "end": 1055.52,
+      "text": " Oh, okay."
+    },
+    {
+      "start": 1055.52,
+      "end": 1056.52,
+      "text": " I see what you're saying."
+    },
+    {
+      "start": 1056.52,
+      "end": 1057.52,
+      "text": " Because it's like half and half."
+    },
+    {
+      "start": 1057.52,
+      "end": 1058.52,
+      "text": " Yeah."
+    },
+    {
+      "start": 1058.52,
+      "end": 1059.52,
+      "text": " It's hard to see where it gets a perk at the end."
+    },
+    {
+      "start": 1059.52,
+      "end": 1060.52,
+      "text": " It's hard to see where it cuts off."
+    },
+    {
+      "start": 1060.52,
+      "end": 1061.52,
+      "text": " But yes, it does."
+    },
+    {
+      "start": 1061.52,
+      "end": 1067.52,
+      "text": " It makes it makes new highs into into the clothes because the cues had a pretty."
+    },
+    {
+      "start": 1067.52,
+      "end": 1069.52,
+      "text": " I think of you know, pretty big down move,"
+    },
+    {
+      "start": 1069.52,
+      "end": 1070.52,
+      "text": " especially."
+    },
+    {
+      "start": 1070.52,
+      "end": 1074.52,
+      "text": " I can't see if that's that the clothes are at the open, but."
+    },
+    {
+      "start": 1074.52,
+      "end": 1078.52,
+      "text": " But yeah, basically you want to just see your stock out performing, right?"
+    },
+    {
+      "start": 1078.52,
+      "end": 1081.52,
+      "text": " And I want to show a."
+    },
+    {
+      "start": 1081.52,
+      "end": 1085.52,
+      "text": " Example of S and DK, which is that recent breakout on a daily chart,"
+    },
+    {
+      "start": 1085.52,
+      "end": 1087.52,
+      "text": " because that's really where it's interesting to look at."
+    },
+    {
+      "start": 1087.52,
+      "end": 1091.52,
+      "text": " Like this was kind of fun to see because the reason I grabbed this example Tim was this."
+    },
+    {
+      "start": 1091.52,
+      "end": 1093.52,
+      "text": " I just remember trading this."
+    },
+    {
+      "start": 1093.52,
+      "end": 1098.52,
+      "text": " And I remember talking about the relative strength and Tesla and how that was getting us to get involved in the trade."
+    },
+    {
+      "start": 1098.52,
+      "end": 1100.52,
+      "text": " Inticipating this breakout."
+    },
+    {
+      "start": 1100.52,
+      "end": 1103.52,
+      "text": " Just just noticing it like we weren't looking at the at the indicator,"
+    },
+    {
+      "start": 1103.52,
+      "end": 1107.52,
+      "text": " but I wanted to kind of pull kind of go back and look at the indicator and."
+    },
+    {
+      "start": 1107.52,
+      "end": 1109.52,
+      "text": " And view this because do you remember talking about this?"
+    },
+    {
+      "start": 1109.52,
+      "end": 1111.52,
+      "text": " Oh, I remember with the Tesla one."
+    },
+    {
+      "start": 1111.52,
+      "end": 1112.52,
+      "text": " Are you talking Tesla still?"
+    },
+    {
+      "start": 1112.52,
+      "end": 1113.52,
+      "text": " Yeah."
+    },
+    {
+      "start": 1113.52,
+      "end": 1114.52,
+      "text": " Yeah."
+    },
+    {
+      "start": 1114.52,
+      "end": 1115.52,
+      "text": " Yeah."
+    },
+    {
+      "start": 1115.52,
+      "end": 1119.52,
+      "text": " It was literally that on that day two, we got involved on that day too because of the relative strength."
+    },
+    {
+      "start": 1119.52,
+      "end": 1123.52,
+      "text": " And this just to now bring everything back to the pink line."
+    },
+    {
+      "start": 1123.52,
+      "end": 1127.52,
+      "text": " Last episode we were talking about what are some times when we'll break down."
+    },
+    {
+      "start": 1127.52,
+      "end": 1128.52,
+      "text": " And it's perfectly validated."
+    },
+    {
+      "start": 1128.52,
+      "end": 1130.52,
+      "text": " That was one of them and we broke that rule."
+    },
+    {
+      "start": 1130.52,
+      "end": 1131.52,
+      "text": " Right."
+    },
+    {
+      "start": 1131.52,
+      "end": 1132.52,
+      "text": " All right."
+    },
+    {
+      "start": 1132.52,
+      "end": 1133.52,
+      "text": " So Tim, S and D K."
+    },
+    {
+      "start": 1133.52,
+      "end": 1137.52,
+      "text": " This was the breakout that occurred earlier this month."
+    },
+    {
+      "start": 1137.52,
+      "end": 1140.52,
+      "text": " This was after a big run."
+    },
+    {
+      "start": 1140.52,
+      "end": 1144.52,
+      "text": " One of the strongest stocks on the market, but it paused and it took a break."
+    },
+    {
+      "start": 1144.52,
+      "end": 1145.52,
+      "text": " So did the market."
+    },
+    {
+      "start": 1145.52,
+      "end": 1149.52,
+      "text": " So on the left, we've got S and D K with the relative strength line on the right."
+    },
+    {
+      "start": 1149.52,
+      "end": 1150.52,
+      "text": " We've got the keys."
+    },
+    {
+      "start": 1150.52,
+      "end": 1153.52,
+      "text": " This shows like three months of price action."
+    },
+    {
+      "start": 1154.52,
+      "end": 1160.52,
+      "text": " And to me, this was a perfect example of that hidden relative strength that we're talking about."
+    },
+    {
+      "start": 1160.52,
+      "end": 1162.52,
+      "text": " Because expand on that."
+    },
+    {
+      "start": 1162.52,
+      "end": 1167.52,
+      "text": " This relative strength line broke out when S and D K was doing nothing."
+    },
+    {
+      "start": 1167.52,
+      "end": 1170.52,
+      "text": " It was just pulling back and consolidating."
+    },
+    {
+      "start": 1170.52,
+      "end": 1172.52,
+      "text": " And the entire is so much clear."
+    },
+    {
+      "start": 1172.52,
+      "end": 1173.52,
+      "text": " Yeah."
+    },
+    {
+      "start": 1173.52,
+      "end": 1175.52,
+      "text": " And this is on a daily chart."
+    },
+    {
+      "start": 1175.52,
+      "end": 1179.52,
+      "text": " But just to paint the picture like big run takes a pause."
+    },
+    {
+      "start": 1179.52,
+      "end": 1187.52,
+      "text": " Pulls back has a pretty big down day experiences a little pocket of relative weakness as it comes off the highs and they often do that."
+    },
+    {
+      "start": 1187.52,
+      "end": 1188.52,
+      "text": " Right."
+    },
+    {
+      "start": 1188.52,
+      "end": 1193.52,
+      "text": " They'll often first show relative weakness as they consolidate and then they start to hold."
+    },
+    {
+      "start": 1193.52,
+      "end": 1200.52,
+      "text": " And then they start to show relative strength and you can see that that relative strength line starts to turn up halfway through that consolidation."
+    },
+    {
+      "start": 1200.52,
+      "end": 1203.52,
+      "text": " And it starts to get a little bit tighter."
+    },
+    {
+      "start": 1203.52,
+      "end": 1209.52,
+      "text": " And then that relative strength line breaks out during and I put a little box around the red day."
+    },
+    {
+      "start": 1209.52,
+      "end": 1216.52,
+      "text": " Little little kind of doji type red day before that that sort of breakout candle there."
+    },
+    {
+      "start": 1216.52,
+      "end": 1224.52,
+      "text": " Where the relative strength line breaks out and that's because if you look over on the right, I put a rectangle around the candle and the cues."
+    },
+    {
+      "start": 1224.52,
+      "end": 1227.52,
+      "text": " But that occurred on and the cues had a big down day."
+    },
+    {
+      "start": 1227.52,
+      "end": 1235.52,
+      "text": " So we had a big down day that closed at the lows in the market in the S and D K barely."
+    },
+    {
+      "start": 1235.52,
+      "end": 1240.52,
+      "text": " And so that's like that's the perfect example to me of like that hidden relative strength."
+    },
+    {
+      "start": 1240.52,
+      "end": 1242.52,
+      "text": " We're like, wait a second."
+    },
+    {
+      "start": 1242.52,
+      "end": 1250.52,
+      "text": " S and D case is holding the 10 day here getting tighter and tighter and it couldn't go down with the market market had a huge sell day."
+    },
+    {
+      "start": 1250.52,
+      "end": 1252.52,
+      "text": " Something's going on."
+    },
+    {
+      "start": 1252.52,
+      "end": 1253.52,
+      "text": " Right."
+    },
+    {
+      "start": 1253.52,
+      "end": 1255.52,
+      "text": " There's a hidden bid in here."
+    },
+    {
+      "start": 1255.52,
+      "end": 1259.52,
+      "text": " And so we might be getting a lot closer to the breakout."
+    },
+    {
+      "start": 1259.52,
+      "end": 1266.52,
+      "text": " And then of course, like we got a big day the next day and then a nice consolidation test levels test level breaks out."
+    },
+    {
+      "start": 1266.52,
+      "end": 1268.52,
+      "text": " That's so interesting."
+    },
+    {
+      "start": 1268.52,
+      "end": 1274.52,
+      "text": " So we gave two good example like the Tesla was a stock that was strong, strong,"
+    },
+    {
+      "start": 1274.52,
+      "end": 1276.52,
+      "text": " stronger than the market on an up day."
+    },
+    {
+      "start": 1276.52,
+      "end": 1281.52,
+      "text": " And this is really like you're sitting the hidden relative strength where it's not green on the day."
+    },
+    {
+      "start": 1281.52,
+      "end": 1284.52,
+      "text": " It's just holding up a lot better."
+    },
+    {
+      "start": 1284.52,
+      "end": 1291.52,
+      "text": " But yeah, when I was even saying the Tesla relativity line broke out, this is such a good breakout and relativity on that bottom left chart."
+    },
+    {
+      "start": 1291.52,
+      "end": 1292.52,
+      "text": " Yeah."
+    },
+    {
+      "start": 1292.52,
+      "end": 1293.52,
+      "text": " That's so good."
+    },
+    {
+      "start": 1293.52,
+      "end": 1297.52,
+      "text": " And like the thing with this is like, first of all, you're looking at this for other reasons."
+    },
+    {
+      "start": 1297.52,
+      "end": 1302.52,
+      "text": " Like you're looking at this breakout because it's overall one of the strongest stocks in the market."
+    },
+    {
+      "start": 1302.52,
+      "end": 1311.52,
+      "text": " It's got a great story and it's in a great sector and there's a theme surrounding it and it's consolidating and getting tight and going sideways and holding the 10 day."
+    },
+    {
+      "start": 1311.52,
+      "end": 1315.52,
+      "text": " Like you might have all these reasons, but this is what this is what I mean about."
+    },
+    {
+      "start": 1315.52,
+      "end": 1323.52,
+      "text": " Like you've got a stock that you're watching and you're just trying to time it and gain clues to how close we are to the breakout."
+    },
+    {
+      "start": 1323.52,
+      "end": 1330.52,
+      "text": " And you might use some of this hidden relative strength to just give you clues as to how close we're getting."
+    },
+    {
+      "start": 1330.52,
+      "end": 1331.52,
+      "text": " Right."
+    },
+    {
+      "start": 1331.52,
+      "end": 1342.52,
+      "text": " And not to even forget also like insane the run it had in 2025 and for it to consolidate that in that upper percentile of the range is crazy."
+    },
+    {
+      "start": 1342.52,
+      "end": 1343.52,
+      "text": " Yeah."
+    },
+    {
+      "start": 1343.52,
+      "end": 1347.52,
+      "text": " Talk about a high-type flag like playbook that market up. That's beautiful."
+    },
+    {
+      "start": 1347.52,
+      "end": 1348.52,
+      "text": " But yeah, absolutely."
+    },
+    {
+      "start": 1348.52,
+      "end": 1349.52,
+      "text": " Absolutely."
+    },
+    {
+      "start": 1349.52,
+      "end": 1358.52,
+      "text": " And so it's a nice, it's a nice little example of like, hey, you know, it's not the kind of moment that you're going to get."
+    },
+    {
+      "start": 1358.52,
+      "end": 1366.52,
+      "text": " If you're screening for like the strongest stocks on the day, I'm sure there were stronger stocks than sndk on this day."
+    },
+    {
+      "start": 1366.52,
+      "end": 1367.52,
+      "text": " Right."
+    },
+    {
+      "start": 1367.52,
+      "end": 1369.52,
+      "text": " But oh, yeah, like it wasn't even green."
+    },
+    {
+      "start": 1369.52,
+      "end": 1373.52,
+      "text": " I think it was like a little red candle, but it was way stronger than the market."
+    },
+    {
+      "start": 1373.52,
+      "end": 1380.52,
+      "text": " So if you're watching sndk and very interested in this break up, then it can be really good information for you."
+    },
+    {
+      "start": 1380.52,
+      "end": 1396.52,
+      "text": " And so I think that like, you know, one thing you can do is like we like what's your favorite way to look at this to let me ask you because I know like we're not really looking at this relative strength line when we're trading like we've used this on the quant side."
+    },
+    {
+      "start": 1396.52,
+      "end": 1401.52,
+      "text": " We've kind of developed it for other reasons for scanners and different things like that."
+    },
+    {
+      "start": 1401.52,
+      "end": 1408.52,
+      "text": " But when we're when you're watching the market, like what are how are you thinking about relative strength?"
+    },
+    {
+      "start": 1408.52,
+      "end": 1418.52,
+      "text": " Yeah, we mentioned it in general in the beginning like as just a scanner, but I find it the most powerful when you are looking for a trade."
+    },
+    {
+      "start": 1418.52,
+      "end": 1421.52,
+      "text": " So again, stock selection is very important."
+    },
+    {
+      "start": 1421.52,
+      "end": 1427.52,
+      "text": " We're like we're watching sndk for all those reasons and it's below the breakout level."
+    },
+    {
+      "start": 1427.52,
+      "end": 1435.52,
+      "text": " And you're looking just to see if there's any hints that this thing is getting bought and institutions are buying."
+    },
+    {
+      "start": 1435.52,
+      "end": 1444.52,
+      "text": " And then to the day like what I try to lean back on is that we are trying to follow big money like that's how you catch explosive moves."
+    },
+    {
+      "start": 1444.52,
+      "end": 1447.52,
+      "text": " And for me, yeah, that's exactly what it is."
+    },
+    {
+      "start": 1447.52,
+      "end": 1459.52,
+      "text": " It's interesting to like there are other reasons for this sndk to be watching like I remember it was so hard to find the article, but this was when there's that Samsung raising their prices overnight catalyst."
+    },
+    {
+      "start": 1459.52,
+      "end": 1466.52,
+      "text": " That's what happened right after this down day and that was that small gap up into the next day."
+    },
+    {
+      "start": 1466.52,
+      "end": 1470.52,
+      "text": " So for me, it wouldn't have been that you have to get involved."
+    },
+    {
+      "start": 1470.52,
+      "end": 1472.52,
+      "text": " I want to make this point too."
+    },
+    {
+      "start": 1472.52,
+      "end": 1480.52,
+      "text": " You don't have to get involved right when you find hidden relative strength and stock because I'm not necessarily buying that."
+    },
+    {
+      "start": 1480.52,
+      "end": 1481.52,
+      "text": " Exactly."
+    },
+    {
+      "start": 1481.52,
+      "end": 1493.52,
+      "text": " Because you want to wait until usually the market turns up or just like there is a breakout where like it hidden relative strength could last longer than just one day."
+    },
+    {
+      "start": 1493.52,
+      "end": 1501.52,
+      "text": " And it doesn't mean that this has to go, but it means if the market does reclaim and start trending higher, this thing is going to rip."
+    },
+    {
+      "start": 1501.52,
+      "end": 1503.52,
+      "text": " Exactly. So it's like an alert."
+    },
+    {
+      "start": 1503.52,
+      "end": 1513.52,
+      "text": " I'm so glad you brought that up because I didn't even mention that like it's not like I'm buying it on that little red day just because I saw hidden relative strength."
+    },
+    {
+      "start": 1513.52,
+      "end": 1525.52,
+      "text": " But when I get that alert, however, I'm getting it now it's just going to the top of my watch list the next day. And that's like really valuable because now we're watching it even closer because we're thinking."
+    },
+    {
+      "start": 1525.52,
+      "end": 1539.52,
+      "text": " Like maybe it's just getting closer to the breakout. And so I think sometimes those things are like undervalued because like we're always talking about entries and like how you like how you get in and like what's a good trade and all that kind of stuff."
+    },
+    {
+      "start": 1539.52,
+      "end": 1547.52,
+      "text": " But like how's it get to the top of your watch list in the first place is a really important factor in trading."
+    },
+    {
+      "start": 1547.52,
+      "end": 1560.52,
+      "text": " I like that you're saying watch list. That's actually like I kind of wish I haven't said that for my answer, but that's really what this is like it's just a way of ranking your watch list."
+    },
+    {
+      "start": 1560.52,
+      "end": 1564.52,
+      "text": " And in turn, that's how you catch these huge breakout traits."
+    },
+    {
+      "start": 1564.52,
+      "end": 1573.52,
+      "text": " Right, absolutely. Right. You start watching like earlier on in this move. It might be like fifth on the watch list. Like yeah, I think it's going to break out at some point."
+    },
+    {
+      "start": 1573.52,
+      "end": 1587.52,
+      "text": " It starts to get tighter and you're like, you know what? Like this is my secondary thing. I don't want to lose track. And then as soon as you see that hidden relative strength and then something happens the next day, boom, all of a sudden it's like wait a second. Like this is the top."
+    },
+    {
+      "start": 1587.52,
+      "end": 1599.52,
+      "text": " The top thing. So it's just it's one of those pieces to the puzzle. And similarly, after it breaks above, let me see what price that's like 280 after it has that next."
+    },
+    {
+      "start": 1599.52,
+      "end": 1606.52,
+      "text": " It broke out from like a 30 minute consolidation when it went to 280 have that pause and then it had the pink line breakout."
+    },
+    {
+      "start": 1606.52,
+      "end": 1617.52,
+      "text": " It's funny because then at that point, you're in the trade, but at the same point in terms of your actionable watch list now, as in decay, starts moving down because it is already made its move."
+    },
+    {
+      "start": 1617.52,
+      "end": 1621.52,
+      "text": " Like you're late to that move if you're looking to play this."
+    },
+    {
+      "start": 1621.52,
+      "end": 1629.52,
+      "text": " Right. Yeah, yeah, I mean, you want to get the tip off early. You want to be prepared for these damn things because they happen fast."
+    },
+    {
+      "start": 1629.52,
+      "end": 1639.52,
+      "text": " So that's kind of the point. It's like how many how many ways can we get to like be hawking the right breakouts because there's probably other stocks maybe looking like they could break out too."
+    },
+    {
+      "start": 1639.52,
+      "end": 1644.52,
+      "text": " We want to we want to make sure we're watching the right ones. So this is kind of like one of the ways to do it. Right."
+    },
+    {
+      "start": 1644.52,
+      "end": 1651.52,
+      "text": " And bandwidth is like it's one of the harder aspects where you know, there's so many stocks moving every single day."
+    },
+    {
+      "start": 1651.52,
+      "end": 1665.52,
+      "text": " And to really crush and capitalize on trades like you do need to focus and have like a priority watch list where the prior to is like what's the most actionable for your playbook."
+    },
+    {
+      "start": 1665.52,
+      "end": 1668.52,
+      "text": " And this is a great way of doing it. Yeah, I agree."
+    },
+    {
+      "start": 1668.52,
+      "end": 1675.52,
+      "text": " It's it's funny to me to like on the bandwidth topic if we want to jump for a sec like it."
+    },
+    {
+      "start": 1675.52,
+      "end": 1684.52,
+      "text": " What is great about hidden relative strength is that you get the little tips early that okay, there's a bid here."
+    },
+    {
+      "start": 1684.52,
+      "end": 1688.52,
+      "text": " This thing could break out in a big way when the market reclaims."
+    },
+    {
+      "start": 1688.52,
+      "end": 1698.52,
+      "text": " What's also really hard about it is actually just keeping track of these names and not forgetting that okay, oh, that was really like relatively strong this day."
+    },
+    {
+      "start": 1698.52,
+      "end": 1704.52,
+      "text": " And like that aspect of keeping track, I find kind of interesting because that's the whole name of the game."
+    },
+    {
+      "start": 1704.52,
+      "end": 1715.52,
+      "text": " Yeah, you want to you want to have a watch list written down somewhere that's organized systematically in buckets. Right."
+    },
+    {
+      "start": 1715.52,
+      "end": 1722.52,
+      "text": " And like I know a lot of people on our desk will have just purely like what's the relative strength watch list."
+    },
+    {
+      "start": 1722.52,
+      "end": 1728.52,
+      "text": " It's literally a list of names that have exhibited relative strength in this way."
+    },
+    {
+      "start": 1728.52,
+      "end": 1737.52,
+      "text": " And that's it. And like maybe they set up maybe they don't, but that's that's kind of the the stocks you don't want to lose track of in that respect."
+    },
+    {
+      "start": 1737.52,
+      "end": 1740.52,
+      "text": " I think that's a really good idea."
+    },
+    {
+      "start": 1740.52,
+      "end": 1743.52,
+      "text": " Especially me."
+    },
+    {
+      "start": 1743.52,
+      "end": 1749.52,
+      "text": " Even talking to get about relative strength. It's like it's pretty easy right now to say."
+    },
+    {
+      "start": 1749.52,
+      "end": 1753.52,
+      "text": " SNDK is relatively strong above 540 right."
+    },
+    {
+      "start": 1753.52,
+      "end": 1761.52,
+      "text": " Is that relative strength. I mean, now what we're talking about it blew it blew out earnings tonight. It's like where it was more way up."
+    },
+    {
+      "start": 1761.52,
+      "end": 1778.52,
+      "text": " But this was fun. I'm glad. I'm glad you brought me out of hiding for this because I've been I've been in in bed for like a week and a half with the flu with a with a bottle of cough syrup next to me, which I I hate that stuff."
+    },
+    {
+      "start": 1778.52,
+      "end": 1781.52,
+      "text": " Remind me never take that."
+    },
+    {
+      "start": 1781.52,
+      "end": 1784.52,
+      "text": " That stuff next time I get sick. I'm done with that."
+    },
+    {
+      "start": 1784.52,
+      "end": 1798.52,
+      "text": " I'm not a better player. I just cook a cold or something. Yeah, I've been hopping out occasionally as the metals have been going crazy and and making some trades, but it's nice to be part of civilization again."
+    },
+    {
+      "start": 1798.52,
+      "end": 1804.52,
+      "text": " With silver and gold talk about your own Michael Jordan flu game this week."
+    },
+    {
+      "start": 1804.52,
+      "end": 1823.52,
+      "text": " I don't know if I would call it that. But anyway, this is this has been great. I hope that I hope I hope people can kind of take something from this and and you know with this indicator, these are the kind of things and in biotic trader that were that we're kind of sharing and giving out so come join us on Tuesdays."
+    },
+    {
+      "start": 1823.52,
+      "end": 1833.52,
+      "text": " Do you want to sit in on all of our daily and weekly in house trader meetings. There's no bigger edge retail traders can get visit SMB trading floor dot com to learn more."
+    },
+    {
+      "start": 1833.52,
+      "end": 1844.52,
+      "text": " Ask questions in the comments at some point we might look to answer some of those but keep asking question in the comments and we'll try to respond and we're against still on Spotify."
+    },
+    {
+      "start": 1844.52,
+      "end": 1846.52,
+      "text": " If that's your preferred way of listening."
+    },
+    {
+      "start": 1846.52,
+      "end": 1848.52,
+      "text": " That's right. And yeah, that's what's going on."
+    },
+    {
+      "start": 1848.52,
+      "end": 1851.52,
+      "text": " Alright, until next time trade well. See you next week."
+    }
+  ],
+  "visual_entries": [
+    {
+      "timestamp": 0,
+      "timecode": "00:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " If you're waiting for the move to be obvious, you're 100% late."
+    },
+    {
+      "timestamp": 10,
+      "timecode": "00:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Anyone can tell you a stock is strong when it's up 100%."
+    },
+    {
+      "timestamp": 20,
+      "timecode": "00:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " We call it hidden relative strength."
+    },
+    {
+      "timestamp": 30,
+      "timecode": "00:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " We're going to discuss how we spot hidden relative strength,"
+    },
+    {
+      "timestamp": 40,
+      "timecode": "00:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It's time to become an expert on spotting hidden relative strength."
+    },
+    {
+      "timestamp": 50,
+      "timecode": "00:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " in our guide, Kurt, behind the curtain."
+    },
+    {
+      "timestamp": 60,
+      "timecode": "01:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " they're talking about a really strong stock."
+    },
+    {
+      "timestamp": 70,
+      "timecode": "01:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " But I think that a lot of times when we talk about relative strength,"
+    },
+    {
+      "timestamp": 80,
+      "timecode": "01:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " some stock that's just running, it's the strongest stock in the market,"
+    },
+    {
+      "timestamp": 90,
+      "timecode": "01:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " But in our case, and you'd probably agree with this, Tim, more powerful,"
+    },
+    {
+      "timestamp": 100,
+      "timecode": "01:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Now, a stock that's up 10% today, obviously,"
+    },
+    {
+      "timestamp": 110,
+      "timecode": "01:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So what is this hidden relative strength that we're talking about?"
+    },
+    {
+      "timestamp": 120,
+      "timecode": "02:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " But it's different than just something that's just ridiculously strong."
+    },
+    {
+      "timestamp": 130,
+      "timecode": "02:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And you don't want to be looking at it every single day."
+    },
+    {
+      "timestamp": 140,
+      "timecode": "02:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And for hidden relative strength, we really"
+    },
+    {
+      "timestamp": 150,
+      "timecode": "02:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Yeah, absolutely."
+    },
+    {
+      "timestamp": 160,
+      "timecode": "02:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " because that's a really great proxy to say, is our stock stronger or weaker?"
+    },
+    {
+      "timestamp": 170,
+      "timecode": "02:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " There's different things we can do there."
+    },
+    {
+      "timestamp": 180,
+      "timecode": "03:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And we use this for breakouts, mostly Tim."
+    },
+    {
+      "timestamp": 190,
+      "timecode": "03:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It's maybe testing the breakout level."
+    },
+    {
+      "timestamp": 200,
+      "timecode": "03:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And like the last episode, when we talked about the pink line,"
+    },
+    {
+      "timestamp": 210,
+      "timecode": "03:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " or we might wait for that break."
+    },
+    {
+      "timestamp": 220,
+      "timecode": "03:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Would you like to gain the biggest edge a retail trader can get?"
+    },
+    {
+      "timestamp": 230,
+      "timecode": "03:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Just head over to smbtrainingfloor.com to find out more."
+    },
+    {
+      "timestamp": 240,
+      "timecode": "04:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And I want to actually get into that, Tim,"
+    },
+    {
+      "timestamp": 250,
+      "timecode": "04:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Let's go."
+    },
+    {
+      "timestamp": 260,
+      "timecode": "04:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And you notice that the market ticks down."
+    },
+    {
+      "timestamp": 270,
+      "timecode": "04:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And maybe it doesn't go down as hard."
+    },
+    {
+      "timestamp": 280,
+      "timecode": "04:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " that it demonstrated some relative strength, some resilience,"
+    },
+    {
+      "timestamp": 290,
+      "timecode": "04:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Without it kind of having to go up 10% before you realize that,"
+    },
+    {
+      "timestamp": 300,
+      "timecode": "05:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " as the market drops in your stock holds,"
+    },
+    {
+      "timestamp": 310,
+      "timecode": "05:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And the stock keeps going out a little bit higher."
+    },
+    {
+      "timestamp": 320,
+      "timecode": "05:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So simply put, it's like the queues are down 2% on the day."
+    },
+    {
+      "timestamp": 330,
+      "timecode": "05:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Or if the market's down 2% to 3%, what's only down 0.25%."
+    },
+    {
+      "timestamp": 340,
+      "timecode": "05:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " is that there is a fundamental driver behind it,"
+    },
+    {
+      "timestamp": 350,
+      "timecode": "05:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " because they have institutional buying behind it."
+    },
+    {
+      "timestamp": 360,
+      "timecode": "06:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Like if they want to buy Tesla or SNDK,"
+    },
+    {
+      "timestamp": 370,
+      "timecode": "06:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " via a T-Wap."
+    },
+    {
+      "timestamp": 380,
+      "timecode": "06:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Right, it's like the footprints of those institutions."
+    },
+    {
+      "timestamp": 390,
+      "timecode": "06:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " gives you an opportunity to see which stocks have bids in them."
+    },
+    {
+      "timestamp": 400,
+      "timecode": "06:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " in the market, or even just a week period in the market,"
+    },
+    {
+      "timestamp": 410,
+      "timecode": "06:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It's when the market's going down,"
+    },
+    {
+      "timestamp": 420,
+      "timecode": "07:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " in the market, he has this list of relatively strong stocks."
+    },
+    {
+      "timestamp": 430,
+      "timecode": "07:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And those are the stocks that he ends up swing trading"
+    },
+    {
+      "timestamp": 440,
+      "timecode": "07:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Yes, yeah."
+    },
+    {
+      "timestamp": 450,
+      "timecode": "07:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " But when the market is down, look at what's holding up the best."
+    },
+    {
+      "timestamp": 460,
+      "timecode": "07:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Yeah, so to me, there's like two ways to use this."
+    },
+    {
+      "timestamp": 470,
+      "timecode": "07:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And now you know, these are stocks when the market"
+    },
+    {
+      "timestamp": 480,
+      "timecode": "08:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So that's kind of like a scanning way to go about this."
+    },
+    {
+      "timestamp": 490,
+      "timecode": "08:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Yeah, and this is kind of like where I was thinking,"
+    },
+    {
+      "timestamp": 500,
+      "timecode": "08:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Because you're right, you can use it to scan the stocks."
+    },
+    {
+      "timestamp": 510,
+      "timecode": "08:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Right? Because we're always like, you know,"
+    },
+    {
+      "timestamp": 520,
+      "timecode": "08:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And all those things, and so you're trying to time it."
+    },
+    {
+      "timestamp": 530,
+      "timecode": "08:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " a lot of the times the stock's underperforming."
+    },
+    {
+      "timestamp": 540,
+      "timecode": "09:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And it's some point."
+    },
+    {
+      "timestamp": 550,
+      "timecode": "09:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " and just kind of review, like a lot of times"
+    },
+    {
+      "timestamp": 560,
+      "timecode": "09:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " I mean, 90% of the breakouts that are really good,"
+    },
+    {
+      "timestamp": 570,
+      "timecode": "09:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " to start teaming up a breakout is because you start to see that."
+    },
+    {
+      "timestamp": 580,
+      "timecode": "09:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It consolidated for weeks off that April low."
+    },
+    {
+      "timestamp": 590,
+      "timecode": "09:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And it was like the few days leading up to the breakout."
+    },
+    {
+      "timestamp": 600,
+      "timecode": "10:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " If you could please bring up the Tesla slide,"
+    },
+    {
+      "timestamp": 610,
+      "timecode": "10:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " I don't remember a Tesla breakout"
+    },
+    {
+      "timestamp": 620,
+      "timecode": "10:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so Tesla is on the left."
+    },
+    {
+      "timestamp": 630,
+      "timecode": "10:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " is the relative strength line."
+    },
+    {
+      "timestamp": 640,
+      "timecode": "10:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " when people want to quantify relative strength,"
+    },
+    {
+      "timestamp": 650,
+      "timecode": "10:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " and you're plotting that line."
+    },
+    {
+      "timestamp": 660,
+      "timecode": "11:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": null
+    },
+    {
+      "timestamp": 670,
+      "timecode": "11:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " like that's a great way to do it."
+    },
+    {
+      "timestamp": 680,
+      "timecode": "11:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " and you're trying to compare to something"
+    },
+    {
+      "timestamp": 690,
+      "timecode": "11:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " so the market's up 2%, Tesla's up 4%,"
+    },
+    {
+      "timestamp": 700,
+      "timecode": "11:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " In a situation like that,"
+    },
+    {
+      "timestamp": 710,
+      "timecode": "11:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " like a sort of subdued chart of Tesla,"
+    },
+    {
+      "timestamp": 720,
+      "timecode": "12:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And this is an indicator that we share"
+    },
+    {
+      "timestamp": 730,
+      "timecode": "12:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " There's no bigger edge retail traders can get."
+    },
+    {
+      "timestamp": 740,
+      "timecode": "12:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " so that people at home can do it and understand it."
+    },
+    {
+      "timestamp": 750,
+      "timecode": "12:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " which think of each bar as a move in the stock, right?"
+    },
+    {
+      "timestamp": 760,
+      "timecode": "12:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so for every move in the stock,"
+    },
+    {
+      "timestamp": 770,
+      "timecode": "12:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " which is the volatility of the stock."
+    },
+    {
+      "timestamp": 780,
+      "timecode": "13:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so now you have a chart of these ATR moves"
+    },
+    {
+      "timestamp": 790,
+      "timecode": "13:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " and you're basically getting an ATR-adjusted"
+    },
+    {
+      "timestamp": 800,
+      "timecode": "13:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " you take Tesla minus the cues."
+    },
+    {
+      "timestamp": 810,
+      "timecode": "13:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " you're normalizing using the average true range."
+    },
+    {
+      "timestamp": 820,
+      "timecode": "13:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Each line is a normalized like ATR return of the stock."
+    },
+    {
+      "timestamp": 830,
+      "timecode": "13:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so that way, you're basically saying like four Tesla's volatility,"
+    },
+    {
+      "timestamp": 840,
+      "timecode": "14:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So we've now taken the volatility out of it now"
+    },
+    {
+      "timestamp": 850,
+      "timecode": "14:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so like if Tesla typically always just"
+    },
+    {
+      "timestamp": 860,
+      "timecode": "14:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So now if the cues go up 2% and Tesla goes up 4%,"
+    },
+    {
+      "timestamp": 870,
+      "timecode": "14:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And then so you're saying doing the same thing,"
+    },
+    {
+      "timestamp": 880,
+      "timecode": "14:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so that's plotting the relative strength of Tesla compared to the cues."
+    },
+    {
+      "timestamp": 890,
+      "timecode": "14:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And you can see those vertical lines on the chart are splitting Tesla"
+    },
+    {
+      "timestamp": 900,
+      "timecode": "15:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " flat line in the afternoon, and then kind of sold off into the clothes,"
+    },
+    {
+      "timestamp": 910,
+      "timecode": "15:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " actually kind of sold off all afternoon and much deeper and rallied into the clothes a little bit, right?"
+    },
+    {
+      "timestamp": 920,
+      "timecode": "15:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Because now all of a sudden just into the clothes,"
+    },
+    {
+      "timestamp": 930,
+      "timecode": "15:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so what's so interesting about this is that we weren't looking at this line"
+    },
+    {
+      "timestamp": 940,
+      "timecode": "15:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " just noticing the moves in the market compared to Tesla."
+    },
+    {
+      "timestamp": 950,
+      "timecode": "15:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And this is the day that it came up to and tested the breakout level,"
+    },
+    {
+      "timestamp": 960,
+      "timecode": "16:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " the market didn't even move."
+    },
+    {
+      "timestamp": 970,
+      "timecode": "16:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " we're thinking,"
+    },
+    {
+      "timestamp": 980,
+      "timecode": "16:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " that this really could be ready to break out."
+    },
+    {
+      "timestamp": 990,
+      "timecode": "16:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " if you don't have the relativity line,"
+    },
+    {
+      "timestamp": 1000,
+      "timecode": "16:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " it's morning high in the afternoon when cues never did."
+    },
+    {
+      "timestamp": 1010,
+      "timecode": "16:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And those are those qualitative things that we're mostly using."
+    },
+    {
+      "timestamp": 1020,
+      "timecode": "17:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So you could even look at just ATRs up as well as other ways to measure,"
+    },
+    {
+      "timestamp": 1030,
+      "timecode": "17:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So what's so interesting though with this?"
+    },
+    {
+      "timestamp": 1040,
+      "timecode": "17:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " day two is where all the magic happens here."
+    },
+    {
+      "timestamp": 1050,
+      "timecode": "17:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It starts to break out."
+    },
+    {
+      "timestamp": 1060,
+      "timecode": "17:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It's hard to see where it cuts off."
+    },
+    {
+      "timestamp": 1070,
+      "timecode": "17:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " especially."
+    },
+    {
+      "timestamp": 1080,
+      "timecode": "18:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And I want to show a."
+    },
+    {
+      "timestamp": 1090,
+      "timecode": "18:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Like this was kind of fun to see because the reason I grabbed this example Tim was this."
+    },
+    {
+      "timestamp": 1100,
+      "timecode": "18:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Inticipating this breakout."
+    },
+    {
+      "timestamp": 1110,
+      "timecode": "18:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Oh, I remember with the Tesla one."
+    },
+    {
+      "timestamp": 1120,
+      "timecode": "18:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And this just to now bring everything back to the pink line."
+    },
+    {
+      "timestamp": 1130,
+      "timecode": "18:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " That was one of them and we broke that rule."
+    },
+    {
+      "timestamp": 1140,
+      "timecode": "19:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " This was after a big run."
+    },
+    {
+      "timestamp": 1150,
+      "timecode": "19:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " We've got the keys."
+    },
+    {
+      "timestamp": 1160,
+      "timecode": "19:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And to me, this was a perfect example of that hidden relative strength that we're talking about."
+    },
+    {
+      "timestamp": 1170,
+      "timecode": "19:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It was just pulling back and consolidating."
+    },
+    {
+      "timestamp": 1180,
+      "timecode": "19:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Pulls back has a pretty big down day experiences a little pocket of relative weakness as it comes off the highs and they often do that."
+    },
+    {
+      "timestamp": 1190,
+      "timecode": "19:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " They'll often first show relative weakness as they consolidate and then they start to hold."
+    },
+    {
+      "timestamp": 1200,
+      "timecode": "20:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And then they start to show relative strength and you can see that that relative strength line starts to turn up halfway through that consolidation."
+    },
+    {
+      "timestamp": 1210,
+      "timecode": "20:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Little little kind of doji type red day before that that sort of breakout candle there."
+    },
+    {
+      "timestamp": 1220,
+      "timecode": "20:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Where the relative strength line breaks out and that's because if you look over on the right, I put a rectangle around the candle and the cues."
+    },
+    {
+      "timestamp": 1230,
+      "timecode": "20:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So we had a big down day that closed at the lows in the market in the S and D K barely."
+    },
+    {
+      "timestamp": 1240,
+      "timecode": "20:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so that's like that's the perfect example to me of like that hidden relative strength."
+    },
+    {
+      "timestamp": 1250,
+      "timecode": "20:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " S and D case is holding the 10 day here getting tighter and tighter and it couldn't go down with the market market had a huge sell day."
+    },
+    {
+      "timestamp": 1260,
+      "timecode": "21:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And then of course, like we got a big day the next day and then a nice consolidation test levels test level breaks out."
+    },
+    {
+      "timestamp": 1270,
+      "timecode": "21:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So we gave two good example like the Tesla was a stock that was strong, strong,"
+    },
+    {
+      "timestamp": 1280,
+      "timecode": "21:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And this is really like you're sitting the hidden relative strength where it's not green on the day."
+    },
+    {
+      "timestamp": 1290,
+      "timecode": "21:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " But yeah, when I was even saying the Tesla relativity line broke out, this is such a good breakout and relativity on that bottom left chart."
+    },
+    {
+      "timestamp": 1300,
+      "timecode": "21:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Like you're looking at this breakout because it's overall one of the strongest stocks in the market."
+    },
+    {
+      "timestamp": 1310,
+      "timecode": "21:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It's got a great story and it's in a great sector and there's a theme surrounding it and it's consolidating and getting tight and going sideways and holding the 10 day."
+    },
+    {
+      "timestamp": 1320,
+      "timecode": "22:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Like you've got a stock that you're watching and you're just trying to time it and gain clues to how close we are to the breakout."
+    },
+    {
+      "timestamp": 1330,
+      "timecode": "22:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And you might use some of this hidden relative strength to just give you clues as to how close we're getting."
+    },
+    {
+      "timestamp": 1340,
+      "timecode": "22:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And not to even forget also like insane the run it had in 2025 and for it to consolidate that in that upper percentile of the range is crazy."
+    },
+    {
+      "timestamp": 1350,
+      "timecode": "22:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so it's a nice, it's a nice little example of like, hey, you know, it's not the kind of moment that you're going to get."
+    },
+    {
+      "timestamp": 1360,
+      "timecode": "22:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " If you're screening for like the strongest stocks on the day, I'm sure there were stronger stocks than sndk on this day."
+    },
+    {
+      "timestamp": 1370,
+      "timecode": "22:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " I think it was like a little red candle, but it was way stronger than the market."
+    },
+    {
+      "timestamp": 1380,
+      "timecode": "23:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So if you're watching sndk and very interested in this break up, then it can be really good information for you."
+    },
+    {
+      "timestamp": 1390,
+      "timecode": "23:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And so I think that like, you know, one thing you can do is like we like what's your favorite way to look at this to let me ask you because I know like we're not really looking at this relative stren"
+    },
+    {
+      "timestamp": 1400,
+      "timecode": "23:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " We've kind of developed it for other reasons for scanners and different things like that."
+    },
+    {
+      "timestamp": 1410,
+      "timecode": "23:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Yeah, we mentioned it in general in the beginning like as just a scanner, but I find it the most powerful when you are looking for a trade."
+    },
+    {
+      "timestamp": 1420,
+      "timecode": "23:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So again, stock selection is very important."
+    },
+    {
+      "timestamp": 1430,
+      "timecode": "23:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And you're looking just to see if there's any hints that this thing is getting bought and institutions are buying."
+    },
+    {
+      "timestamp": 1440,
+      "timecode": "24:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And then to the day like what I try to lean back on is that we are trying to follow big money like that's how you catch explosive moves."
+    },
+    {
+      "timestamp": 1450,
+      "timecode": "24:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It's interesting to like there are other reasons for this sndk to be watching like I remember it was so hard to find the article, but this was when there's that Samsung raising their prices overnight"
+    },
+    {
+      "timestamp": 1460,
+      "timecode": "24:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " That's what happened right after this down day and that was that small gap up into the next day."
+    },
+    {
+      "timestamp": 1470,
+      "timecode": "24:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So for me, it wouldn't have been that you have to get involved."
+    },
+    {
+      "timestamp": 1480,
+      "timecode": "24:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " You don't have to get involved right when you find hidden relative strength and stock because I'm not necessarily buying that."
+    },
+    {
+      "timestamp": 1490,
+      "timecode": "24:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Because you want to wait until usually the market turns up or just like there is a breakout where like it hidden relative strength could last longer than just one day."
+    },
+    {
+      "timestamp": 1500,
+      "timecode": "25:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And it doesn't mean that this has to go, but it means if the market does reclaim and start trending higher, this thing is going to rip."
+    },
+    {
+      "timestamp": 1510,
+      "timecode": "25:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " I'm so glad you brought that up because I didn't even mention that like it's not like I'm buying it on that little red day just because I saw hidden relative strength."
+    },
+    {
+      "timestamp": 1520,
+      "timecode": "25:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " But when I get that alert, however, I'm getting it now it's just going to the top of my watch list the next day. And that's like really valuable because now we're watching it even closer because we'r"
+    },
+    {
+      "timestamp": 1530,
+      "timecode": "25:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Like maybe it's just getting closer to the breakout. And so I think sometimes those things are like undervalued because like we're always talking about entries and like how you like how you get in an"
+    },
+    {
+      "timestamp": 1540,
+      "timecode": "25:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " But like how's it get to the top of your watch list in the first place is a really important factor in trading."
+    },
+    {
+      "timestamp": 1550,
+      "timecode": "25:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " I like that you're saying watch list. That's actually like I kind of wish I haven't said that for my answer, but that's really what this is like it's just a way of ranking your watch list."
+    },
+    {
+      "timestamp": 1560,
+      "timecode": "26:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " I like that you're saying watch list. That's actually like I kind of wish I haven't said that for my answer, but that's really what this is like it's just a way of ranking your watch list."
+    },
+    {
+      "timestamp": 1570,
+      "timecode": "26:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Right, absolutely. Right. You start watching like earlier on in this move. It might be like fifth on the watch list. Like yeah, I think it's going to break out at some point."
+    },
+    {
+      "timestamp": 1580,
+      "timecode": "26:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It starts to get tighter and you're like, you know what? Like this is my secondary thing. I don't want to lose track. And then as soon as you see that hidden relative strength and then something happ"
+    },
+    {
+      "timestamp": 1590,
+      "timecode": "26:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " The top thing. So it's just it's one of those pieces to the puzzle. And similarly, after it breaks above, let me see what price that's like 280 after it has that next."
+    },
+    {
+      "timestamp": 1600,
+      "timecode": "26:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It broke out from like a 30 minute consolidation when it went to 280 have that pause and then it had the pink line breakout."
+    },
+    {
+      "timestamp": 1610,
+      "timecode": "26:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It's funny because then at that point, you're in the trade, but at the same point in terms of your actionable watch list now, as in decay, starts moving down because it is already made its move."
+    },
+    {
+      "timestamp": 1620,
+      "timecode": "27:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Like you're late to that move if you're looking to play this."
+    },
+    {
+      "timestamp": 1630,
+      "timecode": "27:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " So that's kind of the point. It's like how many how many ways can we get to like be hawking the right breakouts because there's probably other stocks maybe looking like they could break out too."
+    },
+    {
+      "timestamp": 1640,
+      "timecode": "27:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " We want to we want to make sure we're watching the right ones. So this is kind of like one of the ways to do it. Right."
+    },
+    {
+      "timestamp": 1650,
+      "timecode": "27:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And bandwidth is like it's one of the harder aspects where you know, there's so many stocks moving every single day."
+    },
+    {
+      "timestamp": 1660,
+      "timecode": "27:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And to really crush and capitalize on trades like you do need to focus and have like a priority watch list where the prior to is like what's the most actionable for your playbook."
+    },
+    {
+      "timestamp": 1670,
+      "timecode": "27:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " It's it's funny to me to like on the bandwidth topic if we want to jump for a sec like it."
+    },
+    {
+      "timestamp": 1680,
+      "timecode": "28:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " What is great about hidden relative strength is that you get the little tips early that okay, there's a bid here."
+    },
+    {
+      "timestamp": 1690,
+      "timecode": "28:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " What's also really hard about it is actually just keeping track of these names and not forgetting that okay, oh, that was really like relatively strong this day."
+    },
+    {
+      "timestamp": 1700,
+      "timecode": "28:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And like that aspect of keeping track, I find kind of interesting because that's the whole name of the game."
+    },
+    {
+      "timestamp": 1710,
+      "timecode": "28:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Yeah, you want to you want to have a watch list written down somewhere that's organized systematically in buckets. Right."
+    },
+    {
+      "timestamp": 1720,
+      "timecode": "28:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And like I know a lot of people on our desk will have just purely like what's the relative strength watch list."
+    },
+    {
+      "timestamp": 1730,
+      "timecode": "28:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " And that's it. And like maybe they set up maybe they don't, but that's that's kind of the the stocks you don't want to lose track of in that respect."
+    },
+    {
+      "timestamp": 1740,
+      "timecode": "29:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " I think that's a really good idea."
+    },
+    {
+      "timestamp": 1750,
+      "timecode": "29:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " SNDK is relatively strong above 540 right."
+    },
+    {
+      "timestamp": 1760,
+      "timecode": "29:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Is that relative strength. I mean, now what we're talking about it blew it blew out earnings tonight. It's like where it was more way up."
+    },
+    {
+      "timestamp": 1770,
+      "timecode": "29:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " But this was fun. I'm glad. I'm glad you brought me out of hiding for this because I've been I've been in in bed for like a week and a half with the flu with a with a bottle of cough syrup next to me"
+    },
+    {
+      "timestamp": 1780,
+      "timecode": "29:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Remind me never take that."
+    },
+    {
+      "timestamp": 1790,
+      "timecode": "29:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " I'm not a better player. I just cook a cold or something. Yeah, I've been hopping out occasionally as the metals have been going crazy and and making some trades, but it's nice to be part of civiliza"
+    },
+    {
+      "timestamp": 1800,
+      "timecode": "30:00",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " With silver and gold talk about your own Michael Jordan flu game this week."
+    },
+    {
+      "timestamp": 1810,
+      "timecode": "30:10",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " I don't know if I would call it that. But anyway, this is this has been great. I hope that I hope I hope people can kind of take something from this and and you know with this indicator, these are th"
+    },
+    {
+      "timestamp": 1820,
+      "timecode": "30:20",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " I don't know if I would call it that. But anyway, this is this has been great. I hope that I hope I hope people can kind of take something from this and and you know with this indicator, these are th"
+    },
+    {
+      "timestamp": 1830,
+      "timecode": "30:30",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Do you want to sit in on all of our daily and weekly in house trader meetings. There's no bigger edge retail traders can get visit SMB trading floor dot com to learn more."
+    },
+    {
+      "timestamp": 1840,
+      "timecode": "30:40",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Ask questions in the comments at some point we might look to answer some of those but keep asking question in the comments and we'll try to respond and we're against still on Spotify."
+    },
+    {
+      "timestamp": 1850,
+      "timecode": "30:50",
+      "visual_type": "chart_or_diagram",
+      "description": "Wide-format chart or diagram",
+      "confidence": 0.7,
+      "transcript_context": " Alright, until next time trade well. See you next week."
+    }
+  ]
+}
