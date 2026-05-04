@@ -67,7 +67,7 @@ git push origin main
 - **Remote**: `origin` → `https://github.com/mlyu2000/youtube_trading_kb.git`
 - **Branch**: `main`
 - **UserName**: `mlyu2000`
-- **Token**: ``
+- **Token**: `[YOUR_GITHUB_PAT]`
 
 ---
 
