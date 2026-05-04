@@ -27,48 +27,69 @@ from datetime import datetime
 @activity.defn(name="download_video")
 async def download_video(video_url: str) -> Dict[str, Any]:
     """Transcribe YouTube video using NotebookLM (no download needed)."""
+    import asyncio
     video_id = video_url.split("=")[-1] if "=" in video_url else video_url
+    
     try:
-        # Use NotebookLM CLI to add source
-        notebook_id = "3227d0dc-d155-4bf2-8091-e169e75f4e88"
+        # Create notebook for this video
+        notebook_id = f"nb_{video_id}"
         
-        # Add video source
-        add_result = subprocess.run(
+        # Add YouTube source
+        result = subprocess.run(
             ["notebooklm", "source", "add", video_url, "-n", notebook_id, "--json"],
-            capture_output=True, text=True, timeout=300
+            capture_output=True, text=True, timeout=120
         )
         
-        if add_result.returncode != 0:
+        if result.returncode != 0:
             return {
                 "video_id": video_id,
                 "status": "error",
-                "error": add_result.stderr
+                "error": result.stderr
             }
         
-        response = json.loads(add_result.stdout)
-        source_id = response.get("source_id")
+        response = json.loads(result.stdout)
+        source_id = response["source"]["id"]
         
-        # Wait for processing
-        if source_id:
-            wait_result = subprocess.run(
-                ["notebooklm", "source", "wait", source_id, "-n", notebook_id],
-                capture_output=True, text=True, timeout=600
+        # Wait for source processing (async loop since we're in asyncio)
+        max_wait = 300  # 5 min
+        wait_interval = 5
+        elapsed = 0
+        while elapsed < max_wait:
+            status_result = subprocess.run(
+                ["notebooklm", "source", "list", "-n", notebook_id, "--json"],
+                capture_output=True, text=True, timeout=60
             )
-        
-        # Get fulltext transcript
-        ask_result = subprocess.run(
-            ["notebooklm", "ask", "Extract the full transcript", "-n", notebook_id, "-s", source_id],
-            capture_output=True, text=True, timeout=300
-        )
+            
+            if status_result.returncode == 0:
+                sources = json.loads(status_result.stdout)
+                if isinstance(sources, list):
+                    for src in sources:
+                        if src.get("source_id") == source_id:
+                            state = src.get("state", "UNKNOWN")
+                            if state == "STATE_PROCESSED":
+                                # Get fulltext
+                                transcript_result = subprocess.run(
+                                    ["notebooklm", "ask", "Extract the full transcript", "-n", notebook_id, "-s", source_id],
+                                    capture_output=True, text=True, timeout=60
+                                )
+                                return {
+                                    "video_id": video_id,
+                                    "notebook_id": notebook_id,
+                                    "source_id": source_id,
+                                    "transcript": transcript_result.stdout if transcript_result.stdout else "",
+                                    "transcript_length": len(transcript_result.stdout) if transcript_result.stdout else 0,
+                                    "status": "transcribed"
+                                }
+            
+            await asyncio.sleep(wait_interval)
+            elapsed += wait_interval
         
         return {
             "video_id": video_id,
-            "notebook_id": notebook_id,
-            "source_id": source_id,
-            "transcript": ask_result.stdout if ask_result.stdout else "Transcript not available",
-            "transcript_length": len(ask_result.stdout) if ask_result.stdout else 0,
-            "status": "transcribed"
+            "status": "timeout",
+            "error": "Source processing timeout"
         }
+        
     except Exception as e:
         return {
             "video_id": video_id,

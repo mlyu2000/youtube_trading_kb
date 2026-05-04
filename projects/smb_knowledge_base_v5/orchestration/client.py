@@ -1,5 +1,4 @@
-"""
-Temporal Client Interface for v5.0
+"""Temporal Client Interface for v5.0
 
 For Temporal SDK 1.27.x - synchronous workflow pattern.
 Programmatically start workflow executions.
@@ -37,15 +36,7 @@ class TemporalClient:
         return self._client is not None
     
     async def start_video_processing(self, video_url: str) -> str:
-        """
-        Start ProcessNewVideo workflow for a YouTube URL.
-        
-        Args:
-            video_url: YouTube URL (e.g., "https://youtube.com/watch?v=abc123")
-            
-        Returns:
-            str: Workflow execution ID
-        """
+        """Start ProcessNewVideo workflow for a YouTube URL."""
         if not self._client:
             await self.connect()
         
@@ -119,7 +110,7 @@ async def main():
     elif args.command == "list":
         workflows = await client.list_workflows()
         for wf in workflows[:10]:
-            print(f"[{wf['status']}]] {wf['id']}")
+            print(f"[{wf['status']}] {wf['id']}")
 
 
 if __name__ == "__main__":

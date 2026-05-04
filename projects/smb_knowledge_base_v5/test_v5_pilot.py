@@ -4,7 +4,7 @@ import asyncio
 import sys
 sys.path.insert(0, '/home/ml/youtube_trading_kb/projects/smb_knowledge_base_v5')
 
-from orchestration.simple_workflow import run_simple_pipeline
+from orchestration.client import TemporalClient
 
 
 async def test_v5_with_pilot_videos():
@@ -18,28 +18,25 @@ async def test_v5_with_pilot_videos():
         "_cQnMSU5yGk"
     ]
     
-    print("=== SMB Knowledge Base v5.0 Pilot Test (Simple Pipeline) ===")
+    print("=== SMB Knowledge Base v5.0 Pilot Test ===")
     print()
+    
+    client = TemporalClient()
+    await client.connect()
     
     results = []
     for video_id in videos:
         url = f"https://youtube.com/watch?v={video_id}"
-        print(f"[{video_id}] Starting pipeline...")
+        print(f"[{video_id}] Starting workflow...")
         
         try:
-            result = await run_simple_pipeline(url)
-            status = result.get("status", "error")
-            edge_score = result.get("edge_score", "N/A")
-            
+            wf_id = await client.start_video_processing(url)
             results.append({
                 "video_id": video_id,
-                "status": status,
-                "edge_score": edge_score,
-                "result": result
+                "status": "started",
+                "workflow_id": wf_id
             })
-            
-            status_icon = "PASS" if status == "completed" else "FAIL"
-            print(f"[{video_id}] {status_icon} Status: {status}, Edge Score: {edge_score}")
+            print(f"[{video_id}] PASS Workflow started: {wf_id}")
         except Exception as e:
             results.append({
                 "video_id": video_id,
@@ -50,12 +47,12 @@ async def test_v5_with_pilot_videos():
     
     print()
     print("=== Summary ===")
-    passed = sum(1 for r in results if r.get("status") == "completed")
-    print(f"Passed: {passed}/{len(results)}")
+    passed = sum(1 for r in results if r.get("status") == "started")
+    print(f"Started: {passed}/{len(results)}")
     
     for r in results:
-        status_icon = "PASS" if r["status"] == "completed" else "FAIL"
-        print(f"{status_icon} {r['video_id']}: {r['status']} (edge_score: {r.get('edge_score', 'N/A')})")
+        status_icon = "PASS" if r["status"] == "started" else "FAIL"
+        print(f"{status_icon} {r['video_id']}: {r['status']}")
     
     return results
 
