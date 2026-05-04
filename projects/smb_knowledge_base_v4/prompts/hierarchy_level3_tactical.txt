@@ -1,0 +1,116 @@
+# SMB Knowledge Base v4.0 - Hierarchy Level 3: Tactical
+
+Analyze this content for tactical details - the specific, executable rules that govern every trade.
+
+## Focus Areas
+
+1. **Entry Rules**
+   - Exact conditions for entering a trade
+   - Specific price levels and indicators
+   - Multiple entry scenarios
+
+2. **Exit Rules**
+   - Profit-taking rules (fixed, trailing, two-step)
+   - Stop-loss rules (fixed, ATR-based, dynamic)
+   - Emergency exits
+
+3. **Position Sizing**
+   - Risk per trade calculation
+   - Position size based on confidence
+   - Scaling rules
+
+4. **Filter Rules**
+   - What excludes certain trades?
+   - Market context requirements
+   - Time-based filters
+
+## Extraction Question
+
+**From this content, what are the exact tactical rules for entry, exit, and risk?**
+
+Return your analysis as executable rules that could be coded.
+
+## Key Indicators to Look For
+
+- Specific price levels ("break above $450")
+- Indicator thresholds ("RSI > 70")
+- Quantitative rules ("risk 1% per trade")
+- Conditional statements ("if X, then Y")
+
+## Output Format
+
+```
+{
+  "entry_rules": [
+    {
+      "description": "Rule description",
+      "type": "entry",
+      "condition": "executable_condition",
+      "confidence": 0.85
+    }
+  ],
+  "exit_rules": [
+    {
+      "description": "Stop loss at 1% loss",
+      "type": "exit",
+      "condition": "pnl < -0.01",
+      "confidence": 0.90
+    }
+  ],
+  "risk_model": {
+    "position_size_percent": 5.0,
+    "stop_loss_type": "fixed",
+    "stop_loss_value": 0.01,
+    "take_profit_type": "rr_multiple",
+    "take_profit_value": 2.0
+  }
+}
+```
+
+## Example
+
+Input: "I enter long when price breaks above the consolidation high with volume above 20-day average. Stop loss is 1% below entry. Take profit at 2x risk (2% gain). Risk 1% of account per trade."
+
+Output:
+```json
+{
+  "entry_rules": [
+    {
+      "description": "Price breaks above consolidation high with volume above 20-day SMA",
+      "type": "entry",
+      "condition": "close > consolidation_high AND volume > sma(volume, 20)",
+      "confidence": 0.85
+    }
+  ],
+  "exit_rules": [
+    {
+      "description": "Stop loss at 1% below entry",
+      "type": "exit",
+      "condition": "low < entry_price * 0.99",
+      "confidence": 0.90
+    },
+    {
+      "description": "Take profit at 2x risk (2% gain)",
+      "type": "exit",
+      "condition": "pnl > 0.02",
+      "confidence": 0.85
+    }
+  ],
+  "risk_model": {
+    "position_size_percent": 1.0,
+    "stop_loss_type": "fixed",
+    "stop_loss_value": 0.01,
+    "take_profit_type": "fixed",
+    "take_profit_value": 0.02,
+    "max_drawdown_acceptable": 5.0,
+    "risk_per_trade_percent": 1.0
+  }
+}
+```
+
+## Important
+
+**Convert ALL natural language to executable conditions**:
+- "High volume" → "volume > sma(volume, 20) * 1.5"
+- "Strong momentum" → "rsi > 60 AND macd > signal"
+- "Breakout confirmed" → "close > resistance AND volume_spike"

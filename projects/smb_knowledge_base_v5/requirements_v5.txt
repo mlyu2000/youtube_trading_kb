@@ -1,0 +1,207 @@
+# SMBKnowledge Base v5.0 Requirements
+
+## Core Dependencies
+
+### Temporal.io
+```
+temporalio==1.4
+temporal-sdk-core==1.4
+```
+
+### YouTube API
+```
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=1.0.0
+```
+
+### ClawTeam-OpenClaw
+```
+-e ../ClawTeam-OpenClaw
+```
+
+### DSPy (Self-Improvement)
+```
+dspy-ai>=2.4
+langgraph>=0.0.10
+```
+
+### Real-Time Features
+```
+openai-whisper>=20231117
+librosa>=0.10.0
+soundfile>=0.12.0
+ib-insync>=0.9.72
+tradovate-ws>=1.0.0
+```
+
+### Monitoring
+```
+prometheus-client>=0.19.0
+griffin>=0.2.0
+structlog>=24.1.0
+```
+
+### Backward Compatibility
+```
+pydantic>=2.6.0,<3.0.0  # Pydantic v2.6.x
+pydantic-core>=2.16.0
+```
+
+## Full Requirements (requirements_v5.txt)
+
+```txt
+# Temporal.io orchestration
+temporalio==1.4
+temporal-sdk-core==1.4
+
+# YouTube API for monitoring
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=1.0.0
+
+# ClawTeam-OpenClaw multi-agent swarm
+-e ../ClawTeam-OpenClaw
+
+# Self-improvement loop with DSPy
+dspy-ai>=2.4
+langgraph>=0.0.10
+
+# Real-time features
+openai-whisper>=20231117
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# Paper trading connectors
+ib-insync>=0.9.72
+tradovate-ws>=1.0.0
+
+# Monitoring and observability
+prometheus-client>=0.19.0
+structlog>=24.1.0
+python-json-logger>=2.0.7
+
+# Vector database
+qdrant-client>=1.7.0
+
+# Graph database
+neo4j>=5.14.0
+
+# Backward compatibility
+pydantic>=2.6.0,<3.0.0
+pydantic-core>=2.16.0
+typing-extensions>=4.9.0
+
+# Utilities
+numpy>=1.24.0
+pandas>=2.1.0
+scipy>=1.11.0
+requests>=2.31.0
+tqdm>=4.66.0
+```
+
+## Optional Dependencies
+
+### for Development
+```
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+ruff>=0.1.0
+black>=23.0.0
+mypy>=1.5.0
+```
+
+### for Visualization
+```
+streamlit>=1.28.0
+plotly>=5.17.0
+matplotlib>=3.7.0
+```
+
+## Installation Script
+
+```bash
+#!/bin/bash
+# install_v5_deps.sh
+
+cd /home/ml
+
+# Create virtual environment
+python3 -m venv venv_v5
+source venv_v5/bin/activate
+
+# Install Temporal
+pip install temporalio==1.4 temporal-sdk-core==1.4
+
+# Install YouTube API
+pip install google-api-python-client
+pip install google-auth-httplib2
+pip install google-auth-oauthlib
+
+# Install ClawTeam
+cd /home/ml/ClawTeam-OpenClaw
+pip install -e .
+cd /home/ml
+
+# Install DSPy
+pip install dspy-ai langgraph
+
+# Install real-time
+pip install openai-whisper librosa soundfile
+
+# Install monitoring
+pip install prometheus-client structlog python-json-logger
+
+# Install remaining deps
+pip install qdrant-client neo4j pydantic>=2.6.0,<3.0.0 numpy pandas scipy requests tqdm
+
+echo "v5.0 dependencies installed successfully"
+```
+
+## Compatibility Matrix
+
+| Component | v4.0 | v5.0 |
+|-----------|------|------|
+| Pydantic | 2.13.x | 2.6.x (stability) |
+| Python | 3.11+ | 3.11+ |
+| NotebookLM | Full API | Full API |
+| ClawTeam | - | 0.3.0+openclaw1 |
+| Temporal | - | 1.4 |
+| DSPy | - | 2.4+ |
+
+## Docker Installation
+
+```dockerfile
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    gcc \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy requirements and install
+COPY requirements_v5.txt .
+RUN pip install --no-cache-dir -r requirements_v5.txt
+
+# Copy application code
+COPY smb_knowledge_base_v5/ ./smb_knowledge_base_v5/
+COPY ClawTeam-OpenClaw/ ./ClawTeam-OpenClaw/
+RUN pip install -e ./ClawTeam-OpenClaw/
+
+# Create entrypoint
+CMD ["python", "-m", "smb_knowledge_base_v5.orchestration.worker"]
+```
+
+## Production Checklist
+
+- [x] Temporal SDK installed
+- [x] YouTube API authentication
+- [x] ClawTeam-OpenClaw cloned and configured
+- [x] DSPy optimizer configured
+- [ ] Prometheus metrics endpoint
+- [ ] Grafana dashboard connected
+- [ ] Structured logging in place
+- [ ] Alerting configured
+- [ ] Production documentation completed

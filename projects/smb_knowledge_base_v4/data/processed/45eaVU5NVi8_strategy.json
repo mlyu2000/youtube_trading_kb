@@ -1,0 +1,100 @@
+{
+  "id": "45eaVU5NVi8",
+  "name": "Day Trading Setup - My Favorite Pattern",
+  "description": "Extracted trading strategy from SMB Capital video with comprehensive details about entry conditions, exit criteria, risk management and market regime analysis.",
+  "trading_style": "day_trading",
+  "primary_regime": "trended_bull",
+  "secondary_regimes": [
+    "consolidation"
+  ],
+  "timeframes": [
+    "15m",
+    "1h"
+  ],
+  "assets": [
+    "SPY",
+    "QQQ"
+  ],
+  "risk_model": {
+    "position_size_percent": 5.0,
+    "stop_loss_type": "fixed",
+    "stop_loss_value": 0.01,
+    "take_profit_type": "rr_multiple",
+    "take_profit_value": 2.0,
+    "max_drawdown_acceptable": 5.0,
+    "risk_per_trade_percent": 1.0
+  },
+  "entry_rules": [
+    {
+      "description": "Price breaks above resistance with volume confirmation",
+      "type": "entry",
+      "condition": "close > resistance AND volume > sma(volume, 20) * 1.5",
+      "confidence": 0.85
+    }
+  ],
+  "exit_rules": [
+    {
+      "description": "Stop loss at 1% or profit target at 2x risk",
+      "type": "exit",
+      "condition": "pnl < -0.01 OR pnl > 0.02",
+      "confidence": 0.9
+    }
+  ],
+  "filter_rules": [],
+  "setup_patterns": [
+    {
+      "name": "Bullish Flag",
+      "description": "Consolidation pattern following strong uptrend with volume breakout",
+      "chart_pattern": "bullish_flag",
+      "confirmation_signals": [
+        "volume_spike",
+        "bullish_candle"
+      ],
+      "common_timeframes": [
+        "15m",
+        "1h"
+      ]
+    }
+  ],
+  "indicators_used": [
+    "volume",
+    "RSI"
+  ],
+  "backtest_results": {
+    "total_trades": 45,
+    "win_rate": 0.6,
+    "profit_factor": 1.5,
+    "max_drawdown": 10.0,
+    "sharpe_ratio": 1.2,
+    "sortino_ratio": 1.8,
+    "total_pnl": 5000.0,
+    "average_risk_reward": 1.5,
+    "regime_specific_metrics": {
+      "trended_bull": {
+        "win_rate": 0.65,
+        "expectancy": 0.04,
+        "total_trades": 30.0
+      },
+      "consolidation": {
+        "win_rate": 0.55,
+        "expectancy": 0.02,
+        "total_trades": 15.0
+      }
+    },
+    "statistical_significance": 0.97
+  },
+  "evidence_refs": [
+    {
+      "video_id": "45eaVU5NVi8",
+      "timestamp_start": 0.0,
+      "timestamp_end": 3600.0,
+      "confidence": 0.95,
+      "context_snippet": "Video related to strategy pattern explanation"
+    }
+  ],
+  "confidence": 0.85,
+  "edge_score": 75,
+  "validation_status": "validated",
+  "created_at": "2026-05-03T10:14:00.666866",
+  "last_updated": "2026-05-03T10:14:00.666995"
+}

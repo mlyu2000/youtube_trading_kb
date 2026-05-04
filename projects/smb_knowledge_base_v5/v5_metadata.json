@@ -1,0 +1,61 @@
+{
+  "version": "5.0.0",
+  "name": "SMB Knowledge Base v5.0",
+  "description": "Multi-agent orchestration with Temporal.io, ClawTeam-OpenClaw swarm, and DSPy self-improvement",
+  "status": "in_development",
+  "completed_tasks": [13, 14, 15, 16],
+  "total_tasks": 19,
+  "file_structure": {
+    "orchestration": [
+      "workflows.py",
+      "worker.py",
+      "client.py"
+    ],
+    "ingestion": [
+      "youtube_monitor.py"
+    ],
+    "skills": [
+      "trading_skills.py"
+    ],
+    "teams": [
+      "smb_trading_team.yaml"
+    ],
+    "validation": [],
+    "graph": [],
+    "utils": []
+  },
+  "key_files": {
+    "Temporal Workflows": "orchestration/workflows.py",
+    "YouTube Monitor": "ingestion/youtube_monitor.py",
+    "Trading Skills": "skills/trading_skills.py",
+    "Team Template": "teams/smb_trading_team.yaml",
+    "Self-Improvement": "orchestration/self_improvement.py",
+    "Requirements": "requirements_v5.txt",
+    "Step-by-Step Guide": "SMB_KNOWLEDGE_BASE_STEP_BY_STEP_v5.md"
+  },
+  "pilot_videos_tested": [
+    "45eaVU5NVi8",
+    "sh5h0GJzjNk",
+    "Rqmdw4xyIMM",
+    "WXBxLHdYFi8",
+    "_cQnMSU5yGk"
+  ],
+  "quality_thresholds": {
+    "edge_score_min": 65,
+    "confidence_min": 0.80,
+    "p_value_max": 0.05
+  },
+  "dependencies": {
+    "temporalio": "1.4",
+    "youtube-api": "2.100.0+",
+    "clawteam": "0.3.0+openclaw1",
+    "dspy": "2.4+"
+  },
+  "architecture": {
+    "orchestration": "Temporal.io",
+    "swarm_engine": "ClawTeam-OpenClaw (Hermes backend)",
+    "graph_store": "Neo4j + Qdrant",
+    "metrics": "Prometheus on :9090",
+    "monitoring": "v5.0 - step-by-step guide"
+  }
+}

@@ -1,0 +1,58 @@
+# SMB Knowledge Base v4.0 - Hierarchy Level 1: Philosophy
+
+Analyze this content through the lens of trading philosophy and big-picture thinking.
+
+## Focus Areas
+
+1. **Trading Philosophy**
+   - What is the trader's core belief about markets?
+   - Is the trader confident in their edge?
+   - What's their relationship with risk and uncertainty?
+
+2. **Mindset & Psychology**
+   - How does the trader handle losses?
+   - What's their approach to discipline and consistency?
+   - Do they have a edge-driven or outcome-driven mindset?
+
+3. **Market Perspectiv**
+   - What regimes do they prefer?
+   - How do they view market efficiency?
+   - What's their time horizon?
+
+## Extraction Question
+
+**From this content, what is the trader's core philosophy?**
+
+Return your analysis as a concise summary (max 3 sentences) that captures the essence of their trading mindset.
+
+## Key Indicators to Look For
+
+- Statements about "why" the strategy works (not just "how")
+- Philosophical statements about markets, risk, or success
+- References to past failures and lessons learned
+- General principles that apply beyond specific setups
+
+## Output Format
+
+```
+{
+  "trading_philosophy": "One-sentence summary of core belief",
+  "risk_attitude": "risk_taker|risk_averse|calculated_risk_taker",
+  "edge_belief": " incontrovertible|statistical|eclectic",
+  "confidence_level": "high|moderate|low"
+}
+```
+
+## Example
+
+Input: "I don't chase setups. I wait for confluence - when price, volume, and momentum align. If it's not obvious, it's not worth trading."
+
+Output:
+```json
+{
+  "trading_philosophy": "Wait for confluence of price, volume, and momentum before entries",
+  "risk_attitude": "calculated_risk_taker",
+  "edge_belief": "statistical",
+  "confidence_level": "high"
+}
+```

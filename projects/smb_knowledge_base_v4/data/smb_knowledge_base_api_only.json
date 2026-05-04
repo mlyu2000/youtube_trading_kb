@@ -1,0 +1,892 @@
+{
+  "version": "1.0",
+  "channel": "SMB Capital",
+  "channel_id": "UCg3B_joekBGJ1s_4fRjsMKA",
+  "processed_at": "2026-05-01T04:14:27.856624Z",
+  "total_videos": 20,
+  "videos": [
+    {
+      "video_id": "bfCTZNWBnAc",
+      "title": "How I'd Use AI As A New Trader In 2026",
+      "published_at": "2026-04-28T19:00:58Z",
+      "description": "",
+      "duration": "PT1M29S",
+      "tags": [],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "45eaVU5NVi8",
+      "title": "The Simple 4-Step Process To Build Your Own AI Trading Assistant With Claude (for Beginners)",
+      "published_at": "2026-04-25T12:00:11Z",
+      "description": "Learn the top 3 trade setups we are using on the desk here: https://bit.ly/4sQV0Ov\n\n00:00 Intro: From Zero to AI Trading Assistant\n01:13 Podcast Begins: Why This Matters for Traders\n02:41 The Big Idea: It\u2019s Not About the Dashboard\n04:21 The 4-Step Framework Overview\n05:01 Step 1: Plan Mode (Where Most People Mess Up)\n09:07 Step 2: Build Mode (Let AI Do the Work)\n23:20 Step 3: Personalization (Make It Yours)\n24:59 Step 4: Automate Your Daily Routine\n28:24 Live Demo: AI Trading Dashboard in Action\n37:13 The Trap: Don\u2019t Overcomplicate This\n43:12 The Real Edge: Data Quality & Simplicity\n\n#claude  #claudecode #daytrading\n\n*SMB Disclosures* https://www.smbtraining.com/blog/smb-disclosures",
+      "duration": "PT46M5S",
+      "tags": [
+        "stock market",
+        "day trading",
+        "smb capital",
+        "trading",
+        "investing",
+        "markets",
+        "wall street",
+        "stock trading",
+        "options trading",
+        "options income",
+        "economics",
+        "finance"
+      ],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [
+          "daily"
+        ],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "Pjc61JeH_7I",
+      "title": "Little day trading secret",
+      "published_at": "2026-04-21T18:00:46Z",
+      "description": "",
+      "duration": "PT55S",
+      "tags": [],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [
+          "day_trading"
+        ],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "2yfgwWYCmD0",
+      "title": "The most perfect setup #trading",
+      "published_at": "2026-04-21T15:25:30Z",
+      "description": "",
+      "duration": "PT44S",
+      "tags": [],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "mssPkDuQnmY",
+      "title": "How To Build Your Own Claude AI Trading Assistant (Easy For Beginners)",
+      "published_at": "2026-04-18T12:01:23Z",
+      "description": "Access SMB's Meetings: https://bit.ly/3OnL9BQ\n\n00:00 Intro: Most Traders Use AI Wrong\n01:43 Trading Floor Podcast Episode 15 Begins\n02:46 Justin\u2019s AI-Generated Morning Brief\n04:01 How He Built It With Almost No Coding Experience\n05:01 The Moment AI Clicked\n06:10 Why This Matters for Retail Traders\n09:12 How Beginners Should Start Building With AI\n12:17 Why AI Feels Different Now\n17:21 How to Personalize AI to Your Trading Style\n22:23 The Data Problem for Retail Traders\n23:22 How Retail Traders Can Still Build Useful Tools\n26:28 Using Public Data Sources and Earnings Info\n28:57 From Manual Coding Pain to AI Speed\n30:11 Tim on Using AI After Years of Coding by Hand\n33:18 The Real Process: Prompt, Refine, Repeat\n34:18 Asking AI for Better Approaches\n40:35 What the Tool Actually Saves: Time and Attention\n43:28 Using AI to Build Custom Studies and Indicators\n49:52 Fast Backtesting and Strategy Iteration\n51:56 Closing Thoughts\n52:09 Why This Topic Is Only Getting Bigger\n\n#claude  #aitrading  #daytrading\n\n*SMB Disclosures* https://www.smbtraining.com/blog/smb-disclosures",
+      "duration": "PT53M4S",
+      "tags": [
+        "stock market",
+        "day trading",
+        "smb capital",
+        "trading",
+        "investing",
+        "markets",
+        "wall street",
+        "stock trading",
+        "options trading",
+        "options income",
+        "economics",
+        "finance"
+      ],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [
+          "backtesting"
+        ],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "Qj5diAo8nYY",
+      "title": "We\u2019ve all been there\u2026 #trading",
+      "published_at": "2026-04-17T16:45:48Z",
+      "description": "",
+      "duration": "PT1M26S",
+      "tags": [],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "tsmteDAwhkM",
+      "title": "Why Chasing Money Is Killing Your Trading",
+      "published_at": "2026-04-16T15:44:39Z",
+      "description": "",
+      "duration": "PT44S",
+      "tags": [],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "C6oqv9JBfs4",
+      "title": "10 Reasons I Became Consistently Profitable",
+      "published_at": "2026-04-15T18:20:08Z",
+      "description": "",
+      "duration": "PT2M6S",
+      "tags": [],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "sh5h0GJzjNk",
+      "title": "I Automated My Pre-Market Research With AI (Here's How)",
+      "published_at": "2026-04-14T20:00:41Z",
+      "description": "Learn the top 3 trade setups we are using on the desk here: https://bit.ly/4tbCZvt\n\nPrompts: https://www.smbtraining.com/blog/i-automated-my-pre-market-research-with-ai-heres-how\n\n#claude  #daytrading  #ai\n\n*SMB Disclosures* https://www.smbtraining.com/blog/smb-disclosures",
+      "duration": "PT17M54S",
+      "tags": [
+        "stock market",
+        "day trading",
+        "smb capital",
+        "trading",
+        "investing",
+        "markets",
+        "wall street",
+        "stock trading",
+        "options trading",
+        "options income",
+        "economics",
+        "finance"
+      ],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "J56Fa9SKnvE",
+      "title": "Should you quit? #daytrading",
+      "published_at": "2026-04-10T18:42:00Z",
+      "description": "",
+      "duration": "PT1M11S",
+      "tags": [],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "vR_3EDRzQM8",
+      "title": "THE TRADING EDGE TEST #trading",
+      "published_at": "2026-04-09T14:06:47Z",
+      "description": "",
+      "duration": "PT1M4S",
+      "tags": [],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "K2e1Sdpfv7s",
+      "title": "Surprising Advice From World\u2019s #1 Trading Psychologist (Dr. Steenbarger)",
+      "published_at": "2026-04-08T20:00:14Z",
+      "description": "SMB Inside Access: https://bit.ly/4sx8Ju0\nDr. Steenbarger's new book: https://amzn.to/4viC5P3\n\n#tradingpsychology  #stockmarket #daytrading \n \n00:00 Introduction \u2013 You Are Meant for Greatness\n00:36 Leveraging Your Strengths in Trading\n02:14 The Importance of Teamwork & Community\n04:19 Positive Trading Psychology Explained\n05:38 Why Training & Repetition Matter\n09:04 Emotional Arousal and Making Real Change\n12:30 Journaling the Right Way (Focus on Wins)\n14:59 Goals vs Vision in Trading\n17:10 The 90-Day Rule for Lasting Improvement\n19:05 Core Traits of Successful Traders\n27:26 Daily Review System for Growth\n30:31 Life Balance and Trading Performance\n38:06 Q&A \u2013 Losses, Mindset & Growth\n59:03 Closing Remarks\n\n*SMB Disclosures* https://www.smbtraining.com/blog/smb-disclosures",
+      "duration": "PT59M23S",
+      "tags": [
+        "stock market",
+        "day trading",
+        "smb capital",
+        "trading",
+        "investing",
+        "markets",
+        "wall street",
+        "stock trading",
+        "options trading",
+        "options income",
+        "economics",
+        "finance"
+      ],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [
+          "stock"
+        ],
+        "timeframes_mentioned": [
+          "daily"
+        ],
+        "techniques_mentioned": [
+          "ema"
+        ]
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "98Ofc2f78Q4",
+      "title": "You\u2019ll Fail at Trading Until\u2026",
+      "published_at": "2026-04-06T19:13:44Z",
+      "description": "",
+      "duration": "PT50S",
+      "tags": [],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "X7dRa0GAln4",
+      "title": "I Built a Trading Scanner With AI (No Coding)",
+      "published_at": "2026-04-06T17:47:49Z",
+      "description": "",
+      "duration": "PT59S",
+      "tags": [],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "JddKb9XyOqk",
+      "title": "5 Signs You're About to Become a Profitable Trader",
+      "published_at": "2026-04-04T12:00:35Z",
+      "description": "SMB Scalping Radar: https://bit.ly/4vbYVI7 \n\n#scalpingstrategy  #stockmarket #daytrading\n\n*SMB Disclosures* https://www.smbtraining.com/blog/smb-disclosures",
+      "duration": "PT14M45S",
+      "tags": [
+        "stock market",
+        "day trading",
+        "smb capital",
+        "trading",
+        "investing",
+        "markets",
+        "wall street",
+        "stock trading",
+        "options trading",
+        "options income",
+        "economics",
+        "finance"
+      ],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [
+          "scalping"
+        ],
+        "assets_mentioned": [
+          "stock"
+        ],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "VIAhIzlFi5E",
+      "title": "This Breakout Rule Is Costing You Money",
+      "published_at": "2026-04-02T16:07:59Z",
+      "description": "Are you skipping breakout trades just because the stock isn\u2019t already trending?\n\nFULL PODCAST: https://youtu.be/afDpTJ6I3gA",
+      "duration": "PT32S",
+      "tags": [],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [
+          "breakout_trading"
+        ],
+        "assets_mentioned": [
+          "stock"
+        ],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "afDpTJ6I3gA",
+      "title": "Best Earnings Trading Strategy (With step by step setups)",
+      "published_at": "2026-04-01T20:00:00Z",
+      "description": "Learn the top 3 trade setups we are using on the desk here: http://smbu.com/YouTube\n\n#smbcapital #stockmarket #daytrading\n\n*SMB Disclosures* https://www.smbtraining.com/blog/smb-disclosures",
+      "duration": "PT47M4S",
+      "tags": [
+        "stock market",
+        "day trading",
+        "smb capital",
+        "trading",
+        "investing",
+        "markets",
+        "wall street",
+        "stock trading",
+        "options trading",
+        "options income",
+        "economics",
+        "finance"
+      ],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [
+          "stock"
+        ],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "TdriNrySqKQ",
+      "title": "5 Signs You're Improving As A Trader #trading",
+      "published_at": "2026-04-01T15:59:30Z",
+      "description": "",
+      "duration": "PT47S",
+      "tags": [],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "Rqmdw4xyIMM",
+      "title": "How to use Claude To Gain a Huge Day Trading Edge",
+      "published_at": "2026-03-31T20:00:00Z",
+      "description": "SMB Scalping Course: https://bit.ly/3PCnVrW\n\nAI Prompts: https://www.smbtraining.com/blog/ai-trading-prompts-from-the-video-5-best-practices-for-using-claude-in-trading\n\n#ai  #stockmarket #daytrading\n\n*SMB Disclosures* https://www.smbtraining.com/blog/smb-disclosures",
+      "duration": "PT42M31S",
+      "tags": [
+        "stock market",
+        "day trading",
+        "smb capital",
+        "trading",
+        "investing",
+        "markets",
+        "wall street",
+        "stock trading",
+        "options trading",
+        "options income",
+        "economics",
+        "finance"
+      ],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [
+          "day_trading",
+          "scalping"
+        ],
+        "assets_mentioned": [
+          "stock"
+        ],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    },
+    {
+      "video_id": "Y-TmmMTq6Pk",
+      "title": "This AI Finds My Trades Before the Market Opens",
+      "published_at": "2026-03-31T17:01:12Z",
+      "description": "",
+      "duration": "PT1M15S",
+      "tags": [],
+      "transcript_available": false,
+      "insights": {
+        "strategy_types": [],
+        "assets_mentioned": [],
+        "timeframes_mentioned": [],
+        "techniques_mentioned": []
+      },
+      "transcript_segments": []
+    }
+  ],
+  "summary": {
+    "total_videos": 20,
+    "videos_with_transcripts": 0,
+    "videos_with_insights": 20,
+    "total_segments": [
+      {
+        "video_id": "bfCTZNWBnAc",
+        "title": "How I'd Use AI As A New Trader In 2026",
+        "published_at": "2026-04-28T19:00:58Z",
+        "description": "",
+        "duration": "PT1M29S",
+        "tags": [],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "45eaVU5NVi8",
+        "title": "The Simple 4-Step Process To Build Your Own AI Trading Assistant With Claude (for Beginners)",
+        "published_at": "2026-04-25T12:00:11Z",
+        "description": "Learn the top 3 trade setups we are using on the desk here: https://bit.ly/4sQV0Ov\n\n00:00 Intro: From Zero to AI Trading Assistant\n01:13 Podcast Begins: Why This Matters for Traders\n02:41 The Big Idea: It\u2019s Not About the Dashboard\n04:21 The 4-Step Framework Overview\n05:01 Step 1: Plan Mode (Where Most People Mess Up)\n09:07 Step 2: Build Mode (Let AI Do the Work)\n23:20 Step 3: Personalization (Make It Yours)\n24:59 Step 4: Automate Your Daily Routine\n28:24 Live Demo: AI Trading Dashboard in Action\n37:13 The Trap: Don\u2019t Overcomplicate This\n43:12 The Real Edge: Data Quality & Simplicity\n\n#claude  #claudecode #daytrading\n\n*SMB Disclosures* https://www.smbtraining.com/blog/smb-disclosures",
+        "duration": "PT46M5S",
+        "tags": [
+          "stock market",
+          "day trading",
+          "smb capital",
+          "trading",
+          "investing",
+          "markets",
+          "wall street",
+          "stock trading",
+          "options trading",
+          "options income",
+          "economics",
+          "finance"
+        ],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [
+            "daily"
+          ],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "Pjc61JeH_7I",
+        "title": "Little day trading secret",
+        "published_at": "2026-04-21T18:00:46Z",
+        "description": "",
+        "duration": "PT55S",
+        "tags": [],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [
+            "day_trading"
+          ],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "2yfgwWYCmD0",
+        "title": "The most perfect setup #trading",
+        "published_at": "2026-04-21T15:25:30Z",
+        "description": "",
+        "duration": "PT44S",
+        "tags": [],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "mssPkDuQnmY",
+        "title": "How To Build Your Own Claude AI Trading Assistant (Easy For Beginners)",
+        "published_at": "2026-04-18T12:01:23Z",
+        "description": "Access SMB's Meetings: https://bit.ly/3OnL9BQ\n\n00:00 Intro: Most Traders Use AI Wrong\n01:43 Trading Floor Podcast Episode 15 Begins\n02:46 Justin\u2019s AI-Generated Morning Brief\n04:01 How He Built It With Almost No Coding Experience\n05:01 The Moment AI Clicked\n06:10 Why This Matters for Retail Traders\n09:12 How Beginners Should Start Building With AI\n12:17 Why AI Feels Different Now\n17:21 How to Personalize AI to Your Trading Style\n22:23 The Data Problem for Retail Traders\n23:22 How Retail Traders Can Still Build Useful Tools\n26:28 Using Public Data Sources and Earnings Info\n28:57 From Manual Coding Pain to AI Speed\n30:11 Tim on Using AI After Years of Coding by Hand\n33:18 The Real Process: Prompt, Refine, Repeat\n34:18 Asking AI for Better Approaches\n40:35 What the Tool Actually Saves: Time and Attention\n43:28 Using AI to Build Custom Studies and Indicators\n49:52 Fast Backtesting and Strategy Iteration\n51:56 Closing Thoughts\n52:09 Why This Topic Is Only Getting Bigger\n\n#claude  #aitrading  #daytrading\n\n*SMB Disclosures* https://www.smbtraining.com/blog/smb-disclosures",
+        "duration": "PT53M4S",
+        "tags": [
+          "stock market",
+          "day trading",
+          "smb capital",
+          "trading",
+          "investing",
+          "markets",
+          "wall street",
+          "stock trading",
+          "options trading",
+          "options income",
+          "economics",
+          "finance"
+        ],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [
+            "backtesting"
+          ],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "Qj5diAo8nYY",
+        "title": "We\u2019ve all been there\u2026 #trading",
+        "published_at": "2026-04-17T16:45:48Z",
+        "description": "",
+        "duration": "PT1M26S",
+        "tags": [],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "tsmteDAwhkM",
+        "title": "Why Chasing Money Is Killing Your Trading",
+        "published_at": "2026-04-16T15:44:39Z",
+        "description": "",
+        "duration": "PT44S",
+        "tags": [],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "C6oqv9JBfs4",
+        "title": "10 Reasons I Became Consistently Profitable",
+        "published_at": "2026-04-15T18:20:08Z",
+        "description": "",
+        "duration": "PT2M6S",
+        "tags": [],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "sh5h0GJzjNk",
+        "title": "I Automated My Pre-Market Research With AI (Here's How)",
+        "published_at": "2026-04-14T20:00:41Z",
+        "description": "Learn the top 3 trade setups we are using on the desk here: https://bit.ly/4tbCZvt\n\nPrompts: https://www.smbtraining.com/blog/i-automated-my-pre-market-research-with-ai-heres-how\n\n#claude  #daytrading  #ai\n\n*SMB Disclosures* https://www.smbtraining.com/blog/smb-disclosures",
+        "duration": "PT17M54S",
+        "tags": [
+          "stock market",
+          "day trading",
+          "smb capital",
+          "trading",
+          "investing",
+          "markets",
+          "wall street",
+          "stock trading",
+          "options trading",
+          "options income",
+          "economics",
+          "finance"
+        ],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "J56Fa9SKnvE",
+        "title": "Should you quit? #daytrading",
+        "published_at": "2026-04-10T18:42:00Z",
+        "description": "",
+        "duration": "PT1M11S",
+        "tags": [],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "vR_3EDRzQM8",
+        "title": "THE TRADING EDGE TEST #trading",
+        "published_at": "2026-04-09T14:06:47Z",
+        "description": "",
+        "duration": "PT1M4S",
+        "tags": [],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "K2e1Sdpfv7s",
+        "title": "Surprising Advice From World\u2019s #1 Trading Psychologist (Dr. Steenbarger)",
+        "published_at": "2026-04-08T20:00:14Z",
+        "description": "SMB Inside Access: https://bit.ly/4sx8Ju0\nDr. Steenbarger's new book: https://amzn.to/4viC5P3\n\n#tradingpsychology  #stockmarket #daytrading \n \n00:00 Introduction \u2013 You Are Meant for Greatness\n00:36 Leveraging Your Strengths in Trading\n02:14 The Importance of Teamwork & Community\n04:19 Positive Trading Psychology Explained\n05:38 Why Training & Repetition Matter\n09:04 Emotional Arousal and Making Real Change\n12:30 Journaling the Right Way (Focus on Wins)\n14:59 Goals vs Vision in Trading\n17:10 The 90-Day Rule for Lasting Improvement\n19:05 Core Traits of Successful Traders\n27:26 Daily Review System for Growth\n30:31 Life Balance and Trading Performance\n38:06 Q&A \u2013 Losses, Mindset & Growth\n59:03 Closing Remarks\n\n*SMB Disclosures* https://www.smbtraining.com/blog/smb-disclosures",
+        "duration": "PT59M23S",
+        "tags": [
+          "stock market",
+          "day trading",
+          "smb capital",
+          "trading",
+          "investing",
+          "markets",
+          "wall street",
+          "stock trading",
+          "options trading",
+          "options income",
+          "economics",
+          "finance"
+        ],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [
+            "stock"
+          ],
+          "timeframes_mentioned": [
+            "daily"
+          ],
+          "techniques_mentioned": [
+            "ema"
+          ]
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "98Ofc2f78Q4",
+        "title": "You\u2019ll Fail at Trading Until\u2026",
+        "published_at": "2026-04-06T19:13:44Z",
+        "description": "",
+        "duration": "PT50S",
+        "tags": [],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "X7dRa0GAln4",
+        "title": "I Built a Trading Scanner With AI (No Coding)",
+        "published_at": "2026-04-06T17:47:49Z",
+        "description": "",
+        "duration": "PT59S",
+        "tags": [],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "JddKb9XyOqk",
+        "title": "5 Signs You're About to Become a Profitable Trader",
+        "published_at": "2026-04-04T12:00:35Z",
+        "description": "SMB Scalping Radar: https://bit.ly/4vbYVI7 \n\n#scalpingstrategy  #stockmarket #daytrading\n\n*SMB Disclosures* https://www.smbtraining.com/blog/smb-disclosures",
+        "duration": "PT14M45S",
+        "tags": [
+          "stock market",
+          "day trading",
+          "smb capital",
+          "trading",
+          "investing",
+          "markets",
+          "wall street",
+          "stock trading",
+          "options trading",
+          "options income",
+          "economics",
+          "finance"
+        ],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [
+            "scalping"
+          ],
+          "assets_mentioned": [
+            "stock"
+          ],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "VIAhIzlFi5E",
+        "title": "This Breakout Rule Is Costing You Money",
+        "published_at": "2026-04-02T16:07:59Z",
+        "description": "Are you skipping breakout trades just because the stock isn\u2019t already trending?\n\nFULL PODCAST: https://youtu.be/afDpTJ6I3gA",
+        "duration": "PT32S",
+        "tags": [],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [
+            "breakout_trading"
+          ],
+          "assets_mentioned": [
+            "stock"
+          ],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "afDpTJ6I3gA",
+        "title": "Best Earnings Trading Strategy (With step by step setups)",
+        "published_at": "2026-04-01T20:00:00Z",
+        "description": "Learn the top 3 trade setups we are using on the desk here: http://smbu.com/YouTube\n\n#smbcapital #stockmarket #daytrading\n\n*SMB Disclosures* https://www.smbtraining.com/blog/smb-disclosures",
+        "duration": "PT47M4S",
+        "tags": [
+          "stock market",
+          "day trading",
+          "smb capital",
+          "trading",
+          "investing",
+          "markets",
+          "wall street",
+          "stock trading",
+          "options trading",
+          "options income",
+          "economics",
+          "finance"
+        ],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [
+            "stock"
+          ],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "TdriNrySqKQ",
+        "title": "5 Signs You're Improving As A Trader #trading",
+        "published_at": "2026-04-01T15:59:30Z",
+        "description": "",
+        "duration": "PT47S",
+        "tags": [],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "Rqmdw4xyIMM",
+        "title": "How to use Claude To Gain a Huge Day Trading Edge",
+        "published_at": "2026-03-31T20:00:00Z",
+        "description": "SMB Scalping Course: https://bit.ly/3PCnVrW\n\nAI Prompts: https://www.smbtraining.com/blog/ai-trading-prompts-from-the-video-5-best-practices-for-using-claude-in-trading\n\n#ai  #stockmarket #daytrading\n\n*SMB Disclosures* https://www.smbtraining.com/blog/smb-disclosures",
+        "duration": "PT42M31S",
+        "tags": [
+          "stock market",
+          "day trading",
+          "smb capital",
+          "trading",
+          "investing",
+          "markets",
+          "wall street",
+          "stock trading",
+          "options trading",
+          "options income",
+          "economics",
+          "finance"
+        ],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [
+            "day_trading",
+            "scalping"
+          ],
+          "assets_mentioned": [
+            "stock"
+          ],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      },
+      {
+        "video_id": "Y-TmmMTq6Pk",
+        "title": "This AI Finds My Trades Before the Market Opens",
+        "published_at": "2026-03-31T17:01:12Z",
+        "description": "",
+        "duration": "PT1M15S",
+        "tags": [],
+        "transcript_available": false,
+        "insights": {
+          "strategy_types": [],
+          "assets_mentioned": [],
+          "timeframes_mentioned": [],
+          "techniques_mentioned": []
+        },
+        "transcript_segments": []
+      }
+    ]
+  }
+}

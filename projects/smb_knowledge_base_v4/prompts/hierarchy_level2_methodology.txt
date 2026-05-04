@@ -1,0 +1,75 @@
+# SMB Knowledge Base v4.0 - Hierarchy Level 2: Methodology
+
+Analyze this content for trading methodology - the actual framework that translates philosophy into action.
+
+## Focus Areas
+
+1. **Methodology Framework**
+   - What steps does the trader follow?
+   - How do they identify opportunities?
+   - What's their decision-making process?
+
+2. **Technical Analysis Approach**
+   - What indicators do they prioritize?
+   - How do they use price action?
+   - What's their chart analysis methodology?
+
+3. **Setup Identification**
+   - What patterns do they look for?
+   - How do they confirm setups?
+   - What's their filter criteria?
+
+## Extraction Question
+
+**From this content, what is the trader's step-by-step methodology?**
+
+Return your analysis as a structured methodology that can be implemented.
+
+## Key Indicators to Look For
+
+- Specific indicators mentioned (RSI, MACD, volume profile, etc.)
+- Confirmation criteria for entries
+- Filter rules that exclude certain setups
+- The logical sequence of decisions
+
+## Output Format
+
+```
+{
+  "methodology_name": "Methodology Name",
+  "step_by_step": [
+    "Step 1: Market context assessment",
+    "Step 2: Setup identification",
+    "Step 3: Confirmation criteria"
+  ],
+  "preferred_indicators": ["indicator1", "indicator2"],
+  "entryConfirmation": {
+    "minimum_conditions": 2,
+    "required_conditions": ["condition1", "condition2"]
+  },
+  "setup_preference": "breakout|reversal|continuation|range"
+}
+```
+
+## Example
+
+Input: "First I check the overall market trend. Then I look for consolidation patterns on the 15m chart. I wait for a breakout with volume spike. My RSI should be between 40-70."
+
+Output:
+```json
+{
+  "methodology_name": "Trend-Following Breakout",
+  "step_by_step": [
+    "Assess overall market trend",
+    "Identify consolidation on 15m chart",
+    "Wait for breakout with volume spike",
+    "Verify RSI is 40-70"
+  ],
+  "preferred_indicators": ["volume", "RSI"],
+  "entryConfirmation": {
+    "minimum_conditions": 3,
+    "required_conditions": ["breakout", "volume_spike", "rsi_range"]
+  },
+  "setup_preference": "breakout"
+}
+```

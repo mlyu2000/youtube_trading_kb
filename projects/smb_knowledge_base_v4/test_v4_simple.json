@@ -1,0 +1,50 @@
+{
+  "id": "test_video",
+  "name": "Test Day Trading Strategy",
+  "description": "A test strategy with detailed description exceeding fifty characters requirement",
+  "trading_style": "day_trading",
+  "primary_regime": "trended_bull",
+  "secondary_regimes": [
+    "consolidation"
+  ],
+  "timeframes": [
+    "15m",
+    "1h"
+  ],
+  "assets": [
+    "SPY",
+    "QQQ"
+  ],
+  "confidence": 0.85,
+  "edge_score": 75,
+  "validation_status": "validated",
+  "risk_model": {
+    "position_size_percent": 5.0,
+    "stop_loss_type": "fixed",
+    "stop_loss_value": 0.01,
+    "take_profit_type": "rr_multiple",
+    "take_profit_value": 2.0,
+    "max_drawdown_acceptable": 5.0,
+    "risk_per_trade_percent": 1.0
+  },
+  "entry_rules": [
+    {
+      "description": "Price breaks above resistance with volume confirmation",
+      "type": "entry"
+    }
+  ],
+  "exit_rules": [
+    {
+      "description": "Stop loss at 1% or profit target at 2x risk",
+      "type": "exit"
+    }
+  ],
+  "setup_patterns": [
+    {
+      "name": "Bullish Flag",
+      "description": "Consolidation pattern",
+      "type": "pattern"
+    }
+  ],
+  "created_at": "2026-05-03T08:30:00Z"
+}
